@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context=".abcd.kalima6">
+    tools:context=".dateconverter.abcd.kalima6">
 
     <LinearLayout
         android:id="@+id/toolbar"

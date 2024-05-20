@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".abcd.morefrag.Dhikr9Fragment">
+    tools:context=".dateconverter.abcd.morefrag.Dhikr9Fragment">
 
     <ScrollView
         android:layout_width="match_parent"

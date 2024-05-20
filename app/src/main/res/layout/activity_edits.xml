@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context=".abcd.EditsActivity">
+    tools:context=".dateconverter.abcd.EditsActivity">
 
     <LinearLayout
         android:layout_width="match_parent"

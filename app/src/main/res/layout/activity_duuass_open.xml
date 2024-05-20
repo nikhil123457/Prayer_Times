@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context=".abcd.Duuass_open">
+    tools:context=".dateconverter.abcd.Duuass_open">
 
     <LinearLayout
         android:id="@+id/toolbar"

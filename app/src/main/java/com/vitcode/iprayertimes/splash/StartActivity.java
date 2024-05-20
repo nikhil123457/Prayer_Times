@@ -14,7 +14,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.browser.customtabs.CustomTabsIntent;
 
 import com.vitcode.iprayertimes.R;
-import com.vitcode.iprayertimes.abcd.Homee;
+import com.vitcode.iprayertimes.dateconverter.abcd.Homee;
 import com.vitcode.iprayertimes.databinding.ActivityStartBinding;
 
 public class StartActivity extends AppCompatActivity {
