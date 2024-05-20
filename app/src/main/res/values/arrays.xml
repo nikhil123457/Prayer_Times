@@ -1,0 +1,1193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="eng_chapters">
+        <item>Juz 1</item>
+        <item>Juz 2</item>
+        <item>Juz 3</item>
+        <item>Juz 4</item>
+        <item>Juz 5</item>
+        <item>Juz 6</item>
+        <item>Juz 7</item>
+        <item>Juz 8</item>
+        <item>Juz 9</item>
+        <item>Juz 10</item>
+        <item>Juz 11</item>
+        <item>Juz 12</item>
+        <item>Juz 13</item>
+        <item>Juz 14</item>
+        <item>Juz 15</item>
+        <item>Juz 16</item>
+        <item>Juz 17</item>
+        <item>Juz 18</item>
+        <item>Juz 19</item>
+        <item>Juz 20</item>
+        <item>Juz 21</item>
+        <item>Juz 22</item>
+        <item>Juz 23</item>
+        <item>Juz 24</item>
+        <item>Juz 25</item>
+        <item>Juz 26</item>
+        <item>Juz 27</item>
+        <item>Juz 28</item>
+        <item>Juz 29</item>
+        <item>Juz 30</item>
+    </array>
+    <array name="noOfVerses">
+        <item>7</item>
+        <item>286</item>
+        <item>200</item>
+        <item>176</item>
+        <item>120</item>
+        <item>165</item>
+        <item>206</item>
+        <item>75</item>
+        <item>129</item>
+        <item>109</item>
+        <item>123</item>
+        <item>111</item>
+        <item>43</item>
+        <item>52</item>
+        <item>99</item>
+        <item>128</item>
+        <item>111</item>
+        <item>110</item>
+        <item>98</item>
+        <item>135</item>
+        <item>112</item>
+        <item>78</item>
+        <item>118</item>
+        <item>64</item>
+        <item>77</item>
+        <item>227</item>
+        <item>93</item>
+        <item>88</item>
+        <item>69</item>
+        <item>60</item>
+        <item>34</item>
+        <item>30</item>
+        <item>73</item>
+        <item>54</item>
+        <item>45</item>
+        <item>83</item>
+        <item>182</item>
+        <item>88</item>
+        <item>75</item>
+        <item>85</item>
+        <item>54</item>
+        <item>53</item>
+        <item>89</item>
+        <item>59</item>
+        <item>37</item>
+        <item>35</item>
+        <item>38</item>
+        <item>29</item>
+        <item>18</item>
+        <item>45</item>
+        <item>60</item>
+        <item>49</item>
+        <item>62</item>
+        <item>55</item>
+        <item>78</item>
+        <item>96</item>
+        <item>29</item>
+        <item>22</item>
+        <item>24</item>
+        <item>13</item>
+        <item>14</item>
+        <item>11</item>
+        <item>11</item>
+        <item>18</item>
+        <item>12</item>
+        <item>12</item>
+        <item>30</item>
+        <item>52</item>
+        <item>52</item>
+        <item>44</item>
+        <item>28</item>
+        <item>28</item>
+        <item>20</item>
+        <item>56</item>
+        <item>40</item>
+        <item>31</item>
+        <item>50</item>
+        <item>40</item>
+        <item>46</item>
+        <item>42</item>
+        <item>29</item>
+        <item>19</item>
+        <item>36</item>
+        <item>25</item>
+        <item>22</item>
+        <item>17</item>
+        <item>19</item>
+        <item>26</item>
+        <item>30</item>
+        <item>20</item>
+        <item>15</item>
+        <item>21</item>
+        <item>11</item>
+        <item>8</item>
+        <item>8</item>
+        <item>19</item>
+        <item>5</item>
+        <item>8</item>
+        <item>8</item>
+        <item>11</item>
+        <item>11</item>
+        <item>8</item>
+        <item>3</item>
+        <item>9</item>
+        <item>5</item>
+        <item>4</item>
+        <item>7</item>
+        <item>3</item>
+        <item>6</item>
+        <item>3</item>
+        <item>5</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </array>
+    <array name="revealedPlaces">
+        <item>Makki</item>
+        <item>Madani</item>
+        <item>Madani</item>
+        <item>Madani</item>
+        <item>Madani</item>
+        <item>Makki</item>
+        <item>Makki</item>
+        <item>Madani</item>
+        <item>Madani</item>
+        <item>Makki</item>
+        <item>Makki</item>
+        <item>Makki</item>
+        <item>Madani</item>
+        <item>Makki</item>
+        <item>Makki</item>
+        <item>Makki</item>
+        <item>Makki</item>
+        <item>Makki</item>
+        <item>Makki</item>
+        <item>Makki</item>
+        <item>Makki</item>
+        <item>Madani</item>
+        <item>Makki</item>
+        <item>Madani</item>
+        <item>Makki</item>
+        <item>Makki</item>
+        <item>Makki</item>
+        <item>Makki</item>
+        <item>Makki</item>
+        <item>Makki</item>
+        <item>Makki</item>
+        <item>Makki</item>
+        <item>Madani</item>
+        <item>Makki</item>
+        <item>Makki</item>
+        <item>Makki</item>
+        <item>Makki</item>
+        <item>Makki</item>
+        <item>Makki</item>
+        <item>Makki</item>
+        <item>Makki</item>
+        <item>Makki</item>
+        <item>Makki</item>
+        <item>Makki</item>
+        <item>Makki</item>
+        <item>Makki</item>
+        <item>Madani</item>
+        <item>Madani</item>
+        <item>Madani</item>
+        <item>Makki</item>
+        <item>Makki</item>
+        <item>Makki</item>
+        <item>Makki</item>
+        <item>Makki</item>
+        <item>Madani</item>
+        <item>Makki</item>
+        <item>Madani</item>
+        <item>Madani</item>
+        <item>Madani</item>
+        <item>Madani</item>
+        <item>Madani</item>
+        <item>Madani</item>
+        <item>Madani</item>
+        <item>Madani</item>
+        <item>Madani</item>
+        <item>Madani</item>
+        <item>Makki</item>
+        <item>Makki</item>
+        <item>Makki</item>
+        <item>Makki</item>
+        <item>Makki</item>
+        <item>Makki</item>
+        <item>Makki</item>
+        <item>Makki</item>
+        <item>Makki</item>
+        <item>Madani</item>
+        <item>Makki</item>
+        <item>Makki</item>
+        <item>Makki</item>
+        <item>Makki</item>
+        <item>Makki</item>
+        <item>Makki</item>
+        <item>Makki</item>
+        <item>Makki</item>
+        <item>Makki</item>
+        <item>Makki</item>
+        <item>Makki</item>
+        <item>Makki</item>
+        <item>Makki</item>
+        <item>Makki</item>
+        <item>Makki</item>
+        <item>Makki</item>
+        <item>Makki</item>
+        <item>Makki</item>
+        <item>Makki</item>
+        <item>Makki</item>
+        <item>Makki</item>
+        <item>Madani</item>
+        <item>Madani</item>
+        <item>Makki</item>
+        <item>Makki</item>
+        <item>Makki</item>
+        <item>Makki</item>
+        <item>Makki</item>
+        <item>Makki</item>
+        <item>Makki</item>
+        <item>Makki</item>
+        <item>Makki</item>
+        <item>Makki</item>
+        <item>Madani</item>
+        <item>Makki</item>
+        <item>Makki</item>
+        <item>Makki</item>
+        <item>Makki</item>
+    </array>
+    <array name="surahNamesArabic">
+        <item>الفاتحة</item>
+        <item>البقرة</item>
+        <item>آل عمران</item>
+        <item>النساء</item>
+        <item>المائدة</item>
+        <item>الأنعام</item>
+        <item>الأعراف</item>
+        <item>الأنفال</item>
+        <item>التوبة</item>
+        <item>يونس</item>
+        <item>هود</item>
+        <item>يوسف</item>
+        <item>الرّعد</item>
+        <item>إبراهيم</item>
+        <item>الحجر</item>
+        <item>النحل</item>
+        <item>الإسراء</item>
+        <item>الكهف</item>
+        <item>مريم</item>
+        <item>طه</item>
+        <item>الأنبياء</item>
+        <item>الحج</item>
+        <item>المؤمنون</item>
+        <item>النّور</item>
+        <item>الفرقان</item>
+        <item>الشعراء</item>
+        <item>النمل</item>
+        <item>القصص</item>
+        <item>العنكبوت</item>
+        <item>الروم</item>
+        <item>لقمان</item>
+        <item>السجدة</item>
+        <item>الأحزاب</item>
+        <item>سبإ</item>
+        <item>فاطر</item>
+        <item>يس</item>
+        <item>الصّافّات</item>
+        <item>ص</item>
+        <item>الزمر</item>
+        <item>غافر</item>
+        <item>فصّلت</item>
+        <item>الشورى</item>
+        <item>الزخرف</item>
+        <item>الدخان</item>
+        <item>الجاثية</item>
+        <item>الأحقاف</item>
+        <item>محمّـد</item>
+        <item>الفتح</item>
+        <item>الحُـجُـرات</item>
+        <item>ق</item>
+        <item>الذاريات</item>
+        <item>الـطور</item>
+        <item>النجم</item>
+        <item>الـقمـر</item>
+        <item>الـرحـمـن</item>
+        <item>الواقِعَة‎</item>
+        <item>الحـديد</item>
+        <item>الـمجادلـة</item>
+        <item>الـحـشـر</item>
+        <item>الـمـمـتـحنة</item>
+        <item>الـصّـف</item>
+        <item>الـجـمـعـة</item>
+        <item>الـمنافقون</item>
+        <item>الـتغابن</item>
+        <item>الـطلاق</item>
+        <item>الـتحريم</item>
+        <item>الـملك</item>
+        <item>الـقـلـم</item>
+        <item>الـحاقّـة</item>
+        <item>الـمعارج</item>
+        <item>نوح</item>
+        <item>الجن</item>
+        <item>الـمـزّمّـل</item>
+        <item>الـمّـدّثّـر</item>
+        <item>الـقـيامـة</item>
+        <item>الإنسان</item>
+        <item>الـمرسلات</item>
+        <item>الـنبإ</item>
+        <item>الـنازعات</item>
+        <item>عبس</item>
+        <item>التكوير</item>
+        <item>الانفطار</item>
+        <item>المطـفـفين</item>
+        <item>الانشقاق</item>
+        <item>البروج</item>
+        <item>الـطارق</item>
+        <item>الأعـلى</item>
+        <item>الغاشـيـة</item>
+        <item>الفجر</item>
+        <item>الـبلد</item>
+        <item>الـشـمـس</item>
+        <item>اللـيـل</item>
+        <item>الضـحى</item>
+        <item>الـشرح</item>
+        <item>الـتين</item>
+        <item>الـعلق</item>
+        <item>الـقدر</item>
+        <item>الـبينة</item>
+        <item>الـزلزلة</item>
+        <item>الـعاديات</item>
+        <item>الـقارعـة</item>
+        <item>الـتكاثر</item>
+        <item>الـعصر</item>
+        <item>الـهمزة</item>
+        <item>الـفيل</item>
+        <item>قريش</item>
+        <item>المـاعون</item>
+        <item>الـكوثر</item>
+        <item>الـكافرون</item>
+        <item>الـنصر</item>
+        <item>الـمسد</item>
+        <item>الإخلاص</item>
+        <item>الـفلق</item>
+        <item>الـناس</item>
+    </array>
+    <array name="surah_names">
+        <item>Al-Fatihah</item>
+        <item>Al-Baqarah</item>
+        <item>Aal-e-Imran</item>
+        <item>An-Nisa</item>
+        <item>Al-Maidah</item>
+        <item>Al-Anam</item>
+        <item>Al-Araf</item>
+        <item>Al-Anfal</item>
+        <item>At-Taubah</item>
+        <item>Yunus</item>
+        <item>Hud</item>
+        <item>Yusuf</item>
+        <item>Ar-Rad</item>
+        <item>Ibrahim</item>
+        <item>Al-Hijr</item>
+        <item>An-Nahl</item>
+        <item>Al-Israa</item>
+        <item>Al-Kahf</item>
+        <item>Maryam</item>
+        <item>Ta Ha</item>
+        <item>Al-Anbiya</item>
+        <item>Al-Hajj</item>
+        <item>Al-Muminun</item>
+        <item>An-Nur</item>
+        <item>Al-Furqan</item>
+        <item>Ash-Shuara</item>
+        <item>An-Naml</item>
+        <item>Al-Qasas</item>
+        <item>Al-Ankabut</item>
+        <item>Ar-Rum</item>
+        <item>Luqman</item>
+        <item>As-Sajdah</item>
+        <item>Al-Ahzab</item>
+        <item>Saba</item>
+        <item>Fatir</item>
+        <item>Ya Sin</item>
+        <item>As-Saffat</item>
+        <item>Sad</item>
+        <item>Az-Zumar</item>
+        <item>Ghafir</item>
+        <item>Fussilat</item>
+        <item>Ash-Shura</item>
+        <item>Az-Zukhruf</item>
+        <item>Ad-Dukhan</item>
+        <item>Al-Jathiyah</item>
+        <item>Al-Ahqaf</item>
+        <item>Muhammad</item>
+        <item>Al-Fath</item>
+        <item>Al-Hujurat</item>
+        <item>Qaf</item>
+        <item>Ad-Dhariyat</item>
+        <item>At-Tur</item>
+        <item>An-Najm</item>
+        <item>Al-Qamar</item>
+        <item>Ar-Rahman</item>
+        <item>Al-Waqiah</item>
+        <item>Al-Hadid</item>
+        <item>Al-Mujadilah</item>
+        <item>Al-Hashr</item>
+        <item>Al-Mumtahanah</item>
+        <item>As-Saff</item>
+        <item>Al-Jumuah</item>
+        <item>Al-Munafiqun</item>
+        <item>At-Taghabun</item>
+        <item>At-Talaq</item>
+        <item>At-Tahrim</item>
+        <item>Al-Mulk</item>
+        <item>Al-Qalam</item>
+        <item>Al-Haqqah</item>
+        <item>Al-Maarij</item>
+        <item>Nuh</item>
+        <item>Al-Jinn</item>
+        <item>Al-Muzzammil</item>
+        <item>Al-Muddaththir</item>
+        <item>Al-Qiyamah</item>
+        <item>Al-Insan</item>
+        <item>Al-Mursalat</item>
+        <item>An-Naba</item>
+        <item>An-Naziat</item>
+        <item>Abasa</item>
+        <item>At-Takwir</item>
+        <item>Al-Infitar</item>
+        <item>Al-Mutaffifin</item>
+        <item>Al-Inshiqaq</item>
+        <item>Al-Buruj</item>
+        <item>At-Tariq</item>
+        <item>Al-Ala</item>
+        <item>Al-Ghashiyah</item>
+        <item>Al-Fajr</item>
+        <item>Al-Balad</item>
+        <item>Ash-Shams</item>
+        <item>Al-Lail</item>
+        <item>Ad-Duha</item>
+        <item>Ash-Sharhh</item>
+        <item>At-Tin</item>
+        <item>Al-Alaq</item>
+        <item>Al-Qadr</item>
+        <item>Al-Bayyinah</item>
+        <item>Al-Zilzala</item>
+        <item>Al-Adiyat</item>
+        <item>Al-Qariah</item>
+        <item>At-Takathur</item>
+        <item>Al-Asr</item>
+        <item>Al-Humazah</item>
+        <item>Al-Fil</item>
+        <item>Quraish</item>
+        <item>Al-Maun</item>
+        <item>Al-Kauthar</item>
+        <item>Al-Kafirun</item>
+        <item>An-Nasr</item>
+        <item>Al-Masad</item>
+        <item>Al-Ikhlas</item>
+        <item>Al-Falaq</item>
+        <item>An-Nas</item>
+    </array>
+    <array name="surah_sizes_alfasay">
+        <item>420729</item>
+        <item>60324728</item>
+        <item>37700808</item>
+        <item>38292848</item>
+        <item>30148912</item>
+        <item>34692756</item>
+        <item>39788724</item>
+        <item>14596859</item>
+        <item>29004748</item>
+        <item>16171470</item>
+        <item>22180938</item>
+        <item>20204828</item>
+        <item>9740801</item>
+        <item>9828781</item>
+        <item>7644735</item>
+        <item>20237010</item>
+        <item>15988873</item>
+        <item>15972781</item>
+        <item>10268892</item>
+        <item>13028886</item>
+        <item>12572892</item>
+        <item>14188931</item>
+        <item>11892873</item>
+        <item>14732696</item>
+        <item>8820873</item>
+        <item>14668957</item>
+        <item>12588775</item>
+        <item>15236755</item>
+        <item>10172970</item>
+        <item>9376832</item>
+        <item>5732781</item>
+        <item>4196990</item>
+        <item>13948814</item>
+        <item>9148970</item>
+        <item>8460801</item>
+        <item>8484833</item>
+        <item>11604899</item>
+        <item>8564873</item>
+        <item>13044768</item>
+        <item>12548859</item>
+        <item>9292957</item>
+        <item>9364846</item>
+        <item>9836722</item>
+        <item>4620801</item>
+        <item>5204899</item>
+        <item>7668977</item>
+        <item>5908951</item>
+        <item>5780846</item>
+        <item>4020820</item>
+        <item>4484964</item>
+        <item>4364801</item>
+        <item>3892925</item>
+        <item>3700873</item>
+        <item>3868892</item>
+        <item>5444807</item>
+        <item>5740931</item>
+        <item>6476748</item>
+        <item>4916925</item>
+        <item>5020788</item>
+        <item>3620833</item>
+        <item>2348775</item>
+        <item>1716820</item>
+        <item>2076683</item>
+        <item>2604775</item>
+        <item>2900899</item>
+        <item>2868716</item>
+        <item>3652807</item>
+        <item>3660748</item>
+        <item>3252820</item>
+        <item>2548768</item>
+        <item>2252853</item>
+        <item>2684814</item>
+        <item>1964879</item>
+        <item>2604775</item>
+        <item>1700729</item>
+        <item>2524944</item>
+        <item>2292768</item>
+        <item>2348775</item>
+        <item>2060801</item>
+        <item>1772827</item>
+        <item>1276918</item>
+        <item>1100957</item>
+        <item>2492762</item>
+        <item>1292801</item>
+        <item>1596866</item>
+        <item>812984</item>
+        <item>868990</item>
+        <item>1084866</item>
+        <item>1708879</item>
+        <item>972853</item>
+        <item>684879</item>
+        <item>900964</item>
+        <item>532742</item>
+        <item>348840</item>
+        <item>524801</item>
+        <item>772859</item>
+        <item>372873</item>
+        <item>1020918</item>
+        <item>484886</item>
+        <item>572866</item>
+        <item>508918</item>
+        <item>508918</item>
+        <item>228886</item>
+        <item>476735</item>
+        <item>396905</item>
+        <item>348840</item>
+        <item>468794</item>
+        <item>204853</item>
+        <item>444762</item>
+        <item>284892</item>
+        <item>340899</item>
+        <item>180820</item>
+        <item>276742</item>
+        <item>412788</item>
+    </array>
+    <array name="urdu_chapters">
+        <item>المٓ</item>
+        <item>سیقول</item>
+        <item>تلک الرسل</item>
+        <item>لن تنا لوا</item>
+        <item>والمحصنٰت</item>
+        <item>لا یحب اللہ</item>
+        <item>واذا سمعوا</item>
+        <item>ولو اننا</item>
+        <item>قال الملا</item>
+        <item>وا علموآ</item>
+        <item>یعتذرون</item>
+        <item>وما من دآبّۃ</item>
+        <item>ومآابرئ</item>
+        <item>ربما</item>
+        <item>سبحٰن الذیٓ</item>
+        <item>قال الم</item>
+        <item>اقترب للناس</item>
+        <item>قد افلح</item>
+        <item>وقال الذین</item>
+        <item>امن خلق</item>
+        <item>اتل مآاوحی</item>
+        <item>ومن یقنت</item>
+        <item>وما لی</item>
+        <item>فمن اظلم</item>
+        <item>الیہ یرد</item>
+        <item>حٰم</item>
+        <item>قا ل فما خطبکم</item>
+        <item>قد سمع اللہ</item>
+        <item>تبٰرک الذی</item>
+        <item>عمّ</item>
+    </array>
+    <array name="verses_chapters">
+        <item>Al-Fatihah - 1</item>
+        <item>Al-Baqarah - 142</item>
+        <item>Al-Baqarah - 253</item>
+        <item>Aal-e-Imran - 93</item>
+        <item>An-Nisa - 24</item>
+        <item>An-Nisa - 148</item>
+        <item>Al-Maidah - 82</item>
+        <item>Al-Anam - 111</item>
+        <item>Al-Araf - 88</item>
+        <item>Al-Anfal - 41ٓ</item>
+        <item>At-Taubah - 93</item>
+        <item>Hud - 6</item>
+        <item>Yusuf - 53</item>
+        <item>Al-Hijr - 1</item>
+        <item>Al-Israa - 1</item>
+        <item>Al-Kahf - 75</item>
+        <item>Al-Anbiya - 1</item>
+        <item>Al-Muminun - 1</item>
+        <item>Al-Furqan - 21</item>
+        <item>An-Naml - 56</item>
+        <item>Al-Ankabut - 46</item>
+        <item>Al-Ahzab - 31</item>
+        <item>Ya Sin - 28</item>
+        <item>Az-Zumar - 32</item>
+        <item>Fussilat - 47</item>
+        <item>Al-Ahqaf - 1</item>
+        <item>Ad-Dhariyat - 31</item>
+        <item>Al-Mujadilah - 1</item>
+        <item>Al-Mulk - 1</item>
+        <item>An-Naba - 1</item>
+    </array>
+    <array name="allah_name_time">
+        <item>0:00.000</item>
+        <item>0:11.022</item>
+        <item>0:13.132</item>
+        <item>0:14.502</item>
+        <item>0:16.152</item>
+        <item>0:17.862</item>
+        <item>0:19.552</item>
+        <item>0:20.872</item>
+        <item>0:22.392</item>
+        <item>0:24.152</item>
+        <item>0:25.462</item>
+        <item>0:27.702</item>
+        <item>0:29.492</item>
+        <item>0:31.202</item>
+        <item>0:32.942</item>
+        <item>0:34.166</item>
+        <item>0:36.106</item>
+        <item>0:37.786</item>
+        <item>0:39.336</item>
+        <item>0:41.069</item>
+        <item>0:42.699</item>
+        <item>0:44.829</item>
+        <item>0:46.449</item>
+        <item>0:47.928</item>
+        <item>0:49.738</item>
+        <item>0:51.038</item>
+        <item>0:52.028</item>
+        <item>0:53.628</item>
+        <item>0:55.368</item>
+        <item>0:56.222</item>
+        <item>0:57.042</item>
+        <item>0:58.492</item>
+        <item>0:59.842</item>
+        <item>1:01.432</item>
+        <item>1:02.542</item>
+        <item>1:04.070</item>
+        <item>1:05.440</item>
+        <item>1:07.010</item>
+        <item>1:08.130</item>
+        <item>1:09.401</item>
+        <item>1:10.493</item>
+        <item>1:12.113</item>
+        <item>1:13.393</item>
+        <item>1:14.930</item>
+        <item>1:16.423</item>
+        <item>1:17.943</item>
+        <item>1:19.653</item>
+        <item>1:20.893</item>
+        <item>1:22.063</item>
+        <item>1:23.423</item>
+        <item>1:25.689</item>
+        <item>1:27.029</item>
+        <item>1:28.079</item>
+        <item>1:29.339</item>
+        <item>1:30.999</item>
+        <item>1:32.149</item>
+        <item>1:33.779</item>
+        <item>1:35.009</item>
+        <item>1:36.255</item>
+        <item>1:37.185</item>
+        <item>1:38.405</item>
+        <item>1:39.855</item>
+        <item>1:41.015</item>
+        <item>1:42.125</item>
+        <item>1:43.685</item>
+        <item>1:45.455</item>
+        <item>1:47.115</item>
+        <item>1:48.715</item>
+        <item>1:48.716</item>
+        <item>1:49.825</item>
+        <item>1:51.525</item>
+        <item>1:53.045</item>
+        <item>1:54.685</item>
+        <item>1:56.135</item>
+        <item>1:57.325</item>
+        <item>1:58.595</item>
+        <item>2:00.295</item>
+        <item>2:01.945</item>
+        <item>2:03.445</item>
+        <item>2:04.655</item>
+        <item>2:05.285</item>
+        <item>2:06.995</item>
+        <item>2:08.555</item>
+        <item>2:09.871</item>
+        <item>2:11.031</item>
+        <item>2:13.611</item>
+        <item>2:17.031</item>
+        <item>2:18.196</item>
+        <item>2:19.836</item>
+        <item>2:21.156</item>
+        <item>2:22.406</item>
+        <item>2:24.326</item>
+        <item>2:28.336</item>
+        <item>2:29.916</item>
+        <item>2:31.156</item>
+        <item>2:32.316</item>
+        <item>2:33.776</item>
+        <item>2:35.186</item>
+        <item>2:36.956</item>
+        <item>2:38.576</item>
+        <item>2:40.266</item>
+        <item>3:29.653</item>
+    </array>
+    <array name="allah_names">
+        <item>اللَّـهُ</item>
+        <item>الرَّحْمَـٰنُ</item>
+        <item>الرَّحِيمُ</item>
+        <item>الْمَلِكُ</item>
+        <item>الْقُدُّوسُ</item>
+        <item>السَّلَامُ</item>
+        <item>الْمُؤْمِنُ</item>
+        <item>الْمُهَيْمِنُ</item>
+        <item>الْعَزِيزُ</item>
+        <item>الْجَبَّارُ</item>
+        <item>الْمُتَكَبِّرُ</item>
+        <item>الْخَالِقُ</item>
+        <item>الْبَارِئُ</item>
+        <item>الْمُصَوِّرُ</item>
+        <item>الْغَفَّارُ</item>
+        <item>الْقَهَّارُ</item>
+        <item>الْوَهَّابِ</item>
+        <item>الرَّزَّاقُ</item>
+        <item>الْفَتَّاحُ</item>
+        <item>الْعَلِيمُ</item>
+        <item>الْقَابِضُ</item>
+        <item>الْبَاسِطُ</item>
+        <item>الْخَافِضُ</item>
+        <item>الرَّافِعُ</item>
+        <item>الْمُعِزُّ</item>
+        <item>الْمُذِلُّ</item>
+        <item>السَّمِيعُ</item>
+        <item>الْبَصِيرُ</item>
+        <item>الْحَكَمُ</item>
+        <item>الْعَدْلُ</item>
+        <item>اللَّطِيفُ</item>
+        <item>الْخَبِيرُ</item>
+        <item>الْحَلِيمُ</item>
+        <item>الْعَظِيمُ</item>
+        <item>الْغَفُورُ</item>
+        <item>الشَّكُورُ</item>
+        <item>الْعَلِيُّ</item>
+        <item>الْكَبِيرُ</item>
+        <item>الْحَفِيظُ</item>
+        <item>الْمُقِيتُ</item>
+        <item>الْحَسِيبُ</item>
+        <item>الْجَلِيلُ</item>
+        <item>الْكَرِيمُ</item>
+        <item>الرَّقِيبُ</item>
+        <item>الْمُجِيبُ</item>
+        <item>الْوَاسِعُ</item>
+        <item>الْحَكِيمُ</item>
+        <item>الْوَدُودُ</item>
+        <item>الْمَجِيدُ</item>
+        <item>الْبَاعِثُ</item>
+        <item>الشَّهِيدُ</item>
+        <item>الْحَقُّ</item>
+        <item>الْوَكِيلُ</item>
+        <item>الْقَوِيُّ</item>
+        <item>الْمَتِينُ</item>
+        <item>الْوَلِيُّ</item>
+        <item>الْحَمِيدُ</item>
+        <item>الْمُحْصِي</item>
+        <item>الْمُبْدِئُ</item>
+        <item>الْمُعِيدُ</item>
+        <item>الْمُحْيِي</item>
+        <item>الْمُمِيتُ</item>
+        <item>الْحَىُّ</item>
+        <item>الْقَيُّومُ</item>
+        <item>الْوَاجِدُ</item>
+        <item>الْمَاجِدُ</item>
+        <item>الْوَاحِدُ</item>
+        <item>الْأَحَدُ</item>
+        <item>الصَّمَدُ</item>
+        <item>الْقَادِرُ</item>
+        <item>الْمُقْتَدِرُ</item>
+        <item>الْمُقَدِّمُ</item>
+        <item>الْمُؤَخِّرُ</item>
+        <item>الأَوَّلُ</item>
+        <item>الآخِرُ</item>
+        <item>الظَّاهِرُ</item>
+        <item>الْبَاطِنُ</item>
+        <item>الْوَالِي</item>
+        <item>الْمُتَعَالِي</item>
+        <item>الْبَرُّ</item>
+        <item>التَّوَّابُ</item>
+        <item>الْمُنْتَقِمُ</item>
+        <item>الْعَفُوُّ</item>
+        <item>الرَّءُوفُ</item>
+        <item>الْمُلْكِ مَالِكُ</item>
+        <item>ذُوالْجَلاَل وَالإِكْرَام</item>
+        <item>الْمُقْسِطُ</item>
+        <item>الْجَامِعُ</item>
+        <item>الْغَنِيُّ</item>
+        <item>الْمُغْنِي</item>
+        <item>الْمَانِعُ</item>
+        <item>الضَّارُّ</item>
+        <item>النَّافِعُ</item>
+        <item>النُّورُ</item>
+        <item>الْهَادِي</item>
+        <item>الْبَدِيعُ</item>
+        <item>الْبَاقِي</item>
+        <item>الْوَارِثُ</item>
+        <item>الرَّشِيدُ</item>
+        <item>الصَّبُورُ</item>
+    </array>
+    <array name="allah_names_detail_english">
+        <item>He who repeats this Name will find all the things easy.</item>
+        <item>He who repeats this Name will have good memory, a keen awareness, and be free of a heavy heart.</item>
+        <item>He who repeats this Name will have good memory.</item>
+        <item>If you recite this name of Allah, Allah will give him abundant wealth. Insha-Allah.</item>
+        <item>The hearts of those who repeat this Name will be free from anxiety.</item>
+        <item>He who repeats this Name to a sick person, help them regain health.</item>
+        <item>If you recite this name, Allah will protect you from all calamities.</item>
+        <item>Those who repeat this Name, Allah purify them physically and spirtually.</item>
+        <item>He who repeats this Name will be independent of need from others.</item>
+        <item>He who repeats this Name will not be compelled to do anything against his wishes, and will not be exposes to violence, severity, or hardness.</item>
+        <item>He who repeats this Name, Allah will bless him with the righteous child.</item>
+        <item>He who repeats this Name, Allah will create an angel whose duty is to act righteously for this person until the day of judgement. The reward of this angels actions will be given to that person.</item>
+        <item>He who repeats this Name, Allah will give him male children. InshaAllah !</item>
+        <item>He who repeats this Name, Allah will bless her with a child.</item>
+        <item>He who repeats this Name, will soon begin Allahs forgiveness.</item>
+        <item>He who repeats this Name, Allah will free him from the love of this world and, instead, Allahs love will become inborn in his heart. Insha-Allah.</item>
+        <item>The person who repeats this Name, his appeal will be answered. He who has a desire or a person who is captured by an enemy or someone who cannot earn enough to maintain himself, if he repeats this Name, Allah will bless him with all his needs.</item>
+        <item>He who repeats this Name will be provided with sustenance by Allah.</item>
+        <item>The heart of him who repeats this Name will be open, and he will be given victory.</item>
+        <item>He who repeats this name, his heard will become luminous, revelling divine light (Nur).</item>
+        <item>He who repeats this Name will be free from hunger.</item>
+        <item>He who repeats this Name, will be free of needs from others.</item>
+        <item>He who repeats this Name, Allah will free them from harm by their enemy.</item>
+        <item>He who repeats this Name, Allah will make him higher as far as honor, richness and merit are concerned.</item>
+        <item>He ho repeats this Name, Allah makes him dignified in the eyes of others. That person will have fear of no one but Allah.</item>
+        <item>He who repeats this Name will be free from harm by those who are jealous of him and wish to harm him. Allah will protect him.</item>
+        <item>He who repeats this Name, Allah will bestow on him any desire.</item>
+        <item>He who repeats this Name, Allah will give this person esteem in the eyes of others.</item>
+        <item>He who repeats this Name, many secrets (sirr) will be revealed to him.</item>
+        <item>If you repeat this Name, people will obey you.</item>
+        <item>He who has become poor, and is lonely, if he repeats this Name, his earlier desired will be fulfilled.</item>
+        <item>He who has a bad habit which he doesnt like, and continuously repeats this Name, will be quickly freed from this habit.</item>
+        <item>If one repeats this Name, Allah will save him from clamity disaster.</item>
+        <item>He who repeats this Name many times will be respected.</item>
+        <item>He who has a headache, fever, and is despondent, who continuously repeats this Name, will be relived of his ailment.</item>
+        <item>He who has a heavy heart, and repeats this name, his heart will lighten and will be able to maintain himself.</item>
+        <item>He whose faith is low and repeats this Name, will be raised, his density will be opened; the traveller will reach his homeland.</item>
+        <item>He who repeats this Name will have esteem.</item>
+        <item>He who repeats this Name will be protected against calamities.</item>
+        <item>If someone with the bad-mannered child repeats this Name, the child will have good manners.</item>
+        <item>If one is afraid of being robbed, afraid of jealously of another, of being harmed or wronged, he begins to repeat this Name, he will be free from his fears.</item>
+        <item>He who repeats this Name, will be revered among men.</item>
+        <item>He who repeats this Name many times will have esteem in this world and the hereafter.</item>
+        <item>He who repeats this Name, will be under Allahs protection.</item>
+        <item>The appeal of him who repeats this Name will be answered.</item>
+        <item>He who has a difficulty earning, repeats this Name, he will have good earnings.</item>
+        <item>He who repeats this Name will not have difficulty in his work.</item>
+        <item>If there is a quarrel between two people, and one of them repeats this Name, there will be no disagreement between them.</item>
+        <item>He who repeats this Name will gain glory.</item>
+        <item>He who repeats this Name gains the fear of Allah.</item>
+        <item>He who has a rebellious child and repeats this Name, the child will be obedient.</item>
+        <item>If one has lost something and repeats this Name, he will find what he lost.</item>
+        <item>He who is afraid of drowning, being burnt in a fire, or any similar danger, and repeats this Name will be under the protection of Allah.</item>
+        <item>He who cant defeat his enemy, and repeats this Name with the intention of not being harmed, will be free from his enemys harm.</item>
+        <item>If one has troubles and repeates this Name, his troubles will disappear.</item>
+        <item>He who repeats this Name, his house will be free from danger.</item>
+        <item>He who repeats this Name will be loved and praised.</item>
+        <item>He who is afraid of being questioned on the judgement day and repeats this Name will have easiness.</item>
+        <item>He who repeats this Name, will be free from danger.</item>
+        <item>If this Name is repeated for someone who is away from his family, thar person will return safely.</item>
+        <item>If a person has a heavy burden and repeats this Name, his burden will be taken away.</item>
+        <item>This Name is repeated to destroy ones enemy.</item>
+        <item>He who repeats this Name will have long life.</item>
+        <item>He who repeats this Name will not fall into inadvertency.</item>
+        <item>Those who repeat this Name many times, will be respected.</item>
+        <item>He who repeats this Name, his heart will be enlightened.</item>
+        <item>He who repeats this Name alone and in quiet place will be free from fear and delusion.</item>
+        <item>He who repeats this Name, will have certain secrets open to him.</item>
+        <item>He who repeats this Name, Allah will provide his needs, and as a result he will not need others, but they will need them.</item>
+        <item>He who repeats this Name, all his desired will be fulfilled.</item>
+        <item>He who repeats this Name will be aware of the truth.</item>
+        <item>He who repeats this Name on the bettlefield, or who has fear of being alone in an awe - inspiring place, no harm will come to him.</item>
+        <item>He who repeats this Name, only Allah will remain. No other love can enter.</item>
+        <item>He who likes to have a child, or would like to come together with a person who is travelling, repeats this Name.</item>
+        <item>He who repeats this Name will lead a good life and at the end of the life will have a good death.</item>
+        <item>He who repeats this Name, divine light (Nur) will enter his heart.</item>
+        <item>He who repeats this Name will be able to see the truth in things.</item>
+        <item>He who repeats this Name is likely to walliullah, the friend of Allah.</item>
+        <item>He who repeats this Name many times will gain the benecolence of Allah.</item>
+        <item>He who repeats this Name to his child, this child will be free from misfortune.</item>
+        <item>He who repeats this Name many times, his repentance will be accepted.</item>
+        <item>He who repeats this Name many times, will be victorious against his enemies.</item>
+        <item>He who repeats this Name many times, all his sins will be forgiven.</item>
+        <item>He who repeats this Name many times will be blessed by Allah.</item>
+        <item>He who repeats this Name will have esteem among people.</item>
+        <item>He who repeats this Name many times will be rich.</item>
+        <item>He who repeats this Name will be free from the hard of the devil.</item>
+        <item>He who repeats this Name will find the things that he lost.</item>
+        <item>He who repeats this Name will be contented and not covetous.</item>
+        <item>He who repeats this Name will become self-sufficient.</item>
+        <item>Those who repeat this Name will have a good family life.</item>
+        <item>Those who are in low class, if they repeat this Name, their status will be raised.</item>
+        <item>He who repeats this Name, no harm will come to him.</item>
+        <item>Those who repeat this Name will have inner light.</item>
+        <item>He who repeats this Name will have spiritual knowledge.</item>
+        <item>He who repeats, all his troubles will disappear.</item>
+        <item>He who repeats this Name will be free from all disasters throughout his life, and will be shown mercy in the hereafter.</item>
+        <item>He who repeats this Name will have long life.</item>
+        <item>He who repeats this Name, his troubles will be cleared up.</item>
+        <item>He who is any trouble, difficulty or sorrow and repeats this Name, will be rescued from his difficulty.</item>
+    </array>
+    <array name="allah_names_english">
+        <item>The Greatest Name</item>
+        <item>The Most Beneficent</item>
+        <item>The Most Merciful</item>
+        <item>The King</item>
+        <item>The Most Holy</item>
+        <item>The Peace</item>
+        <item>Bestower of Security</item>
+        <item>The Guardian</item>
+        <item>The Almighty</item>
+        <item>The Irresistible</item>
+        <item>The Tremendous</item>
+        <item>The Maker</item>
+        <item>The Creator</item>
+        <item>The Designer</item>
+        <item>The Forgiver</item>
+        <item>The Subduer</item>
+        <item>The Bestower</item>
+        <item>The Provider</item>
+        <item>The Opener</item>
+        <item>The All Knowing</item>
+        <item>The Restrainer</item>
+        <item>The Extender</item>
+        <item>The Humbler</item>
+        <item>The Raiser</item>
+        <item>The Giver of Honour</item>
+        <item>The Giver of dishonour</item>
+        <item>The Hearer</item>
+        <item>The All Seeing</item>
+        <item>The Judge</item>
+        <item>The Equitable</item>
+        <item>The Gracious</item>
+        <item>The Aware</item>
+        <item>The Forbearing</item>
+        <item>The Great</item>
+        <item>The Forgiving</item>
+        <item>The Thankful</item>
+        <item>The Most High</item>
+        <item>The Great</item>
+        <item>The Preserver</item>
+        <item>The Nourisher</item>
+        <item>The Reckoner</item>
+        <item>The Majestic</item>
+        <item>The Generous</item>
+        <item>The Guardian</item>
+        <item>The Responder</item>
+        <item>The Knowledgeable</item>
+        <item>The Wise</item>
+        <item>The Loving</item>
+        <item>The Glorious</item>
+        <item>The Resurrecter</item>
+        <item>The Witness</item>
+        <item>The Truth</item>
+        <item>The Trustee</item>
+        <item>The Strong</item>
+        <item>The Firm</item>
+        <item>The Friend</item>
+        <item>The Praiseworthy</item>
+        <item>The Counter</item>
+        <item>The Originator</item>
+        <item>The Restorer</item>
+        <item>The Bestower</item>
+        <item>The Destroyer</item>
+        <item>The Ever Living</item>
+        <item>The Eternal</item>
+        <item>The Finder</item>
+        <item>The Magnificent</item>
+        <item>The Unique</item>
+        <item>The One</item>
+        <item>The Self Sufficient</item>
+        <item>The Capable</item>
+        <item>The Dominant</item>
+        <item>The Presenter</item>
+        <item>The Keeper Behind</item>
+        <item>The First</item>
+        <item>The Last</item>
+        <item>The Evident</item>
+        <item>The Hidden</item>
+        <item>The Master</item>
+        <item>The Exalted and Most High</item>
+        <item>The Courteous</item>
+        <item>The Acceptor of Repentance</item>
+        <item>The Avenger</item>
+        <item>The Forgiver</item>
+        <item>The Merciful</item>
+        <item>The King of Universe</item>
+        <item>The Lord of Majesty and Generosity</item>
+        <item>The Equitable</item>
+        <item>The Gatherer</item>
+        <item>The Independent</item>
+        <item>The Enricher</item>
+        <item>The Withholder</item>
+        <item>The Afflicter</item>
+        <item>The Propitious</item>
+        <item>The Light to Guide</item>
+        <item>The Guide</item>
+        <item>The Originator</item>
+        <item>The Everlasting</item>
+        <item>The Inheritor</item>
+        <item>The Guide to the right path</item>
+        <item>The Patient</item>
+    </array>
+    <array name="allah_names_transliteration">
+        <item>Allah</item>
+        <item>Ar-Rahman</item>
+        <item>Ar-Rahim</item>
+        <item>Al-Malik</item>
+        <item>Al-Qudoos</item>
+        <item>As-Salam</item>
+        <item>Al-Mumin</item>
+        <item>Al-Muhaymin</item>
+        <item>Al-Aziz</item>
+        <item>Al-Jabbar</item>
+        <item>Al-Mutakabbir</item>
+        <item>Al-Khaliq</item>
+        <item>Al-Bari</item>
+        <item>Al-Musawwir</item>
+        <item>Al-Ghaffar</item>
+        <item>Al-Qahhar</item>
+        <item>Al-Wahhab</item>
+        <item>Ar-Razzaq</item>
+        <item>Al-Fattah</item>
+        <item>Al-Aleem</item>
+        <item>Al-Qabid</item>
+        <item>Al-Basit</item>
+        <item>Al-Khafid</item>
+        <item>Ar-Rafi</item>
+        <item>Al-Muiz</item>
+        <item>Al-Muzil</item>
+        <item>As-Sami</item>
+        <item>Al-Basir</item>
+        <item>Al-Hakam</item>
+        <item>Al-Adl</item>
+        <item>Al-Latif</item>
+        <item>Al-Khabir</item>
+        <item>Al-Halim</item>
+        <item>Al-Azim</item>
+        <item>Al-Ghafoor</item>
+        <item>Ash-Shakur</item>
+        <item>Al-Ali</item>
+        <item>Al-Kabir</item>
+        <item>Al-Hafiz</item>
+        <item>Al-Muqit</item>
+        <item>Al-Hasib</item>
+        <item>Aj-Jalil</item>
+        <item>Al-Karim</item>
+        <item>Ar-Raqib</item>
+        <item>Al-Mujib</item>
+        <item>Al-Wasi</item>
+        <item>Al-Hakim</item>
+        <item>Al-Wadud</item>
+        <item>Al-Majid</item>
+        <item>Al-Baith</item>
+        <item>Ash-Shahid</item>
+        <item>Al-Haqq</item>
+        <item>Al-Wakil</item>
+        <item>Al-Qawee</item>
+        <item>Al-Matin</item>
+        <item>Al-Walee</item>
+        <item>Al-Hamid</item>
+        <item>Al-Muhsi</item>
+        <item>Al-Mubdi</item>
+        <item>Al-Mueed</item>
+        <item>Al-Muhyee</item>
+        <item>Al-Mumeet</item>
+        <item>Al-Hayy</item>
+        <item>Al-Qayyum</item>
+        <item>Al-Wajid</item>
+        <item>Al-Majid</item>
+        <item>Al-Wahid</item>
+        <item>Al-Ahad</item>
+        <item>As-Samad</item>
+        <item>Al-Qadir</item>
+        <item>Al-Muqtadir</item>
+        <item>Al-Muqaddim</item>
+        <item>Al-Muakhkhir</item>
+        <item>Al-Awwal</item>
+        <item>Al-Akhir</item>
+        <item>Az-Zahir</item>
+        <item>Al-Batin</item>
+        <item>Al-Wali</item>
+        <item>Al-Mutaali</item>
+        <item>Al-Barr</item>
+        <item>At-Tawwab</item>
+        <item>Al-Muntaqim</item>
+        <item>Al-Afuww</item>
+        <item>Ar-Rauf</item>
+        <item>Malik-Al-Mulk</item>
+        <item>Zul-Jalal wal-Ikram</item>
+        <item>Al-Muqsit</item>
+        <item>Aj-Jami</item>
+        <item>Al-Ghanee</item>
+        <item>Al-Mughnee</item>
+        <item>Al-Mani</item>
+        <item>Ad-Darr</item>
+        <item>An-Nafi</item>
+        <item>An-Nur</item>
+        <item>Al-Hadi</item>
+        <item>Al-Badi</item>
+        <item>Al-Baqi</item>
+        <item>Al-Warith</item>
+        <item>Ar-Rashid</item>
+        <item>As-Sabur</item>
+
+
+    </array>
+</resources>

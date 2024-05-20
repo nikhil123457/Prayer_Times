@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- menu_bottom_navigation.xml -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_text"
+        android:icon="@drawable/ii001"
+        android:title="Text" />
+
+    <item
+        android:id="@+id/navigation_images"
+        android:icon="@drawable/ii0001"
+        android:title="Images" />
+
+
+</menu>

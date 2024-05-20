@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_prayer_times"
+        android:title="Prayer"
+        android:icon="@drawable/prayer01" />
+    <item
+        android:id="@+id/menu_quran"
+        android:title="Quran"
+        android:icon="@drawable/quran01" />
+    <item
+        android:id="@+id/menu_Azkar"
+        android:title="Azkar"
+        android:icon="@drawable/azkar01" />
+    <item
+        android:id="@+id/menu_qibla"
+        android:title="Qibla"
+        android:icon="@drawable/qibla01" />
+    <item
+        android:id="@+id/menu_settings"
+        android:title="Other"
+        android:icon="@drawable/other01" />
+
+</menu>

@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".abcd.Fragments.FemalePGFragment">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:scrollbars="none"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_50sdp"
+                android:layout_gravity="center"
+                android:layout_marginTop="@dimen/_20sdp"
+                android:src="@drawable/m01" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="@dimen/_40sdp"
+                android:layout_marginTop="@dimen/_10sdp"
+                android:gravity="center"
+                android:text="How to Pray"
+                android:textColor="@color/black"
+                android:textSize="@dimen/_15sdp"
+                android:textStyle="bold" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="@dimen/_25sdp"
+                android:layout_marginTop="@dimen/_10sdp"
+                android:gravity="start"
+                android:text="Prayer (salah; plural salawat) is one of the five pillars of Islam.lt is incumbent upon all mature Muslims, and highly \n\nrecommended for children aged ten and over, to complete their five daily prayers according to the way the Prophet (PBUH) \n\nperformed it in order for them to be valid. It is believed that communication with Allah will bring life to the prayerful \n\nand bring them courage. \n \nMuslims believe that Allah speaks to us through the Qur'an, and salaah is our means of\n\nconnecting to Allah. \n \nWhether you're just curious as to how Muslims pray or if you're looking to learn for yourself,\n\nit's never too late to start."
+                android:textColor="@color/black"
+                android:textSize="@dimen/_12sdp" />
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="@dimen/_40sdp"
+                android:layout_marginTop="@dimen/_50sdp"
+                android:gravity="center"
+                android:text="Make your intention known in your heart."
+                android:textColor="@color/black"
+                android:textSize="@dimen/_15sdp"
+                android:textStyle="bold" />
+            <ImageView
+                android:padding="@dimen/_30sdp"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_230sdp"
+                android:layout_gravity="center"
+                android:src="@drawable/w1" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="@dimen/_25sdp"
+                android:layout_marginTop="@dimen/_10sdp"
+                android:gravity="start"
+                android:text="Before starting the prayer, firmly intend in your heart that you are about to perform the specific prayer (Fard, Sunnah, etc.) with devotion and sincerity solely for the sake of Allah."
+                android:textColor="@color/black"
+                android:textSize="@dimen/_12sdp" />
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="@dimen/_40sdp"
+                android:layout_marginTop="@dimen/_50sdp"
+                android:gravity="center"
+                android:text="Raise your hands up next to your ears and shoulders."
+                android:textColor="@color/black"
+                android:textSize="@dimen/_15sdp"
+                android:textStyle="bold" />
+            <ImageView
+                android:padding="@dimen/_30sdp"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_230sdp"
+                android:layout_gravity="center"
+                android:src="@drawable/w2" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="@dimen/_25sdp"
+                android:layout_marginTop="@dimen/_10sdp"
+                android:gravity="start"
+                android:text="Stand facing the Qibla (the direction of the Kaaba in Mecca), and raise your hands up next to your ears or shoulders."
+                android:textColor="@color/black"
+                android:textSize="@dimen/_12sdp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="@dimen/_40sdp"
+                android:layout_marginTop="@dimen/_50sdp"
+                android:gravity="center"
+                android:text="Place your right hand over your left hand."
+                android:textColor="@color/black"
+                android:textSize="@dimen/_15sdp"
+                android:textStyle="bold" />
+            <ImageView
+                android:padding="@dimen/_30sdp"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_230sdp"
+                android:layout_gravity="center"
+                android:src="@drawable/w3" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="@dimen/_25sdp"
+                android:layout_marginTop="@dimen/_10sdp"
+                android:gravity="start"
+                android:text="After raising your hands, place your right hand over your left hand on your chest."
+                android:textColor="@color/black"
+                android:textSize="@dimen/_12sdp" />
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="@dimen/_40sdp"
+                android:layout_marginTop="@dimen/_50sdp"
+                android:gravity="center"
+                android:text="Say 'Allahu Akbar' and bend down."
+                android:textColor="@color/black"
+                android:textSize="@dimen/_15sdp"
+                android:textStyle="bold" />
+            <ImageView
+                android:padding="@dimen/_30sdp"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_230sdp"
+                android:layout_gravity="center"
+                android:src="@drawable/w4" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="@dimen/_25sdp"
+                android:layout_marginTop="@dimen/_10sdp"
+                android:gravity="start"
+                android:text="While saying 'Allahu Akbar' (Allah is the Greatest), bow down from the waist, keeping your back straight. This position is called Ruku."
+                android:textColor="@color/black"
+                android:textSize="@dimen/_12sdp" />
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="@dimen/_40sdp"
+                android:layout_marginTop="@dimen/_50sdp"
+                android:gravity="center"
+                android:text="Stand back up (raise from ruku)."
+                android:textColor="@color/black"
+                android:textSize="@dimen/_15sdp"
+                android:textStyle="bold" />
+            <ImageView
+                android:padding="@dimen/_30sdp"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_230sdp"
+                android:layout_gravity="center"
+                android:src="@drawable/w5" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="@dimen/_25sdp"
+                android:layout_marginTop="@dimen/_10sdp"
+                android:gravity="start"
+                android:text=" While saying 'Sami Allahu liman hamidah' (Allah hears whoever praises Him), raise your upper body from the bowing position, returning to the standing position. Your back should be straight, and your hands should be on your sides."
+                android:textColor="@color/black"
+                android:textSize="@dimen/_12sdp" />
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="@dimen/_40sdp"
+                android:layout_marginTop="@dimen/_50sdp"
+                android:gravity="center"
+                android:text="Say Allahu Akbar and prostrate."
+                android:textColor="@color/black"
+                android:textSize="@dimen/_15sdp"
+                android:textStyle="bold" />
+            <ImageView
+                android:padding="@dimen/_30sdp"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_230sdp"
+                android:layout_gravity="center"
+                android:src="@drawable/w6" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="@dimen/_25sdp"
+                android:layout_marginTop="@dimen/_10sdp"
+                android:gravity="start"
+                android:text="While saying 'Allahu Akbar,' go down to the ground in the position of Sajdah (prostration)."
+                android:textColor="@color/black"
+                android:textSize="@dimen/_12sdp" />
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="@dimen/_40sdp"
+                android:layout_marginTop="@dimen/_50sdp"
+                android:gravity="center"
+                android:text="Rise from sajdah and sit on your knees."
+                android:textColor="@color/black"
+                android:textSize="@dimen/_15sdp"
+                android:textStyle="bold" />
+            <ImageView
+                android:padding="@dimen/_30sdp"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_230sdp"
+                android:layout_gravity="center"
+                android:src="@drawable/w7" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="@dimen/_25sdp"
+                android:layout_marginTop="@dimen/_10sdp"
+                android:gravity="start"
+                android:text=" After the first Sajdah, rise and sit on your knees with your back straight."
+                android:textColor="@color/black"
+                android:textSize="@dimen/_12sdp" />
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="@dimen/_40sdp"
+                android:layout_marginTop="@dimen/_50sdp"
+                android:gravity="center"
+                android:text="Say Allahu akbar and stand up."
+                android:textColor="@color/black"
+                android:textSize="@dimen/_15sdp"
+                android:textStyle="bold" />
+            <ImageView
+                android:padding="@dimen/_30sdp"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_230sdp"
+                android:layout_gravity="center"
+                android:src="@drawable/w8" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="@dimen/_25sdp"
+                android:layout_marginTop="@dimen/_10sdp"
+                android:gravity="start"
+                android:text="While saying 'Allahu Akbar', go back to the standing position."
+                android:textColor="@color/black"
+                android:textSize="@dimen/_12sdp" />
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="@dimen/_40sdp"
+                android:layout_marginTop="@dimen/_50sdp"
+                android:gravity="center"
+                android:text="Finish the prayer with tasleem."
+                android:textColor="@color/black"
+                android:textSize="@dimen/_15sdp"
+                android:textStyle="bold" />
+            <ImageView
+                android:padding="@dimen/_30sdp"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_230sdp"
+                android:layout_gravity="center"
+                android:src="@drawable/w9" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="@dimen/_25sdp"
+                android:layout_marginTop="@dimen/_10sdp"
+                android:gravity="start"
+                android:layout_marginBottom="@dimen/_30sdp"
+                android:text=" After completing all the required units of prayer, turn your head to the right and say 'Assalamu Alaikum wa Rahmatullah' (peace and mercy of Allah be upon you) to conclude the prayer. This is called Tasleem."
+                android:textColor="@color/black"
+                android:textSize="@dimen/_12sdp" />
+
+
+
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</FrameLayout>

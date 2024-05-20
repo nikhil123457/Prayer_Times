@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".abcd.Fragments.TawhidFragment">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:cardBackgroundColor="@color/white"
+                app:cardCornerRadius="10dp"
+                app:cardElevation="10dp"
+                app:cardMaxElevation="12dp"
+                app:cardPreventCornerOverlap="true"
+                app:cardUseCompatPadding="true">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:padding="@dimen/_10sdp">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:padding="10dp"
+                        android:text="Definition"
+                        android:textColor="#9BCF53"
+                        android:textSize="15sp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/TT01"
+                        tools:ignore="HardcodedText"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="start"
+                        android:letterSpacing="0.05"
+                        android:padding="10dp"
+                        android:text="Tawhid, also spelled Tauhid, Arabic Tawhid (making one, asserting oneness), in Islam, the oneness of God, in the sense that he is one and there is no god but he, as stated in the shahādah (witness) formula: There is no god but God and Muhammad is His prophet. Tawhid further refers to the nature of that God-that he is a unity, not composed, not made up of parts, but simple and uncompounded. The doctrine of the unity of God and the issues that it raises, such as the question of the relation between the essence and the attributes of God, reappear throughou most of Islamic history. In the terminology of Muslim mystics (Sufis), however, tawhid has a pantheistic sense; all essences are divine, and there is no absolute existence besides that of God. To most Muslim scholars, the science of tawhid is the systematic theology through which a better knowledge of God may be reached, but, to the Sufis, knowledge of God can be reached only through religious experience and direct vision."
+                        android:textColor="#000000"
+                        android:textSize="14sp"
+                        android:textStyle="bold" />
+
+                    <ImageView
+                        android:id="@+id/IT01"
+                        android:layout_width="@dimen/_20sdp"
+                        android:layout_height="@dimen/_20sdp"
+                        android:layout_gravity="end"
+                        android:src="@drawable/share" />
+
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:cardBackgroundColor="@color/white"
+                app:cardCornerRadius="10dp"
+                app:cardElevation="10dp"
+                app:cardMaxElevation="12dp"
+                app:cardPreventCornerOverlap="true"
+                app:cardUseCompatPadding="true">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:padding="@dimen/_10sdp">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:padding="10dp"
+                        android:text="Verses"
+                        android:textColor="#9BCF53"
+                        android:textSize="15sp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/TT02"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="start"
+                        android:letterSpacing="0.05"
+                        android:padding="10dp"
+                        android:text="Az-Zariyat 51:56:\n\nAnd I (Allah) created not the jinn and mankind except that they should worship Me (Alone).\n\nAl-An'am 6:151 :\n\nSay (O Muhammad P.B.U.H): Come, I will recite what your Lord has prohibited you from: Join not anything in worship with Him."
+                        android:textColor="#000000"
+                        android:textSize="14sp"
+                        android:textStyle="bold" />
+
+                    <ImageView
+                        android:id="@+id/IT02"
+                        android:layout_width="@dimen/_20sdp"
+                        android:layout_height="@dimen/_20sdp"
+                        android:layout_gravity="end"
+                        android:src="@drawable/share" />
+
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:cardBackgroundColor="@color/white"
+                app:cardCornerRadius="10dp"
+                app:cardElevation="10dp"
+                app:cardMaxElevation="12dp"
+                app:cardPreventCornerOverlap="true"
+                app:cardUseCompatPadding="true">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:padding="@dimen/_10sdp">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:padding="10dp"
+                        android:text="Ahadees"
+                        android:textColor="#9BCF53"
+                        android:textSize="15sp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/TT03"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="start"
+                        android:letterSpacing="0.05"
+                        android:padding="10dp"
+                        android:text="Sahih al-Bukhārī 7373:\n\nSahih Muslim 30 Mu'adh bin Jabal reported: The Prophet, peace and blessings be upon him, said, O Mu'adh, do you know what is the right of Allah upon Hi servants? I said, Allah and His messenger know best. The Prophet said, To worship Him alone and to associate none in worship with Him. And do you know what is their right upon Him? I said, Allah and His messenger know best. The Prophet said, Not to punish them if they do so.\n\nAl-Sunan al-Kubra lil-Nasa'i 5760:\n\nAbu Huraira reported: The Messenger of Allah, peace and blessings be upon him, said, There is no God but Allah, and Allah is the greatest. There is no God but Allah without any partner, there is no God but Allah. To Him belong dominion and praise, there is no God but Allah. There is no powe or might but in Allah. Whoever says these words in a day or a night or a month, then he dies in that day or night or month, his sins will be forgiven."
+                        android:textColor="#000000"
+                        android:textSize="14sp"
+                        android:textStyle="bold" />
+
+                    <ImageView
+                        android:id="@+id/IT03"
+                        android:layout_width="@dimen/_20sdp"
+                        android:layout_height="@dimen/_20sdp"
+                        android:layout_gravity="end"
+                        android:src="@drawable/share" />
+
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+
+        </LinearLayout>
+    </ScrollView>
+
+
+</FrameLayout>

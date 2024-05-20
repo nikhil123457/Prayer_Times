@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".abcd.Fragments.RamadanFragment">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+    <LinearLayout
+        android:layout_marginHorizontal="@dimen/_10sdp"
+        android:id="@+id/LinRD0A1"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:background="@drawable/bgduas"
+        android:gravity="start|center">
+
+        <TextView
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_marginStart="@dimen/_10sdp"
+            android:background="@drawable/surahbg"
+            android:gravity="center"
+            android:text="1"
+            android:textColor="#000000"
+            android:textSize="16sp" />
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:gravity="start|center"
+            android:padding="10dp"
+            android:text="Dua for fasting"
+            android:textColor="@color/black"
+            android:textSize="18sp" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_marginHorizontal="@dimen/_10sdp"
+        android:id="@+id/LinRD0A2"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:background="@drawable/bgduas"
+        android:gravity="start|center">
+
+        <TextView
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_marginStart="@dimen/_10sdp"
+            android:background="@drawable/surahbg"
+            android:gravity="center"
+            android:text="2"
+            android:textColor="#000000"
+            android:textSize="16sp" />
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:gravity="start|center"
+            android:padding="10dp"
+            android:text="Dua when Breaking fast"
+            android:textColor="@color/black"
+            android:textSize="18sp" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_marginHorizontal="@dimen/_10sdp"
+        android:id="@+id/LinRD0A3"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:background="@drawable/bgduas"
+        android:gravity="start|center">
+
+        <TextView
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_marginStart="@dimen/_10sdp"
+            android:background="@drawable/surahbg"
+            android:gravity="center"
+            android:text="3"
+            android:textColor="#000000"
+            android:textSize="16sp" />
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:gravity="start|center"
+            android:padding="10dp"
+            android:text="Dua For First Ashra"
+            android:textColor="@color/black"
+            android:textSize="18sp" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_marginHorizontal="@dimen/_10sdp"
+        android:id="@+id/LinRD0A4"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:background="@drawable/bgduas"
+        android:gravity="start|center">
+
+        <TextView
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_marginStart="@dimen/_10sdp"
+            android:background="@drawable/surahbg"
+            android:gravity="center"
+            android:text="4"
+            android:textColor="#000000"
+            android:textSize="16sp" />
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:gravity="start|center"
+            android:padding="10dp"
+            android:text="Dua For Second Ashra"
+            android:textColor="@color/black"
+            android:textSize="18sp" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_marginHorizontal="@dimen/_10sdp"
+        android:id="@+id/LinRD0A5"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:background="@drawable/bgduas"
+        android:gravity="start|center">
+
+        <TextView
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_marginStart="@dimen/_10sdp"
+            android:background="@drawable/surahbg"
+            android:gravity="center"
+            android:text="5"
+            android:textColor="#000000"
+            android:textSize="16sp" />
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:gravity="start|center"
+            android:padding="10dp"
+            android:text="Dua For Third Ashra"
+            android:textColor="@color/black"
+            android:textSize="18sp" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_marginHorizontal="@dimen/_10sdp"
+        android:id="@+id/LinRD0A6"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:background="@drawable/bgduas"
+        android:gravity="start|center">
+
+        <TextView
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_marginStart="@dimen/_10sdp"
+            android:background="@drawable/surahbg"
+            android:gravity="center"
+            android:text="6"
+            android:textColor="#000000"
+            android:textSize="16sp" />
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:gravity="start|center"
+            android:padding="10dp"
+            android:text="Tasbeeh e-TaraWeeh"
+            android:textColor="@color/black"
+            android:textSize="18sp" />
+    </LinearLayout>
+
+</LinearLayout>
+
+
+
+
+</FrameLayout>

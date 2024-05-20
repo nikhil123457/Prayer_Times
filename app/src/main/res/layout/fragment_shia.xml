@@ -1,0 +1,1006 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".abcd.Fragments.ShiaFragment">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="@dimen/_10sdp"
+                android:layout_marginVertical="@dimen/_5sdp"
+                app:cardBackgroundColor="@color/white"
+                app:cardCornerRadius="10dp"
+                app:cardElevation="10dp"
+                app:cardMaxElevation="12dp"
+                app:cardPreventCornerOverlap="true">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:padding="@dimen/_10sdp">
+
+                    <LinearLayout
+                        android:id="@+id/LinSU01"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:gravity="start"
+                            android:padding="10dp"
+                            android:text="What Is Ramadan?"
+                            android:textColor="#000000"
+                            android:textSize="15sp"
+                            android:textStyle="bold" />
+
+                        <ImageView
+                            android:layout_width="@dimen/_20sdp"
+                            android:layout_height="@dimen/_20sdp"
+                            android:layout_gravity="center"
+                            android:id="@+id/ImgNs1"
+                            android:src="@drawable/down" />
+
+                    </LinearLayout>
+
+
+                    <TextView
+                        android:id="@+id/TXTSU01"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="start"
+                        android:letterSpacing="0.05"
+                        android:padding="10dp"
+                        android:text="Fasting or Şawm (Arabic :صوم( is one of the most important obligatory rituals in Islam. Muslims must abstain from a number of activities including eating and drinking from dawn to dusk to obey God's command. Fasting is one of the ten Ancillaries of the Faith, and it has been obligatory in other religions in a different fashion.Fasting is a mean to seek proximity to God, and it increases one's piety. It purifies the soul and the body, atones for some sins, and also strengthens self-control and sympathy [towards the poor]. In addition, it inculcates a sense of fraternity with the needy and hungry. According to jurisprudence fasting is categorized into four types:obligatory, recommended, disliked and forbidden. Moreover, according to some hadiths, fasting is categorized into three levels in common fasting, special (khas) fasting, and the most especial fasting (khas al-khas).Fasting is considered as one of the pillars of Islam. It is obligatory for every mature, rational, and healthy Muslim. The verse on fasting was revealed in Sha'ban 28, Hijri year 2/624: O you who have faith! Prescribed for you is fasting as it wasprescribed for those who were before you, so that you may be Godwary. However, some of its details on the conditions of fasting were changed and some were abrogated. The ritual of fasting is an act of worshiping God. However, except for obligatory fasting days in the month of Ramadan, there are numerous recommended fasting days.Prophet (s.a.w.), precisely to his famous sermon welcoming the approach of the fasting season, O people! This is the month of God coming to you with mercy, blessing, and forgiveness; in the sight of Allah, it is the most superior month; its days, nights, and hours are the best. In this month you are the guests of God, enjoying His hospitality. You have been rendered among those who have won His grace. Your every breath shall be deemed utterances of glory to His Name, your sleep a form of worship. Your deeds shall be accepted, your prayers answered. So, with sincerity and pure hearts, pray to your Creator to grant you success in fasting this month and reciting His Book. The wretched is he who is denied the Almighty's forgiveness during this august month. O men and women! During this month, the gates of everlasting bliss are ajar; so beseech your Lord not to close them off to you. The gates of the Fire are closed; so entreat Him not to open them for you. The devils are in fetters; so implore Him not set them free lest they should lead you astray. After he related this part of the sermon, he drew my attention to what I should be doing during this month stressing certain parts of the sermon. He went on quoting the Prophet (s.a.w.), O people! He who provides a meal to a devout Muslim, at the end of his long day fast, during this month, his reward from God shall be as great as that for emancipating a slave, and he can be rest assured of the forgiveness of his past sins. Someone interjected, O Prophet of God! Not all of us can afford to provide food for fasting people. He retorted, Fear God, even with half a date. Feed them, for the sake of God, albeit with a sip of water, because the Almighty grants those a full reward who have done a small deed, if he could not afford to do more.O people! he who strives, during this month, to deal gently and politely with people, shall be guaranteed passage to paradise, on the Day when many a foot slips (leading to hell). Those who minimize the burden of those in their employ (mulkul yameen), The Lord shall make their reckoning easy. He whochecks his transgression, Allah shall withhold His wrath from him on the Day of Judgement. Whoever shuns his kinsmen, Allah shall deny him His mercy on the Day of Reckoning. He who recites just one verse of the Holy Qur'an, during this month, Allah shall grant him the reward of having recited the whole Book in other months"
+                        android:textColor="#000000"
+                        android:textSize="14sp"
+                        android:visibility="gone" />
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="@dimen/_10sdp"
+                android:layout_marginVertical="@dimen/_5sdp"
+                app:cardBackgroundColor="@color/white"
+                app:cardCornerRadius="10dp"
+                app:cardElevation="10dp"
+                app:cardMaxElevation="12dp"
+                app:cardPreventCornerOverlap="true">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:padding="@dimen/_10sdp">
+
+                    <LinearLayout
+                        android:id="@+id/LinSU02"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:gravity="start"
+                            android:padding="10dp"
+                            android:text="Sighting of the Moon?"
+                            android:textColor="#000000"
+                            android:textSize="15sp"
+                            android:textStyle="bold" />
+
+                        <ImageView
+                            android:layout_width="@dimen/_20sdp"
+                            android:layout_height="@dimen/_20sdp"
+                            android:layout_gravity="center"
+                            android:id="@+id/ImgNs2"
+                            android:src="@drawable/down" />
+
+                    </LinearLayout>
+
+
+                    <TextView
+                        android:id="@+id/TXTSU02"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="start"
+                        android:letterSpacing="0.05"
+                        android:padding="10dp"
+                        android:text="
+
+Moon sighting Arabic رؤية الهلال means sighting the crescent of the new moon and is one of the ways to prove the beginning of a lunar month in religion. A remarkable amount of obligatory and recommended acts of worship and rituals such as hajj, fasting, al-Qadr night and some legal issues such as increasing diya (blood-money) in haram months depend on the moon sighting at the beginning of the month. According to Shi'a jurisprudence, the beginning of a lunar month can be determined in one of the ways below:
+
+\n\n1) A person himself sees the crescent of the moon.
+
+\n\n2) Gaining confidence in the report of others or other rationally acceptable sources.
+
+\n\n3) Testimony of two just men whose report is not in contradiction to astronomical rules"
+                        android:textColor="#000000"
+                        android:textSize="14sp"
+                        android:visibility="gone" />
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="@dimen/_10sdp"
+                android:layout_marginVertical="@dimen/_5sdp"
+                app:cardBackgroundColor="@color/white"
+                app:cardCornerRadius="10dp"
+                app:cardElevation="10dp"
+                app:cardMaxElevation="12dp"
+                app:cardPreventCornerOverlap="true">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:padding="@dimen/_10sdp">
+
+                    <LinearLayout
+                        android:id="@+id/LinSU03"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:gravity="start"
+                            android:padding="10dp"
+                            android:text="What Is the Definition of"
+                            android:textColor="#000000"
+                            android:textSize="15sp"
+                            android:textStyle="bold" />
+
+                        <ImageView
+                            android:layout_width="@dimen/_20sdp"
+                            android:layout_height="@dimen/_20sdp"
+                            android:layout_gravity="center"
+                            android:id="@+id/ImgNs3"
+                            android:src="@drawable/down" />
+
+                    </LinearLayout>
+
+
+                    <TextView
+                        android:id="@+id/TXTSU03"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="start"
+                        android:letterSpacing="0.05"
+                        android:padding="10dp"
+                        android:text="Sunni Islam is one of the major branches of Islam, representing the largest group of Muslims worldwide. Fasting rules in Sunni Islam during Ramadan are based on the teachings of the Quran and the Sunnah (practices and sayings of the Prophet Muhammad). Sunni Muslims observe fasting during Ramadan, abstaining from food, drink, smoking, and marital relations from dawn (Fajr) until sunset (Maghrib). The intention to fast (niyyah) is crucial, and breaking the fast intentionally without a valid reason is discouraged. Exceptions are made for those who are ill, pregnant, breastfeeding, traveling, menstruating, or elderly, allowing them to make up for missed fasts later. The fasting month of Ramadan is considered a time of spiritual reflection, self-discipline, and increased devotion to Allah."
+                        android:textColor="#000000"
+                        android:textSize="14sp"
+                        android:visibility="gone" />
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="@dimen/_10sdp"
+                android:layout_marginVertical="@dimen/_5sdp"
+                app:cardBackgroundColor="@color/white"
+                app:cardCornerRadius="10dp"
+                app:cardElevation="10dp"
+                app:cardMaxElevation="12dp"
+                app:cardPreventCornerOverlap="true">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:padding="@dimen/_10sdp">
+
+                    <LinearLayout
+                        android:id="@+id/LinSU04"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:gravity="start"
+                            android:padding="10dp"
+                            android:text="Why Muslims Fast?"
+                            android:textColor="#000000"
+                            android:textSize="15sp"
+                            android:textStyle="bold" />
+
+                        <ImageView
+                            android:layout_width="@dimen/_20sdp"
+                            android:layout_height="@dimen/_20sdp"
+                            android:layout_gravity="center"
+                            android:id="@+id/ImgNs4"
+                            android:src="@drawable/down" />
+
+                    </LinearLayout>
+
+
+                    <TextView
+                        android:id="@+id/TXTSU04"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="start"
+                        android:letterSpacing="0.05"
+                        android:padding="10dp"
+                        android:text="Fasting in Ramadan aims to achieve: - Piety and righteousness - Discipline - Renewal of a devotional Life Renewal of contact with the Qur'an - Renewal of identity with the Ummah - A renewed sense of care and sympathy - Striving, challenge, and struggle - Patience - Self-control - Abstaining from the halal in order to make it easier to abstain from haram after Ramadan"
+                        android:textColor="#000000"
+                        android:textSize="14sp"
+                        android:visibility="gone" />
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="@dimen/_10sdp"
+                android:layout_marginVertical="@dimen/_5sdp"
+                app:cardBackgroundColor="@color/white"
+                app:cardCornerRadius="10dp"
+                app:cardElevation="10dp"
+                app:cardMaxElevation="12dp"
+                app:cardPreventCornerOverlap="true">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:padding="@dimen/_10sdp">
+
+                    <LinearLayout
+                        android:id="@+id/LinSU05"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:gravity="start"
+                            android:padding="10dp"
+                            android:text="What are the Virtues of"
+                            android:textColor="#000000"
+                            android:textSize="15sp"
+                            android:textStyle="bold" />
+
+                        <ImageView
+                            android:layout_width="@dimen/_20sdp"
+                            android:layout_height="@dimen/_20sdp"
+                            android:layout_gravity="center"
+                            android:id="@+id/ImgNs5"
+                            android:src="@drawable/down" />
+
+                    </LinearLayout>
+
+
+                    <TextView
+                        android:id="@+id/TXTSU05"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="start"
+                        android:letterSpacing="0.05"
+                        android:padding="10dp"
+                        android:text="Fasting helps Muslims develop self-control, gain a better understanding of God's gifts and attain a greater compassion towards the deprived.\n\n
+
+1) This blessed month is a great occasion for goodness, blessing, worship and obedience of God.\n\n
+
+2) It is a month in which rewards for good deeds are multiplied.\n\n
+
+3) It is a great opportunity for one to do deeds that could bring him/her closer to Paradise - It provides protection from evil for those who sincerely fast.\n\n
+
+4) Perhaps the greatest and most unique merit of Ramadan lies in the fact that the Qur'an was revealed during this month.\n\n
+
+5) When the month of Ramadan starts, the gates of Paradise are opened, the gates of Hell are closed and the devils are chained up.\n\n
+
+6) It is a means for atonement of sins. It is a shield because it safeguards the believer from vain talk and wrong doing and thereby protects him from the Hell.\n\n
+
+7) Fasting is so highly regarded for a believer that he would have two occasions of joy:"
+                        android:textColor="#000000"
+                        android:textSize="14sp"
+                        android:visibility="gone" />
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="@dimen/_10sdp"
+                android:layout_marginVertical="@dimen/_5sdp"
+                app:cardBackgroundColor="@color/white"
+                app:cardCornerRadius="10dp"
+                app:cardElevation="10dp"
+                app:cardMaxElevation="12dp"
+                app:cardPreventCornerOverlap="true">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:padding="@dimen/_10sdp">
+
+                    <LinearLayout
+                        android:id="@+id/LinSU06"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:gravity="start"
+                            android:padding="10dp"
+                            android:text="What are the Types of Fasting?"
+                            android:textColor="#000000"
+                            android:textSize="15sp"
+                            android:textStyle="bold" />
+
+                        <ImageView
+                            android:layout_width="@dimen/_20sdp"
+                            android:layout_height="@dimen/_20sdp"
+                            android:layout_gravity="center"
+                            android:id="@+id/ImgNs6"
+                            android:src="@drawable/down" />
+
+                    </LinearLayout>
+
+
+                    <TextView
+                        android:id="@+id/TXTSU06"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="start"
+                        android:letterSpacing="0.05"
+                        android:padding="10dp"
+                        android:text="There are numerous categories of fasting:\n\n
+
+1) Compulsory [Fard]: this includes fasting Ramadan or fasting due to vow. By vow means that if you missed fasting Ramadan due to a genuine reason, it is imperative to observe the fast later. [Except when excused from fasting with legal excuse and instead pay Fidyah. 2) Recommended [Sunnah and Nafil]\n\n
+
+• The first and last Thursday of each month, and the first Wednesday after the tenth of the month; and if someone does not fast on these days, it is recommended that he makes them up; and in the event that one cannot fast at all [on these days], it is recommended that he gives for each day one mudd of food or 12.6 nukhuds (1) of minted silver(2) to a poor person.\n\n
+
+• The 13th, 14th, and 15th of each month.\n\n
+
+• The entire month of Rajab and Sha'bān, or at least some days of these two months, even if only one day.\n\n
+
+• The Eid of Nawrūz.\n\n
+
+• From the 4th to the 9th of Shawwal.• The 25th and 29th of Dhū al-Qa'dah. From the 1st to the 9th of Dhū al-Hijjah (until and including the Day of 'Arafah); however, if due to weakness from fasting one cannot recite the supplications (du'a's) of the Day of 'Arafah, then fasting on that day is disapproved.\n\n
+
+• The auspicious day of Eid al-Ghadir (the 18th of Dhū al-Hijjah).\n\n
+
+• The day of Mubahalah (the 24th of Dhū al-Hijjah).\n\n
+
+• The 1st, 3rd, and 7th of Muharram.\n\n
+
+• The joyous birthday of the most noble\n\n
+
+Messenger (PBUH) (the 17th of Rabī\n\n
+
+al-Awwal).\n\n
+
+• The 15th of Jumādā al-Ulā.\n\n
+
+• The day of Maba'th of His Eminence the most noble Messenger (PBUH) (the 27th of Rajab).\n\n
+
+3) Forbidden [Haram]: Fasting on Eid al-Fitr and Eid al-Adhā is unlawful. Furthermore, if one does not know whether it is the last day of Shaban or the first day of Ramadan and fasts with the intention of it being the first day of Ramadan, it is unlawful. Fasting is disapproved on the Day of 'Ashūrā and on the day that one doubts whether it is the Day of 'Arafah or Eid al-Adhā."
+                        android:textColor="#000000"
+                        android:textSize="14sp"
+                        android:visibility="gone" />
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="@dimen/_10sdp"
+                android:layout_marginVertical="@dimen/_5sdp"
+                app:cardBackgroundColor="@color/white"
+                app:cardCornerRadius="10dp"
+                app:cardElevation="10dp"
+                app:cardMaxElevation="12dp"
+                app:cardPreventCornerOverlap="true">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:padding="@dimen/_10sdp">
+
+                    <LinearLayout
+                        android:id="@+id/LinSU07"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:gravity="start"
+                            android:padding="10dp"
+                            android:text="Quran Verses on Ramadan?"
+                            android:textColor="#000000"
+                            android:textSize="15sp"
+                            android:textStyle="bold" />
+
+                        <ImageView
+                            android:layout_width="@dimen/_20sdp"
+                            android:layout_height="@dimen/_20sdp"
+                            android:layout_gravity="center"
+                            android:id="@+id/ImgNs7"
+                            android:src="@drawable/down" />
+
+                    </LinearLayout>
+
+
+                    <TextView
+                        android:id="@+id/TXTSU07"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="start"
+                        android:letterSpacing="0.05"
+                        android:padding="10dp"
+                        android:text="Surah Al-Baqarah (2:183-185):\n\n
+O you who have believed, decreed upon you is fasting as it was decreed upon those before you that you may become righteous. [Fasting for] a limited number of days. So whoever among you is ill or on a journey [during them] - then an equal number of days [are to be made up]. And upon those who are able [to fast, but with hardship] - a ransom [as substitute] of feeding a poor person [each day]. And whoever volunteers excess - it is better for him. But to fast is best for you, if you only knew. The month of Ramadhan [is that] in which was revealed the Qur'an, a guidance for the people and clear proofs of guidance and criterion. So whoever sights [the new moon of] the month, let him fast it; and whoever is ill or on a journey - then an equal number of other days. Allah intends for you ease and does not intend for you hardship and [wants] for you to complete the period and to glorify Allah for that [to] which He has guided you; and perhaps you will be grateful.
+                   \n\nSurah Al-Baqarah (2:187):\n\n
+                    It has been made permissible for you the night preceding fasting to go to your wives [for sexual relations]. They are clothing for you and you are clothing for them. Allah knows that you used to deceive yourselves, so He accepted your repentance and forgave you. So now, have relations with them and seek that which Allah has decreed for you. And eat and drink until the white thread of dawn becomes distinct to you from the black thread [of night]. Then complete the fast until the sunset. And do not have relations with them as long as you are staying for worship in the mosques. These are the limits [set by] Allah , so do not approach them. Thus does Allah make clear His ordinances to the people that they may become righteous."
+                        android:textColor="#000000"
+                        android:textSize="14sp"
+                        android:visibility="gone" />
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="@dimen/_10sdp"
+                android:layout_marginVertical="@dimen/_5sdp"
+                app:cardBackgroundColor="@color/white"
+                app:cardCornerRadius="10dp"
+                app:cardElevation="10dp"
+                app:cardMaxElevation="12dp"
+                app:cardPreventCornerOverlap="true">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:padding="@dimen/_10sdp">
+
+                    <LinearLayout
+                        android:id="@+id/LinSU08"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:gravity="start"
+                            android:padding="10dp"
+                            android:text="Who is exempt from fasting in"
+                            android:textColor="#000000"
+                            android:textSize="15sp"
+                            android:textStyle="bold" />
+
+                        <ImageView
+                            android:layout_width="@dimen/_20sdp"
+                            android:layout_height="@dimen/_20sdp"
+                            android:layout_gravity="center"
+                            android:id="@+id/ImgNs8"
+                            android:src="@drawable/down" />
+
+                    </LinearLayout>
+
+
+                    <TextView
+                        android:id="@+id/TXTSU08"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="start"
+                        android:letterSpacing="0.05"
+                        android:padding="10dp"
+                        android:text="In Islam, there are certain exemptions from fasting during Ramadan. These exemptions are outlined in the Quran and Hadith (sayings and actions of the Prophet Muhammad). Individuals who are exempt from fasting include:\n\n
+The Sick: Those who are ill or have health conditions that fasting would worsen or harm their health are exempt. However, they are expected to make up for the missed fasts later when they are able to do so.
+Travelers: Those who are on a journey that involves hardship or significant travel distances are exempt from fasting. They can choose to fast if it's not burdensome, or they can make up for the missed fasts later.
+Pregnant and Breastfeeding Women: Women who are pregnant or breastfeeding and fear for their own health or the health of their child are exempt from fasting. They are required to make up for the missed fasts at a later time.
+Menstruating Women: Women who are menstruating are not required to fast during their menstrual period. They are expected to make up for the missed fasts after their menstrual cycle ends.
+Elderly People: Elderly individuals who are unable to fast due to old age or frailty are exempt. They are encouraged to feed a poor person for each day of missed fasting if they have the means to do so, or they can make up for the missed fasts later."
+                        android:textColor="#000000"
+                        android:textSize="14sp"
+                        android:visibility="gone" />
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="@dimen/_10sdp"
+                android:layout_marginVertical="@dimen/_5sdp"
+                app:cardBackgroundColor="@color/white"
+                app:cardCornerRadius="10dp"
+                app:cardElevation="10dp"
+                app:cardMaxElevation="12dp"
+                app:cardPreventCornerOverlap="true">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:padding="@dimen/_10sdp">
+
+                    <LinearLayout
+                        android:id="@+id/LinSU09"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:gravity="start"
+                            android:padding="10dp"
+                            android:text="What breaks your fast and what"
+                            android:textColor="#000000"
+                            android:textSize="15sp"
+                            android:textStyle="bold" />
+
+                        <ImageView
+                            android:layout_width="@dimen/_20sdp"
+                            android:layout_height="@dimen/_20sdp"
+                            android:layout_gravity="center"
+                            android:id="@+id/ImgNs9"
+                            android:src="@drawable/down" />
+
+                    </LinearLayout>
+
+
+                    <TextView
+                        android:id="@+id/TXTSU09"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="start"
+                        android:letterSpacing="0.05"
+                        android:padding="10dp"
+                        android:text="In Islam, there are actions and conditions that invalidate the fast (known as iftar). Some common actions that break the fast include:\n\n
+
+Eating or drinking intentionally: Consuming any food, drink, or medication intentionally during the fasting hours from dawn (Fajr) until sunset (Maghrib) breaks the fast.\n\n
+Sexual intercourse: Engaging in sexual activity invalidates the fast. It is prohibited during fasting hours.\n\n
+Menstruation or postnatal bleeding: Menstruation or postnatal bleeding (nifas) in women breaks the fast, and they are exempt from fasting during this time.\n\n
+Vomiting intentionally: Deliberately inducing vomiting breaks the fast. However, if vomiting occurs unintentionally, the fast is still valid.\n\n
+Intentional consumption of smoke or substances that reach the stomach: Inhaling smoke or intentionally swallowing substances that reach the stomach, such as snuff or nasal drops, invalidates the fast."
+                        android:textColor="#000000"
+                        android:textSize="14sp"
+                        android:visibility="gone" />
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="@dimen/_10sdp"
+                android:layout_marginVertical="@dimen/_5sdp"
+                app:cardBackgroundColor="@color/white"
+                app:cardCornerRadius="10dp"
+                app:cardElevation="10dp"
+                app:cardMaxElevation="12dp"
+                app:cardPreventCornerOverlap="true">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:padding="@dimen/_10sdp">
+
+                    <LinearLayout
+                        android:id="@+id/LinSU010"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:gravity="start"
+                            android:padding="10dp"
+                            android:text="What doesn't break your fast in"
+                            android:textColor="#000000"
+                            android:textSize="15sp"
+                            android:textStyle="bold" />
+
+                        <ImageView
+                            android:layout_width="@dimen/_20sdp"
+                            android:layout_height="@dimen/_20sdp"
+                            android:layout_gravity="center"
+                            android:id="@+id/ImgNs10"
+                            android:src="@drawable/down" />
+
+                    </LinearLayout>
+
+
+                    <TextView
+                        android:id="@+id/TXTSU010"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="start"
+                        android:letterSpacing="0.05"
+                        android:padding="10dp"
+                        android:text="1) Breaking the fast forgetfully.
+                        2) Having a wet dream."
+                        android:textColor="#000000"
+                        android:textSize="14sp"
+                        android:visibility="gone" />
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="@dimen/_10sdp"
+                android:layout_marginVertical="@dimen/_5sdp"
+                app:cardBackgroundColor="@color/white"
+                app:cardCornerRadius="10dp"
+                app:cardElevation="10dp"
+                app:cardMaxElevation="12dp"
+                app:cardPreventCornerOverlap="true">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:padding="@dimen/_10sdp">
+
+                    <LinearLayout
+                        android:id="@+id/LinSU011"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:gravity="start"
+                            android:padding="10dp"
+                            android:text="What is disliked (makruh) for a"
+                            android:textColor="#000000"
+                            android:textSize="15sp"
+                            android:textStyle="bold" />
+
+                        <ImageView
+                            android:layout_width="@dimen/_20sdp"
+                            android:layout_height="@dimen/_20sdp"
+                            android:layout_gravity="center"
+                            android:id="@+id/ImgNs11"
+                            android:src="@drawable/down" />
+
+                    </LinearLayout>
+
+
+                    <TextView
+                        android:id="@+id/TXTSU011"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="start"
+                        android:letterSpacing="0.05"
+                        android:padding="10dp"
+                        android:text="In Islamic jurisprudence, there are actions that are considered makruh (disliked or discouraged) during fasting. While these actions do not invalidate the fast like those that break it, they are still considered undesirable and it is preferable for Muslims to avoid them. Some examples of actions that are makruh during fasting include:\n\n
+
+Excessive talking: Engaging in excessive idle talk, gossiping, or engaging in unnecessary conversation that distracts from the remembrance of Allah is considered makruh.\n\n
+Arguing or fighting: Entering into arguments, disputes, or engaging in physical or verbal altercations is discouraged during fasting.\n\n
+Indulging in worldly pleasures: Spending excessive time on worldly activities, entertainment, or distractions that divert attention from spiritual matters is considered makruh.\n\n
+Sleeping excessively: Sleeping excessively during the day, especially to the extent that it prevents one from performing acts of worship or fulfilling other obligations, is discouraged.\n\n
+Delaying iftar unnecessarily: Deliberately delaying iftar (breaking the fast) unnecessarily after the sunset (Maghrib) without a valid reason is considered makruh.\n\n
+Consuming strong-smelling substances: Using strong-smelling substances such as perfumes or incense that may lead to involuntary ingestion through the nose or mouth is makruh.\n\n
+Engaging in wasteful activities: Engaging in wasteful activities or spending excessive time on activities that do not contribute to personal development or spiritual growth is discouraged."
+                        android:textColor="#000000"
+                        android:textSize="14sp"
+                        android:visibility="gone" />
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="@dimen/_10sdp"
+                android:layout_marginVertical="@dimen/_5sdp"
+                app:cardBackgroundColor="@color/white"
+                app:cardCornerRadius="10dp"
+                app:cardElevation="10dp"
+                app:cardMaxElevation="12dp"
+                app:cardPreventCornerOverlap="true">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:padding="@dimen/_10sdp">
+
+                    <LinearLayout
+                        android:id="@+id/LinSU012"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:gravity="start"
+                            android:padding="10dp"
+                            android:text="What is recommended to do"
+                            android:textColor="#000000"
+                            android:textSize="15sp"
+                            android:textStyle="bold" />
+
+                        <ImageView
+                            android:layout_width="@dimen/_20sdp"
+                            android:layout_height="@dimen/_20sdp"
+                            android:layout_gravity="center"
+                            android:id="@+id/ImgNs12"
+                            android:src="@drawable/down" />
+
+                    </LinearLayout>
+
+
+                    <TextView
+                        android:id="@+id/TXTSU012"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="start"
+                        android:letterSpacing="0.05"
+                        android:padding="10dp"
+                        android:text="1) Eat the pre-dawn meal (sahur) as it gives you strength for the fast.\n\n
+
+2) Breaking the fast with dates, water or salt"
+                        android:textColor="#000000"
+                        android:textSize="14sp"
+                        android:visibility="gone" />
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="@dimen/_10sdp"
+                android:layout_marginVertical="@dimen/_5sdp"
+                app:cardBackgroundColor="@color/white"
+                app:cardCornerRadius="10dp"
+                app:cardElevation="10dp"
+                app:cardMaxElevation="12dp"
+                app:cardPreventCornerOverlap="true">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:padding="@dimen/_10sdp">
+
+                    <LinearLayout
+                        android:id="@+id/LinSU013"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:gravity="start"
+                            android:padding="10dp"
+                            android:text="What is fine to do when fasting?"
+                            android:textColor="#000000"
+                            android:textSize="15sp"
+                            android:textStyle="bold" />
+
+                        <ImageView
+                            android:layout_width="@dimen/_20sdp"
+                            android:layout_height="@dimen/_20sdp"
+                            android:layout_gravity="center"
+                            android:id="@+id/ImgNs13"
+                            android:src="@drawable/down" />
+
+                    </LinearLayout>
+
+
+                    <TextView
+                        android:id="@+id/TXTSU013"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="start"
+                        android:letterSpacing="0.05"
+                        android:padding="10dp"
+                        android:text="1) Using the toothstick (miswak) at any time during the day.\n\n
+
+2) Rinsing the mouth and nose.\n\n
+
+3) Taking a shower.\n\n
+
+4) Applying scent."
+                        android:textColor="#000000"
+                        android:textSize="14sp"
+                        android:visibility="gone" />
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="@dimen/_10sdp"
+                android:layout_marginVertical="@dimen/_5sdp"
+                app:cardBackgroundColor="@color/white"
+                app:cardCornerRadius="10dp"
+                app:cardElevation="10dp"
+                app:cardMaxElevation="12dp"
+                app:cardPreventCornerOverlap="true">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:padding="@dimen/_10sdp">
+
+                    <LinearLayout
+                        android:id="@+id/LinSU014"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:gravity="start"
+                            android:padding="10dp"
+                            android:text="Dua for beginning of fast?"
+                            android:textColor="#000000"
+                            android:textSize="15sp"
+                            android:textStyle="bold" />
+
+                        <ImageView
+                            android:layout_width="@dimen/_20sdp"
+                            android:layout_height="@dimen/_20sdp"
+                            android:layout_gravity="center"
+                            android:id="@+id/ImgNs14"
+                            android:src="@drawable/down" />
+
+                    </LinearLayout>
+
+
+                    <TextView
+                        android:id="@+id/TXTSU014"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="start"
+                        android:letterSpacing="0.05"
+                        android:padding="10dp"
+                        android:text="بِسْمِ اللَّهِ الَّذِيَ سُمْحَانَهُ وَتَعَالَىٰ وَبِهِ صُمْتُ، وَعَلَى رِزْقِهِ أَفْطَرْتُ"
+                        android:textColor="#000000"
+                        android:textSize="14sp"
+                        android:visibility="gone" />
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="@dimen/_10sdp"
+                android:layout_marginVertical="@dimen/_5sdp"
+                app:cardBackgroundColor="@color/white"
+                app:cardCornerRadius="10dp"
+                app:cardElevation="10dp"
+                app:cardMaxElevation="12dp"
+                app:cardPreventCornerOverlap="true">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:padding="@dimen/_10sdp">
+
+                    <LinearLayout
+                        android:id="@+id/LinSU015"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:gravity="start"
+                            android:padding="10dp"
+                            android:text="Dua when breaking fast?"
+                            android:textColor="#000000"
+                            android:textSize="15sp"
+                            android:textStyle="bold" />
+
+                        <ImageView
+                            android:layout_width="@dimen/_20sdp"
+                            android:layout_height="@dimen/_20sdp"
+                            android:layout_gravity="center"
+                            android:id="@+id/ImgNs15"
+                            android:src="@drawable/down" />
+
+                    </LinearLayout>
+
+
+                    <TextView
+                        android:id="@+id/TXTSU015"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="start"
+                        android:letterSpacing="0.05"
+                        android:padding="10dp"
+                        android:text="اللَّهُمَّ إِنِّي لَكَ صُمْتُ وَبِكَ آمَنْتُ وَعَلَى رِزْقِكَ أَفْطَرْتُ"
+                        android:textColor="#000000"
+                        android:textSize="14sp"
+                        android:visibility="gone" />
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</FrameLayout>

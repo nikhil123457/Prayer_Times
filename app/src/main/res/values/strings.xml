@@ -1,0 +1,2182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Prayer Times</string>
+    <string name="auth_token">Auth-Token</string>
+    <string name="bismillah">بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ</string>
+    <string name="FailPlaease">Fail! Please check your internet connection.</string>
+    <string name="bismillahTextEngSaheeh">In the name of Allah, the Entirely Merciful, the Especially Merciful.</string>
+    <string name="bismillahTextTurkish">Rahman ve rahim Allah adiyle</string>
+    <string name="bismillahTextUrdu">اللہ کے نام سے شروع جو بہت مہربان رحمت والا</string>
+    <string name="bismillahTextEngShakir">In the name of Allah, the Beneficent, the Merciful.</string>
+    <string name="bismillahTextEngYusaf">In the name of Allah, Most Gracious, Most Merciful.</string>
+    <string name="bismillahTextFrench">Au nom d\"Allah, le Tout Miséricordieux, le Très Miséricordieux.</string>
+    <string name="bismillahTextHindi">अल्लाह के नाम से जो बड़ा कृपालु और अत्यन्त दयावान हैं।</string>
+    <string name="bismillahTextIndonesianBahasha">Dengan menyebut nama Allah Yang Maha Pemurah lagi Maha Penyayang.</string>
+    <string name="bismillahTextItalian">In nome di Allah, il Compassionevole, il Misericordioso</string>
+    <string name="bismillahTextPersianGhommshei">به نام خداوند بخشنده مهربان</string>
+    <string name="bismillahTextSpanishCortes">¡En el nombre de Alá, el Compasivo, el Misericordioso!</string>
+    <string name="doYouWant">Do you want to Download Surah</string>
+    <string name="bismillahTextBengali">শুরু করছি আল্লাহর নামে যিনি পরম করুণাময়, অতি দয়ালু।</string>
+    <string name="bismillahTextChinese">奉至仁至慈的真主之名</string>
+    <string name="names_god_islam">99 names of Allah</string>
+    <string name="bismillahTextDutchKeyzer">In naam van den lankmoedigen en albarmhartigen God.</string>
+    <string name="bismillahTextEngDarayabadi">In the name of Allah, the Compassionate, the Merciful.</string>
+    <string name="bismillahTextEngMadudi">In the name of Allah, the Merciful, the Compassionate</string>
+    <string name="bismillahTextEngPickthal">In the name of Allah, the Beneficent, the Merciful.</string>
+    <string name="downloading">Downloading</string>
+    <string name="ok">OK</string>
+    <string name="succes">Success!</string>
+    <string name="yourTokenApikey">YourTokenApiKey</string>
+    <string name="lblcitycountry">%1$s, %2$s</string>
+    <string name="fasting_lheader1">Introduction</string>
+    <string name="fasting_lheader2">Things That Void a Fast</string>
+    <string name="fasting_lheader3">Haram Fasts</string>
+    <string name="fasting_lheader4">Person Exempted from Fasting</string>
+    <string name="fasting_lheader5">Things Invalidating Fast</string>
+    <string name="fasting_lheader6">Traveler in Ramadan</string>
+    <string name="fasting_lheader7">Fasting for Sick person</string>
+    <string name="fasting_lheader8">Kaffara for not Keeping or Breaking the Fast</string>
+    <string name="fasting_text1">Fasting during the month of Ramadan every year is another pillar of faith of Islam. During the whole Ramadan Muslims refrain from, all kinds of drinks, food and sexual intercource from dawn till dusk. Besides these, Muslims are also expected to refrain from all other minor and major evils during Ramadan and when in fast.</string>
+    <string name="fasting_text2">\10 * Eating and drinking of any kind during the fasting hours. \10 * Indulging in sexual intercourse and fornication during fasting hours. \10 * Mastrubating during fasting hours. \10 * Imputing lies on Allah and Prophet (PBUH) also void the fast of a person. \10 * Letting the dust of either some eatable item or simple earth reach the throat also voids the fast. \10 * Remaining in the state of janabat (Sexual impurity) till the Fajar Azan also voids the fast. \10 * Voluntary vomiting other then the reason sickness voids the fast.</string>
+    <string name="fasting_text3">\10 * Fasting on the day of Eid-ul Fitr and Eid-ul-Azha. \10 * For a wife to keep Mustahab fast if she won’t be able to perform the duties to husband. \10 * Haram for children to keep Mustahab fast as causes emotion strain. \10 * Haram in cause there is a danger of health by keeping the fast.</string>
+    <string name="fasting_text4">Those who are exempted from fasting in Ramadan include: \10 * Na-baligh person. \10 * Insane person. \10 * A traveler needs to offer Qaza. \10 * Women in menstruation need to keep Qaza fast after Ramadan. \10 * Aged person not having the strength of fasting in Ramadan. \10 * If fasting is harmful for the baby of a pregnant woman then she must do Qaza. \10 * For breast-feeding woman in case of any problem of health the Qaza is wajib after</string>
+    <string name="fasting_text5">If the following are done intentionally they break the fast: \10 * Drinking or eating. \10 * Vomiting \10 * Dust reaching the throat. \10 * Liquid enema. \10 * Sexual intercourse. \10 * Mastrubation \10 * Not doing Ghusl before Fajr in case of Janabat.</string>
+    <string name="fasting_text6">\10 * If journey starts after mid day in Ramadan, then the fast must be observed. \10 * If the journey starts before midday in Ramadan, then the fast would automatically break after reaching a certain. \10 * If you return back to your home after Zawal from a journey then no need to observer fast that day, \10 * If you return back home from a journey before zawal then you can observe the fast but Qaza needs to be paid. \10 * Traveling somewhere with not living more than 10 fast must not be kept.</string>
+    <string name="fasting_text7">For a sick person fasting is not wajib under the following conditions: \10 * If a person feels that keeping a fast would surely harm him or her. \10 * If the person is not sure about the harm of fasting but is advised by the doctor.</string>
+    <string name="fasting_text8">If the fast is broken intentionally or not kept at all then in addition to Qaza a person needs to pay Kaffara as well against each fast, which is: \10 * Feeding of 60 poor people. \10 * Doing 60 fasts.</string>
+    <string name="fasting_title1">1. Introduction</string>
+    <string name="fasting_title2">2. Things That Void a Fast</string>
+    <string name="fasting_title3">3. Haram Fasts</string>
+    <string name="fasting_title4">4. Person Exempted from Fasting</string>
+    <string name="fasting_title5">5. Things Invalidating Fast</string>
+    <string name="fasting_title6">6 Traveler in Ramadan</string>
+    <string name="fasting_title7">7. Fasting for Sick person</string>
+    <string name="fasting_title8">8. Kaffara for not Keeping or Breaking the Fast.</string>
+    <string name="haji_lheader1">Introduction</string>
+    <string name="haji_lheader10">Step 9: Farewell Tawaf</string>
+    <string name="haji_lheader2">Step 1: Entering in the State of Ihram</string>
+    <string name="haji_lheader3">Step 2: Performing Umrah</string>
+    <string name="haji_lheader4">Step 3: Departure to Mina</string>
+    <string name="haji_lheader5">Step 4: Departure to Arafat</string>
+    <string name="haji_lheader6">Step 5: Departure to Muzdalifa</string>
+    <string name="haji_lheader7">Step 6: Returning to Mina</string>
+    <string name="haji_lheader8">Step 7: Tawaf Al-Ifada</string>
+    <string name="haji_lheader9">Step 8: Returning to Mina(Again)</string>
+    <string name="haji_text1">Hajj is the fifth pillar of Islam. Hajj refers to the pilgrimage paid by Muslims to the holy city of Makkah in the month of DHul Hijjah. Every physically and financially able Muslim must perform hajj in his or her life at least once. Moreover, there are different rites of Hajj which the pilgrims perform during their pilgrimage. The conclusive day of Hajj marks the festival of Eid-ul-Azha.</string>
+    <string name="haji_text10">\10 * Depart to Mecca and do a farewell Tawaf. \10 * Let the Tawaf be the last thing you do in.</string>
+    <string name="haji_text2">\10 * Take a Bathe. \10 * Wear Ihram Dress. \10 * Make intention for Umrah or Hajj. \10 * Recite Talbiyah. \10 * Avoid Unnecessary acts while in the state.</string>
+    <string name="haji_text3">\10 * Do Tawaf around the Kabah. \10 * Pray two Rak’ah Salat. \10 * Between Safa and Marwah, Make sai \10 * Cut your hair and remove Imram Dress.</string>
+    <string name="haji_text4">\10 * After Umrah. wear Imram dress again. \10 * Make intention for Hajj. \10 * Stay in Mina during the shul-Jikka and perform five prayers, (zuhr to Fajron the day of Arafat).</string>
+    <string name="haji_text5">\10 * Going for Arafat on the morning of the 9th of Dhul-Hijja and remain until sunset. \10 * Reside in any part of Arafat. \10 * Glorify Allah, repeat supplication, repeat to Allah and ask for forgiveness.</string>
+    <string name="haji_text6">\10 * Leave for Muzdalifah shortly after sunset. \10 * Pray Maghrib Salat and shortened Isha. \10 * Now stay all night and perform the Fajr.</string>
+    <string name="haji_text7">Soon before sunrise, leave Muzdalifah for Mina, Depart to Jamrat al-Aqabah and stone it with seven pebbles. \10 * Slaughter your sacrifice. \10 * Shave your head. \10 * Now Take off Ihram dress.</string>
+    <string name="haji_text8">\10 * Perform Tawaf Al-Ifada and sa’i between.\9\9\9\9\9\10  * Later than Tawaf al-Ifada, all restrictions.</string>
+    <string name="haji_text9">\10 * Spend the Tashreeq days (11th,12th and 13th of Dhul-Hijja) in Mina. \10 *After Zuhr prayer each day, stone the three Jamarat, starting with the small one and ending with al-Aqabah.</string>
+    <string name="haji_title1">1. Introduction</string>
+    <string name="haji_title10">Step 9 : Farewell Tawaf</string>
+    <string name="haji_title2">Step 1: Ihram</string>
+    <string name="haji_title3">Step 2: Umrah</string>
+    <string name="haji_title4">Step 3: Mina</string>
+    <string name="haji_title5">Step 4 : Arafat</string>
+    <string name="haji_title6">Step 5 : Muzdalifah</string>
+    <string name="haji_title7">Step 6 : Returning Mina</string>
+    <string name="haji_title8">Step 7 : Tawaf Al-lfda</string>
+    <string name="haji_title9">Step 8 : Mina Again</string>
+    <string name="lbl_hadith">Hadith</string>
+    <string name="lbl_hajj">Hajj</string>
+    <string name="lbl_pillar_title">5 Pillars of Isalm</string>
+    <string name="lbl_salat">Salah</string>
+    <string name="lbl_sawn">Fasting</string>
+    <string name="lbl_shahdah">Shahadah</string>
+    <string name="lbl_zakat">Zakat</string>
+    <string name="salah_lheader1">Introduction</string>
+    <string name="salah_lheader2">Types of Salah/Namaz</string>
+    <string name="salah_lheader3">Daily Prayer Rakaats</string>
+    <string name="salah_lheader4">Rules of Qibla</string>
+    <string name="salah_lheader5">Condition For the Dress Worn for Prayers</string>
+    <string name="salah_lheader6">Makrooh Thing</string>
+    <string name="salah_lheader7">Things which make a Prayer Void</string>
+    <string name="salah_lheader8">Doubts in Namaz</string>
+    <string name="salah_text1">Salah/Namaz or Prayers is the second pillar of Islamic faith. It is mandatory for all Muslims to say prayers five times a day in different hours of the day. Prayers are made mandatory to every Muslim above the age of seven. They are said at dawn, in noon, in the mid-afternoon, at sunset and later in the evening.</string>
+    <string name="salah_text2">Salah/Namaz or Prayers is the second pillar of Islamic faith. It is mandatory for all Muslims to say prayers five times a day in different hours of the day. Prayers are made mandatory to every Muslim above the age of seven. They are said at dawn, in noon, in the mid-afternoon, at sunset and later in the evening. \10 * Daily Namaz (Jumma Nanaz included). \10 * Namaz-e-Ayaat. \10 * Namaz-e-Mayyit. \10 * Obligatory Namaz for Tawaf of Ka\"bah. \10 * Oadah Namaz of father which as a precaution the ledest son has to. \10 * Namaz which become obligatory in case of vow, oath or hire. \10Daily Obligatory Namaz: \10Number of Rak\"ats obligatory \10Namaz said five times a day are: \10 * Fajr (Dawn Prayers ) - 2 Rak\"ats. \10 * Zuhr (Mid day) - 4 Rak\"ats. \10 * Asr (Afternoon Prayers) - 4 Rak\"ats. \10 * Maghrib (Dusk Prayers) - 3 Rak\"ats. \10 * Isha (Night Prayers) - 4 Rak\"ats.</string>
+    <string name="salah_text3">There are five prayers, Muslim have to pray everyday. Each prayer is offered at different times of a day. Each prayer has different number of Rakaats to be offered, which are \10 * Fajr: 2 Rakkat Sunnah and 2 Rakat Fard \10 * Zuhr: 4 Rakkat Sunnah, 4 Rakaat Fard, 2 Rakaat Sunnah, and 2 Rakaat Nafl. \10 * Asr: 4 Rakkat Sunnah and 4 Rakaat Fard. \10 * Maghrib: 3 Rakkat Fard, 2 Rakaat Sunnah and 2 Rakaat Nafl. \10 * Isha: 4 Rakkat Sunnah, 4 Rakaat Fard, 2 Rakaat Sunnah, 2 Rakaat Nafl, 3 Rakkat Witr and 2 Rakaat NAfl. \10 * Jumma (Friday Prayer ): 4 Rakkat Sunnah, 2 Rakaat Fard, 4 Rakaat Sunnah, 2 Rakaat Sunnah and 2 Rakaat Nafl</string>
+    <string name="salah_text4">Qibla is the Holy Ka\"bah in Makkah,Pointing towards which every Muslim has to say prayers,Some of the rules related to pointing toward Qibla are \10 * For obligatory prayer, a person standing must have feet, chest, stomach and face pointed towards Qibla \10 * A person offering prayer while sitting, must point the face, stomach and chest towards Qibla. \10 * While offering prayers in a lying posture, a person must lie towards right or left in posture that the front of body faces Qibla. If not possible then the sole of the feet of the. \10 * Namaz-e-ihtiyat, forgotten Sajda, forgotten tashahhud and Sajda-e-Sahv all should be performed facing Qibla. \10 * For Mustahab Namaz in condition of riding and walking, it is not mandatory to dave Qibla. \10 * For a person identifying the direction o f Qibla, one could identify it with testimony of two people, the Mehrab of Masjid, the direction of Reavesm or by using any other. \10 * In case of confusion in deciding the direction of Qibla, aperson should not rely on guess if there are means available of finding the authentic direction. \10 * If a person can not make any idea about the direction of Qibla, then in such a case the person can offer prayers facing any.</string>
+    <string name="salah_text5">The six conditions that must be met in a dress for prayers include \10 * It must be Pak/Clean. \10 * The dress must be Mubah (permissible) for the person. \10 * The dress must not have been made out of any of the parts of dead body. \10 * The dress should not be made of the animal carcass which is Haram. \10 * The dress of male should not contain pure silk. \10 * The Dress of male should not have gold embroidered on it.</string>
+    <string name="salah_text6">Some of the Major Makrooh things in the dress or a person saying Prayer include: Wearing tight and dirty dress. \10 * Wearing clothes of a person who does not care about Najasat. \10 * Dress having images on it. \10 * Keeping buttons open. \10 * Wearing ring that has images carved on it. \10Exceptions: \10Some of the exceptions for the dress of a person saying prayers are: If the dress of a person is stained from blood discharged from some. \10 * If the stain of the blood from body is less than the size of a dirham (not more than the joint of the thumb). \10 * If person does not have any other option other than saying prayer in a najis dress or with najis body. \10 * If small clothes such as scalp caps or socks are najis, a person can still say.</string>
+    <string name="salah_text7">There are things that can cause a prayer to be void, which include: \10 * Failing to fulfill the prerequisites of Namaz like, The Pak dress or place. \10 * Secondary if a person does something intentionally or unintentionally that voids. \10 * Turning away from Qibla without any valid excuse also invalidates the prayer. \10 * Talking or uttering a single which has some meaning also voids the prayer. \10 * laughing loud intentionally invalidates the prayer. \10 * Weeping or crying either silently or loudly over some worldly matter voids the prayer. \10 * Performing an act that results in change in Namaz\"s form like jumping or clapping. \10 * Drinking or eating during Namaz invalidates it. \10 * Having doubt about the Rak\"ats of Namaz will also result in invalidating the prayer. \10 * Omission or addition of any of the Rukh of Namaz also results in prayer being.</string>
+    <string name="salah_text8">There are several doubts that can occur before or during the prayer. Some of them invalidate the prayer, while the rest of them can be ignored.The Details are: \10Prayer Invalidating Doubts: \10Doubt about the Rak\"ats of prayer. \10 * For a four Rak\"at prayer the doubt of whether having performed one or more than one Rak\"ats. \10 * In a four Rak\"at prayer the doubt of having being performed 2 Rak\"ats before going to the second Sajdah. \10 * Doubts between 5 and 2 Rak\"ats or between a number more than 5. \10 * Doubts between 6 and 3 Rak\"ats or between a number more than 6 rak\"ats. \10 * Doubts between 6 and 4 Rak\"ats or between a number more than 6 Rak\"ats. \10\10Ignorable Doubts: \10 * Doubt about an act the time of performance of which has passed such as in Ruku a person doubting whether the Surah-al-Hamd had been recited or not. \10 * Doubts that occur after saying Salam to conclude the prayer. \10 * Doubts occurring after the time of the prayer has passed already. \10 * Doubts of a person who doubts habitually. \10 * The doubts about the number of Rak\"ats by the Imam, when the Ma\"mum (follower) has the true idea about the number of Rak\"ats, similarly the doubt of Ma\"mum about Rak\"ats number when Imam has the idea.</string>
+    <string name="salah_title1">1. Introduction</string>
+    <string name="salah_title2">2. Types of Salah/Namaz</string>
+    <string name="salah_title3">3. Daily Prayer Rakaats</string>
+    <string name="salah_title4">4. Rules of Qibla</string>
+    <string name="salah_title5">5. Condition For the Dress Worn for Prayers</string>
+    <string name="salah_title6">6. Makrooh Thing</string>
+    <string name="salah_title7">7. Things which make a Prayer Void</string>
+    <string name="salah_title8">8. Doubts in Namaz</string>
+    <string name="shahadah_lheader1">Introduction</string>
+    <string name="shahadah_lheader2">Believing in God</string>
+    <string name="shahadah_lheader3">Believing in Prophets</string>
+    <string name="shahadah_lheader4">Believing in Holy Books</string>
+    <string name="shahadah_lheader5">Believing in Angels</string>
+    <string name="shahadah_lheader6">Believing in Judgement Day</string>
+    <string name="shahadah_lheader7">Believing in Fate</string>
+    <string name="shahadah_text1">The basic and most important of all the pillars of islam of Islam is Shahadah. It is a public declaration from a person starting. “There is no God but Allah and Muhammad (PUBH) is Hid Messenger.�? For a Muslim it is the base, while a non-Muslim needs to repeat the Kalima of Shahadah three time with witnesses around.</string>
+    <string name="shahadah_text2">The foundation of Shahdah is the believe in Almighty Allah as a God. Moreover, besides believing in Allah, a Muslim also needs to declare that there is no one equal to Almighty Allah and no one his partner. He is the only and sole creator of all living and nonliving things and none should ever be considered equal to him.</string>
+    <string name="shahadah_text3">For a Muslim to fulfill Shahdah, it is mandatory to believe in all Prophets sent by Allah Almighty in addition to the belief in Prophet Muhammad (PUBH) being the last Prophet of Allah. All the prophets that were sent by Allah, preached only the oneness of Allah Almighty and showed people the right path to achieving blessing and mercy of Allah.</string>
+    <string name="shahadah_text4">In declaration of Shahada a Muslim needs to affirm his or her believe on all the Holy Books in addition to the final Injeel, Toraah, Zaboor and Suhuf. Different Prophets were provided with books from Allah Almighty that contained the instruction of Allah. Believing on all the four Holy Books and Suhuf sent by Allah is mandatory for a Muslim.</string>
+    <string name="shahadah_text5">Besides human there are other creations of Allah as well. Among them, Angels are the ones upon which believing is mandatory for the completion of Shahadah and Consequently the completion of Faith. Angels must be believed as creation of Allah who carry out His Orders and are devoid of committing sin.</string>
+    <string name="shahadah_text6">A muslim needs to believe that the Judgement Day is inevitable and it will come. On the Day of Judgement, all people would rise from their graves and Allah Almighty would judge all people and for the life they spent in this world and the deeds they committed. Without believing in resurrection after death and life hereafter, the Shahadah will not be considered complete.</string>
+    <string name="shahadah_text7">A Muslim needs to submit to the will of Allah and consider date an essential part of life and integral part of Shahadah. By believing in faith, a Muslim yields to the preordained will of Allah ALmighty and regards all that happens as the will of Allah. Submitting to the will of Allah as fate is an essential part for the completion of faith.</string>
+    <string name="shahadah_title1">1. Introduction</string>
+    <string name="shahadah_title2">2. Believing in God</string>
+    <string name="shahadah_title3">3. Believing in Prophets</string>
+    <string name="shahadah_title4">4. Believing in Holy Books</string>
+    <string name="shahadah_title5">5. Believing in Angels</string>
+    <string name="shahadah_title6">6. Believing in Judgement Day</string>
+    <string name="shahadah_title7">7. Believing in Fate</string>
+    <string name="zakat_lheader1">Introduction</string>
+    <string name="zakat_lheader2">Person of wealth on which Zakat is Obligatory</string>
+    <string name="zakat_lheader3">Kinds of the wealth on which Zakat Imposed</string>
+    <string name="zakat_lheader4">Zakat Distribution</string>
+    <string name="zakat_lheader5">Kinds of the wealth not Applicable for Zakat</string>
+    <string name="zakat_lheader6">Zakat Recipients</string>
+    <string name="zakat_lheader7">Person Who can not be given Zakat</string>
+    <string name="zakat_lheader8">Punishment for not Offering Zakat</string>
+    <string name="zakat_text1">The literal meanings of word Zakat are of purification and growth. Zakat is one of the major obligations on Muslim after Namaz. It works on the guidelines given by Allah, where every able Muslim must set aside a certain proportion of their wealth for the other poor and needy people. Besides bringing the appreciation of Allah, it also boosts economic growth and social welface.</string>
+    <string name="zakat_text2">Zakat is obligatory for the following Person: \10 * The person must be a Muslim, free, sane and adult \10 * The wealth possessed by the person must be excessive to the minimum specified amount (nisaab) excluding all personal needs. \10 * The wealth must have been possessed for a whole lunar year to next. \10 * The possession should be of prodcutive nature that can produce profit such as silver, gold, liverstock. \10\10The Zakat is applicable on the following Nisaab: \10 * Gold 87.48 Gram. \10 * Silver 612.36 Gram. \10 * On other assets and cash the amount must be equivalent to the worth of specified gold or silver.&gt;</string>
+    <string name="zakat_text3">Silver and gold in any form. \10 * Bonds, Stocks, bank notes, cash etc. \10 * Business merchandise that is of the value \10 * Live Stock.</string>
+    <string name="zakat_text4">Zakat should be given as soon as it is applicable. \10 *All the zakat can be given to one person or distributed among different people. \10 *Zakat can not be given to a person for his or her service. \10 *Zakat is only valid if the receiver is made owner of the amount. \10 *It can not be given for purposes such as construction of Hospital, Madrasah, Masjid.</string>
+    <string name="zakat_text5">Metals of any kind except then gold and silver. \10 * Vehicles or equipment that are used for running of business. \10 * Precious stones like diamonds, and pearls that are in personal use. \10 * The things under personal use like furniture clothing and personal residence are exempted. \10 * If personal liabilities exceed or equals assets then there is no Zakat.</string>
+    <string name="zakat_text6">Fuqara: \10 Who do not have possession worth giving Zakat \10 Masakeen: \10 People who are extremely needy and can not fulfill their needs. \10 Amileen: \10 People appointed by Islamic Government for collection of Zakat. \10 Mu-Allafatul-Qulub: \10 People who have recently entered Islam and are needy. \10 Al_Riqaab: \10 Slaves who have the right to purchase their freedom. \10 Al Ghaarmeen: \10 People who can not play off their debts. \10 Fi-Sabilillah: \10 Giving people who are unable to complete some obligation due to financial constraints. \10 Ibn-Us-Sabeel: \10 Travelers who do not have wealth to meet their travel needs</string>
+    <string name="zakat_text7">The descendants of Prophet (PBUH). \10 Parents, grandparents and children.</string>
+    <string name="zakat_text8">Almighty Allah says in Quran: \10 And there are those who hoard gold and silver and do not spend it in the way of Allah, announce to them a most grievous penalty (when) on the Day of Judgement heat will be produced out of that wealth in the fire of leg, then with it they will be branded on their forehead and their flanks and backs. (It will be said to them) this is the treasure which you hoarded for yourselves taste than the treasure that you have been hoarding. (Al-Quran 9:34-35)</string>
+    <string name="zakat_title1">1. Introduction</string>
+    <string name="zakat_title2">2. Person of wealth on which Zakat is Obligatory.</string>
+    <string name="zakat_title3">3. Kinds of the wealth on which Zakat Imposed.</string>
+    <string name="zakat_title4">4. Zakat Distribution.</string>
+    <string name="zakat_title5">5. Kinds of the wealth not Applicable for Zakat.</string>
+    <string name="zakat_title6">6. Zakat Recipients.</string>
+    <string name="zakat_title7">7. Person Who can not be given Zakat.</string>
+    <string name="zakat_title8">8. Punishment for not Offering Zakat.</string>
+    <string name="AgainstanEnemytitle">Against An Enemy</string>
+    <string name="AgainstanEnemy">اللَّهُمَّ مُنْزِلَ اْلِكتَابِ ، سَرِيْعَ الْحِسَابِ ،اِهْزِمِ الإْحْزَابَ ،اللَّهُمَّ اِهْزِمْهُمْ وَزَلْزِلْهُمْ</string>
+    <string name="AgainstanEnemy2">Allah, Revealer of the Book, Swift to account, defeat the groups (of disbelievers). O Allah, defeat them and shake them.ْ</string>
+    <string name="EvilEye">اللَّهُمَّ بَارِك عَلَيْهِ</string>
+    <string name="_1_allah_is_the_greatest_allah_is_the">(1) Allah is the greatest, Allah is the greatest, Allah is the greatest, How perfect He is, The One Who has placed this (transport) at our service, and we ourselves would not have been capable of that, and to our Lord is our final destiny. O Allah, we ask You for birr and taqwa in this journey of ours, and we ask You for deeds which please You. O Allah, facilitate our journey and land us cover its distance quickly. O Allah, You are the Companion on the journey and the Successor over the family, O Allah, I take refuge with You from the difficulties of travel, from having a change of hearts and being in a bad predicament, and I take refuge in You from an ill fated outcome with wealth and family. Upon returning the same supplication is recited with the following addition:\10 We return, repent, worship and praise our Lord.</string>
+    <string name="all_praise_is_for_allah_who_fed_me_this_and_provided_it_for_me_without_any_might_nor_power_from_myself">All praise is for Allah who fed me this and provided it for me without any might nor power from myself.</string>
+    <string name="allah_is_the_greatest">Allah is the greatest.</string>
+    <string name="allah_is_the_greatest_allah_is_the_greatest_allah_is_the_greatest_none_has_the_right_to_be_worshiped_except_allah_alone_without_partner_to_him_belongs_all_sovereignty_and_praise_and_he_is_over_all_things_omnipotent_we_return_repent_worship_and_praise_our_lord_allah_fulfilled_his_promise_aided_his_servant_and_single_handedly_defeated_the_allies">Allah is the greatest, Allah is the greatest, Allah is the greatest. None has the right to be worshiped except Allah, alone, without partner. To Him belongs all sovereignty and praise, and He is over all things omnipotent. We return, repent, worship and praise our Lord. Allah fulfilled His promise, aided His Servant, and single-handedly defeated the allies.</string>
+    <string name="allah_is_the_greatest_o_allah_land_the_crescent_loom_above_us_in_safety_faith_peace_and_islam_and_in_agreement_with_all_that_you_love_and_pleases_you_our_lord_and_your_lord_is_allah">Allah is the greatest. O Allah, land the crescent loom above us in safety, faith, peace, and Islam, and in agreement with all that You love and pleases You. Our Lord and your Lord is Allah.</string>
+    <string name="allah_is_the_greatest_with_each_throw_of_stones_advance_towards_the_qibla_and_make_invocations_by_raising_your_hands_after_the_first_stele_and_after_the_second">\"Allah is the greatest \" [with each throw of stones] [Advance towards the Qibla and make invocations by raising your hands, after the first stele and after the second.]</string>
+    <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="atTheWeddingNight">اللَّهُمَّ إِنِّي أَسْأَلُكَ خَيْرَهَا، وَخَيْرَ مَا جَبَلْتَهَا عَلَيْهِ، وَأَعُوذُ بِكَ مِنْ شَرِّهَا، وَشَرِّ مَا جَبَلْتَهَا عَلَيْهِ</string>
+    <string name="feelingpain">بِسْمِ اللهِ (ثَلاثاً) أَعُوذُ بِاللهِ وَقُدْرَتِهِ مِنْ شَرِّ مَا أَجِدُ وَأُحَاذِرُ.(سَبْعَ مَرَّاتٍ)</string>
+    <string name="forsettingdebt">اللَّهُمَّ اكْفِنِي بِحَلاَلِكَ عَنْ حَرَامِكَ، وَأَغْنِنِي بِفَضْلِكَ عَمَّنْ سِوَاكَ</string>
+    <string name="here_i_am_o_allah_in_response_to_your_call_here_i_am">Here I am O Allah, (in response to Your call), here I am. Here I am, You have no partner, here I am. Verily all praise, grace and sovereignty belong to You. You have no partner.</string>
+    <string name="i_seek_protection_for_you_in_the_perfect_words_of_allah_from_every_devil_and_every_beast_and_from_every_envious_blameworthy_eye">I seek protection for you in the Perfect Words of Allah from every devil and every beast, and from every envious blameworthy eye.</string>
+    <string name="i_seek_refuge_in_allah_from_satan_the_outcast">I seek refuge in Allah from Satan the outcast.</string>
+    <string name="if_you_see_something_from_your_brother_yourself_or_wealth_which_you_find_impressing_then_invoke_blessings_for_it_for_the_evil_eye_is_indeed_true">If you see something from your brother, yourself or wealth which you find impressing, then invoke blessings for it, for the evil eye is indeed true.</string>
+    <string name="in_the_name_of_allah_3_times_followed_by_i_take_refuge_in_allah_and_within_his_omnipotence_from_the_evil_that_i_feel_and_am_wary_of_7_times">In the name of Allah. (3 times) followed by I take refuge in Allah and within His omnipotence from the evil that I feel and am wary of.(7 times) »</string>
+    <string name="may_a_witness_be_witness_to_our_praise_of_allah_for_his_favors_and_bounties_upon_us_our_lord_protect_us_show_favor_on_us_and_deliver_us_from_every_evil_i_take_refuge_in_allah_from_the_fire">May a witness be witness to our praise of Allah for His favors and bounties upon us. Our Lord, protect us, show favor on us and deliver us from every evil. I take refuge in Allah from the Fire.</string>
+    <string name="my_lord_do_not_leave_me_alone_with_no_heir_and_you_are_the_best_of_inheritors">My Lord, do not leave me alone [with no heir], and You are the Best of inheritors.</string>
+    <string name="my_lord_have_mercy_upon_them_both_as_they_brought_me_up_when_i_was_small">My Lord, have mercy upon them both as they brought me up [when I was] small.</string>
+    <string name="my_lord_save_me_and_my_family_from_the_consequence_of_what_they_do">My Lord, Save me and my family from [the consequence of] what they do.</string>
+    <string name="none_has_the_right_to_be_worshiped_except_allah_alone">None has the right to be worshiped except Allah, alone, without partner. To Him belongs all praise and sovereignty and He is over all things omnipotent.</string>
+    <string name="none_has_the_right_to_be_worshiped_except_allah_alone_without_partner_to_him_belongs_all_sovereignty_and_praise_he_gives_life_and_causes_death_and_he_is_living_and_does_not_die_in_his_hand_is_all_good_and_he_is_over_all_things_omnipotent">None has the right to be worshiped except Allah, alone, without partner, to Him belongs all sovereignty and praise. He gives life and causes death, and He is living and does not die. In His hand is all good and He is over all things, omnipotent.</string>
+    <string name="o_allah_bless_for_them_that_which_you_have_provided_them_forgive_them_and_have_mercy_upon_them">O Allah, bless for them, that which You have provided them, forgive them and have mercy upon them.</string>
+    <string name="o_allah_feed_him_who_fed_me_and_provide_with_drink_him_who_provided_me_with_drink">O Allah, feed him who fed me, and provide with drink him who provided me with drink.</string>
+    <string name="o_allah_for_you_is_all_praise_you_have_clothed_me_with_it_i_e_the_garment_i_ask_you_for_the_good_of_it_and_the_good_for_which_it_was_made_and_i_seek_refuge_with_you_from_the_evil_of_it_and_the_evil_for_which_it_was_made">O Allah, for You is all praise, You have clothed me with it (i.e. the garment), I ask You for the good of it and the good for which it was made, and I seek refuge with You from the evil of it and the evil for which it was made.</string>
+    <string name="o_allah_i_ask_you_for_the_goodness_within_her_and_the_goodness_that_you_have_made_her_inclined_towards_and_i_take_refuge_with_you_from_the_evil_within_her_and_the_evil_that_you_have_made_her_inclined_towards">O Allah, I ask You for the goodness within her and the goodness that you have made her inclined towards, and I take refuge with You from the evil within her and the evil that you have made her inclined towards.</string>
+    <string name="o_allah_i_ask_you_of_the_goodness_of_this_wind_and_the_goodness_it_contains_and_the_goodness_with_which_it_has_been_sent_and_i_seek_your_refuge_from_its_harm_and_the_harm_that_it_contains_and_the_harm_with_which_it_has_been_sent">O Allah, I ask you of the goodness of this wind, and the goodness it contains and the goodness with which it has been sent, and I seek Your refuge from its harm, and the harm that it contains, and the harm with which it has been sent</string>
+    <string name="o_allah_i_seek_refuge_in_you">O Allah, I seek refuge in You lest I associate anything with You knowingly, and I seek Your forgiveness for what I know not.</string>
+    <string name="o_allah_send_prayers_upon_the_family_of_the_giver_of_charity">O Allah send prayers upon the family of [the giver of charity]</string>
+    <string name="o_our_lord_grant_us_the_best_in_this_life_and_the_best_in_the_next_life_and_protect_us_from_the_punishment_of_the_fire">O our Lord, grant us the best in this life and the best in the next life, and protect us from the punishment of the Fire.</string>
+    <string name="password_toggle_content_description">Show password</string>
+    <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
+    <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
+    <string name="praise_is_to_allah_who_has_clothed_me_with_this_garment_and_provided_it_for_me_though_i_was_powerless_myself_and_incapable">Praise is to Allah Who has clothed me with this (garment) and provided it for me, though I was powerless myself and incapable.</string>
+    <string name="sightingmoon">للهُ أَكْبَرُ، اللَّهُمَّ أَهِلَّهُ عَلَيْنَا بِالأمْنِ وَالإيْمَانِ، والسَّلامَةِ والإسْلامِ، وَالتَّوْفِيْقِ لِمَا تُحِبُّ رَبَّنَا وَتَرْضَى، رَبُّنَا وَرَبُّكَ اللهُ</string>
+    <string name="so_give_me_from_yourself_an_heir_and_make_him_my_lord_pleasing_to_you">So give me from Yourself an heir. And make him, my Lord, pleasing [to You].</string>
+    <string name="this_is_what_allah_wills_and_there_is_no_might_except_by_allah">(This is) what Allah wills, and there is no might except by Allah</string>
+    <string name="upon_receiving_good_news_say_n_1_all_praise_is_for_allah_by_whose_favour_good_works_are_accomplished_nupon_receiving_bad_news_say_n_2_all_praise_is_for_allah_in_all_circumstances">Upon receiving good news, say: \10(1) « All Praise is for Allah by whose favour good works are accomplished. » \10Upon receiving bad news, say: \10(2) « All Praise is for Allah in all circumstances. »</string>
+    <string name="uponhearingnews">(١) الحَمْدُ لِلَّهِ الَّذِيْ بِنِعْمَتِهِ تَتِمُّ الصَّالِحَاتُ\10 (٢) الحَمْدُ لِلَّهِ عَلَى كُلِّ حَالٍ</string>
+    <string name="whenAngery">أَعـوذُ بِاللهِ مِنَ الشَّيْـطانِ الرَّجيـم</string>
+    <string name="when_angry">When Angry</string>
+    <string name="when_one_of_you_sneezes_say_n_1_all_praise_if_for_allah_then_his_brother_or_companion_should_reply_n_2_may_allah_have_mercy_upon_you_and_the_one_who_sneezed_replies_by_saying_n_3_may_allah_guide_you_and_rectify_your_condition">«When one of you sneezes, say: \10 (1) « All praise if for Allah, » then his brother or companion should reply:\10 (2) « May Allah have mercy upon you. » and the one who sneezed replies by saying\10 (3) « May Allah guide you and rectify your condition.» »</string>
+    <string name="whensneezing">(١) الْحَمْدُ للهِ (٢) يَرْحَمُكَ اللهُ (٣) يَهْدِيْكُمُ اللهُ وَيُصْلِحُ بَالَكُمْ</string>
+    <!--    cal-->
+    <string name="day1">Saturday</string>
+    <string name="day1m">S</string>
+    <string name="day2">Sunday</string>
+    <string name="day2m">M</string>
+    <string name="day3">Monday</string>
+    <string name="day3m">T</string>
+    <string name="day4">Tuesday</string>
+    <string name="day4m">W</string>
+    <string name="day5">Wednesday</string>
+    <string name="day5m">T</string>
+    <string name="day6">Thursday</string>
+    <string name="day6m">F</string>
+    <string name="day7">Friday</string>
+    <string name="day7m">S</string>
+    <string name="prayers">Prayers</string>
+    <string name="new_year">Islamic New Year</string>
+    <string name="ashura">Ashura</string>
+    <string name="mavlid">Mawlid al-Nabi</string>
+    <string name="laylat">Laylat al-Mi\"raj</string>
+    <string name="laylatB">Laylat al-Bara\"at</string>
+    <string name="firstR">First day of Ramaḍān</string>
+    <string name="eidALfitr">Eid al-Fitr</string>
+    <string name="dayOfArafa">Day of Arafah</string>
+    <string name="dayaladha">Eid al-Adha</string>
+    <string name="month1">muharram</string>
+    <string name="month10">Shawwal</string>
+    <string name="month10e">Shawwal</string>
+    <string name="month10g">October</string>
+    <string name="month11">Dhul Qadah</string>
+    <string name="month11e">Dhul Qadah</string>
+    <string name="month11g">November</string>
+    <string name="month12">Dhul Hijjah</string>
+    <string name="month12e">Dhul Hijjah</string>
+    <string name="month12g">December</string>
+    <string name="month1e">Muharram</string>
+    <string name="month1g">January</string>
+    <string name="month2">Safar</string>
+    <string name="month2e">Safar</string>
+    <string name="month2g">February</string>
+    <string name="month3">Raby` al-awal</string>
+    <string name="month3e">Raby\"I</string>
+    <string name="month3g">March</string>
+    <string name="month4">Rabi` al-THani</string>
+    <string name="month4e">Rabi\"II</string>
+    <string name="month4g">April</string>
+    <string name="month5">Jumada al-awwal</string>
+    <string name="month5e">Jumada I</string>
+    <string name="month5g">May</string>
+    <string name="month6">Jumada al-THani</string>
+    <string name="month6e">Jumada II</string>
+    <string name="month6g">June</string>
+    <string name="month7">Rajab</string>
+    <string name="month7e">Rajab</string>
+    <string name="month7g">July</string>
+    <string name="month8">Sha`baan</string>
+    <string name="month8e">Sha`baan</string>
+    <string name="month8g">August</string>
+    <string name="month9">Ramadan</string>
+    <string name="month9e">Ramadan</string>
+    <string name="month9g">September</string>
+    <string name="done">Done</string>
+    <string name="compass_accuracy">Compass accuracy:</string>
+    <string name="calibrate_compass">Calibrate your blue dots compass at anytime</string>
+    <string name="move_phone3">Tilt and move your phone 3 times like this:</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="when_feeling_pain_in_the_body">When Feeling Pain In The Body</string>
+    <string name="sighting_the_new_moon">Sighting The New Moon</string>
+    <string name="when_sneezing">When Sneezing</string>
+    <string name="for_setting_of_debt">For Setting of Debt</string>
+    <string name="o_allah_make_what_is_lawful_enough_for_me_as_opposed_to_what_is_unlawful_and_spare_me_by_your_grace_of_need_of_others">O Allah, make what is lawful enough for me, as opposed to what is unlawful, and spare me by Your grace, of need of others.</string>
+    <string name="dua_upon_hearing_good_or_bad_news">Dua Upon Hearing Good or Bad News</string>
+    <string name="against_an_evil_eye">Against An Evil Eye</string>
+    <string name="at_the_wedding_night">At The Wedding Night</string>
+    <string name="after_eating">After Eating</string>
+    <string name="as6">الْحَمْدُ لِلَّهِ الَّذِي أَطْعَمَنِي هـَذَا، وَرَزَقَنِيْهِ، مِنْ غَيْرِ حَوْلٍ مِنِّي وَلَا قُوَّةٍ</string>
+    <string name="who_offer_food_or_drink">who offer food or drink</string>
+    <string name="as7">اللَّهُمَّ أَطْعِمْ مَنْ أَطْعَمَنِي، وَاسْقِ مَنْ سَقَانِيٍ</string>
+    <string name="dua_upon_drinking_milk">Dua upon drinking milk</string>
+    <string name="as8">اللَّهُمَّ بَارِِكْ لَنا فِيهِ وَزِدْنَا مِنْهٍُ</string>
+    <string name="o_allah_bless_us_in_it_and_give_us_increase_of_it">O Allah! Bless us in it and give us increase of it.</string>
+    <string name="dua_of_a_gues_for_host">Dua of a Gues for host</string>
+    <string name="as9">اللَّهُمَّ بَارِكْ لَهُمْ فِيمَا رَزَقْتَهُمْ ، وَاغْفِرْ لَهُمْ وَارْحَمْهُمٍُْ</string>
+    <string name="getting_dressed">Getting Dressed</string>
+    <string name="as10">اَلحَمدُ للهِ الَّذِي كَسَانِي هَذَا (الثَّوْبَ) وَرَزَقَنِيهِ مِنْ غَيْرِ حَولٍ مِنِّي وَلَا قُوَّةٍ</string>
+    <string name="when_undressing">When Undressing</string>
+    <string name="as11">بِسْمِ اللهِ</string>
+    <string name="in_the_name_of_allah12">In the name of Allah</string>
+    <string name="wearing_new_clothes">Wearing new clothes</string>
+    <string name="as12">اللَّهُمَّ لَكَ الحَمدُ أَنْتَ كَسَوْتَنِيهِ، أَسْأَلُكَ مِنْ خَيْرِهِ وَخَيْرِ مَا صُنِعَ لَهُ، وَأَعُوذُ بِكَ مِنْ شَرِّهِ وَشِّرِ مَا صُنِعَ لَهُ</string>
+    <string name="dua_to_say_goodbye_to_his_family">Dua to say goodbye to his family</string>
+    <string name="as13">أَسْتَوْدِعُكُمُ اللَّهَ، الَّذِيْ لَا تَضِيْعُ وَدَائِعُهُ</string>
+    <string name="i_place_you_in_the_trust_of_allah_whose_trust_is_never_misplaced">I place you in the trust of Allah, whose trust is never misplaced.</string>
+    <string name="dua_when_we_go_on_a_trip">Dua when we go on a trip</string>
+    <string name="as14">(١) اللَّهُ أَكْبَرُ، اللَّهُ أَكْبَرُ، اللَّهُ أَكْبَرُ ﴿سُبْحَانَ الَّذِيْ سَخَّرَ لَنَا هَذَا وَمَا كُنَّا لَهُ مُقْرِنِيْنَ، وَإِنَّا إِلَى رَبِّنَا لَمُنْقَلِبُونَ﴾ اللَّهُمَّ إِنَّا نَسْأَلُكَ فِي سَفَرِنَا هَذَا الْبِرَّ وَالتَّقْوَى، وَمِنَ الْعَمَلِ مَا تَرْضَى، اللَّهُمَّ هَوِّنْ عَلَيْنَا سَفَرَنَا هَذَا وَاطْوِعَنَّا بُعْدَهُ، اللَّهُمَّ أَنْتَ الصَّاحِبُ فِي السَّفَرِ، وَالْخَلِيْفَةُ فِي الأَهْلِ، اللَّهُمَّ إِنِّي أَعُوْذُ بِكَ مِنْ وَعْثَاءِ السَّفَرِ، وَكآبَةِ الْمَنْظَرِ وَسُوءِ المُنْقَلَبِ فِي الْمَالِ وَالأَهْلِ 10(٢) آيِبُونَ، تَائِبُونَ، عَابِدُونَ، لِرَبِّنَا حَامِدُونَ</string>
+    <string name="dua_when_we_come_back_from_a_trip">Dua when we come back from a trip</string>
+    <string name="as15">اللهُ أَكْبَرُ، اللهُ أَكْبَرُ، اللهُ أَكْبَرُ، لَا إلَهَ إلَّا اللهُ وَحْدَهُ لَا شَرِيْكَ لهُ، لهُ المُلْكُ وَ لَهُ الحَمْدُ، وهُوَ عَلَى كُلِّ شَيْءٍ قَدِيْرٌ، آيِبُونَ، تَائِبُونَ، عَابِدُونَ، لِرَبِّنَا حـَامِدُونَ، صَدَقَ اللهُ وَعْدَهُ، وَنَصَرَ عَبْدَهُ، وَهَزَمَ الأحْزَابَ وَحْدَهُ</string>
+    <string name="dua_prayer_of_the_traveler_as_dawn_approaches">Dua prayer of the traveler as dawn approaches</string>
+    <string name="as16">سَمَّعَ سَامِعٌ بِحَمْدِ اللهِ، وَحُسْنِ بَلائِهِ عَلَيْنَا،.رَبَّنَا صَاحِبْنَا، وَأَفْضِلْ عَلَيْنَا عَائِذاً باللهِ مِنَ النَّارِ</string>
+    <string name="when_you_enter_the_market_or_the_store">When you enter the market or the store</string>
+    <string name="as17">لَا إلَهَ إلَّا اللهُ وَحْدَهُ لَا شَرِيْكَ لَهُ، لَهُ المُلْكُ وَلَهُ الحَمْدُ، يُحْيِي وَيُمِيْتُ، وَهُوَ حَيٌّ لَا يَمُوتُ، بِيَدِهِ الْخَيْرُ، وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيْرٌ</string>
+    <string name="dua_to_have_pious_obedient_children">Dua to have pious, obedient Children</string>
+    <string name="as18">فَهَبْ لِي مِن لَّدُنكَ وَلِيًّا. ٍوَاجْعَلْهُ رَبِّ رَضِيًّا</string>
+    <string name="dua_for_the_protection_of_your_children">Dua for the Protection of your children</string>
+    <string name="as19">أُعيـذُكُمـا بِكَلِـماتِ اللهِ التّـامَّة، مِنْ كُلِّ شَيْـطانٍ وَهـامَّة، وَمِنْ كُـلِّ عَـيْنٍ لامَّـة</string>
+    <string name="dua_to_have_children">Dua to have children</string>
+    <string name="as20">رَبِّ لَا تَذَرْنِي فَرْدًا وَأَنتَ خَيْرُ الْوَارِثِينَ</string>
+    <string name="for_family">For Family</string>
+    <string name="as21">رَبِّ نَجِّنِي وَأَهْلِي مِمَّا يَعْمَلُونَ</string>
+    <string name="for_parents">For Parents</string>
+    <string name="as22">رَّبِّ ارْحَمْهُمَا كَمَا رَبَّيَانِي صَغِيرًا</string>
+    <string name="when_leaving_home">When leaving home</string>
+    <string name="as23">بِسْمِ اللهِ، تَوَكَّلْتُ عَلَى اللهِ، وَلاَحَوْلَ وَلَا قُوَّةَ إِلَّا بِاللهِ</string>
+    <string name="in_the_name_of_allah_i_place_my_trust_in_allah_and_there_is_no_might_nor_power_except_with_allah">In the name of Allah, I place my trust in Allah, and there is no might nor power except with Allah.</string>
+    <string name="when_leaving_masjid">When leaving Masjid</string>
+    <string name="as24">اللهم إِنِّي أَسْأَلُكَ مِنْ فَضْلِكَ</string>
+    <string name="o_allah_i_ask_you_from_your_favor">O Allah, I ask You from Your favor.</string>
+    <string name="when_entering_masjid">When entering Masjid</string>
+    <string name="as25">اللَّهُمَّ افْتَحْ لِي أَبْوَابَ رَحْمَتِكَ</string>
+    <string name="o_allah_open_the_gates_of_your_mercy_for_me">O Allah, open the gates of Your mercy for me.</string>
+    <string name="when_entering_home">When entering home</string>
+    <string name="as26">بِسْمِ اللَّهِ وَلَجْنَا، وَبِسْمِ اللَّهِ خَرَجْنَا، وَعَلَى اللهِ رَبَّنَا تَوَكَّلْنَا</string>
+    <string name="in_the_name_of_allah_we_enter_and_in_the_name_of_allah_we_leave_and_upon_our_lord_we_place_our_trust">In the name of Allah we enter and in the name of Allah we leave, and upon our Lord we place our trust.</string>
+    <string name="du_apos_a_while_leaving_house_for_special_work_object_purpose">Du\"a While Leaving House For Special Work/Object/Purpose</string>
+    <string name="as27">اِنَّ فِىْ خَلْقِ السَّمَاوَاتِ وَالْاَرْضِ وَاخْتِلاَفِ الَّيْلِ وَالنَّهَارِ لَاٰيَاتٍ لّاُِولِى الْاَلْبَابِ.الَّذِيْنَ يَذْكُرُوْنَ اللهَ قِيَامًا وَّ قُعُوْدًا وَّ عَلٰي جُنُوْبِهِمْ وَ يَتَفَكَّرُوْنَ فِى خَلْقِ السَّمَاوَاتِ وَالْاَرْضِ، رَبَّنَا مَا خَلَقْتَ هٰذَا بَاطِلاً، سُبْحَانَكَ فَقِنَا عَذَابَ النَّارِ.رَبَّنَآ اِنَّكَ مَنْ تُدْخِلِ النَّارَ فَقَدْ اَخْزَيْتَهٗ، وَمَا لِلظَّالِمِيْنَ مِنْ اَنْصَارٍ.رَبَّنَآ اِنَّنَا سَمِعْنَا مُنَادٍيًا يُّنَادِىْ لِلْاِيْمَانِ اَنْ اٰمِنُوْا بِرَبِّكُمْ فَاٰمَنَّا، رَبَّنَا فَاغْفِرْ لَنَا ذُنُوْبَنَا وَ كَفِّرْعَنَّا سَيِّاٰتِنَا وَ تَوَفَّنَا مَعَ الْاَبْرَارِ.رَبَّنَا وَ اٰتِنَا مَا وَعَدْتَّنَا عَلٰي رُسُلِكَ وَلاَ تُخْزِنَا يَوْمَ الْقِيَامَةِ، اِنَّكَ لاَ تُخْلِفُ الْمِيْعَادَ.</string>
+    <string name="verily_in_the_creation_of_the_heavens_and_the_earth_and_the_alteration_of_the_night_and_the_day_there_are_signs_for_men_who_possess_wisdom_those_who_remember_allah_standing_and_sitting_and_reclining_on_their_sided_and_think_seriously_in_the_creation_of_the_heaven_and_the_earth_saying_o_our_lord_thou_hast_not_created_all_this_in_vain_glory_be_to_thee_save_us_then_from_the_torment_of_the_hell_fire_o_our_lord_whomsoever_thou_causeth_to_enter_the_hell_fire_surely_thou_hast_put_him_to_disgrace_there_is_not_for_the_unjust_any_of_the_helpers_o_our_lord_we_have_indeed_heard_the_voice_of_a_crier_messenger_calling_us_unto_faith_saying_believe_ye_in_your_lord_therefore_forgive_us_then_our_sins_and_remove_away_from_us_our_evil_deeds_and_cause_us_to_die_with_the_virtuous_ones_o_our_lord_and_give_us_what_thou_didst_promise_us_through_thy_prophet_and_disgrace_us_not_on_the_day_of_resurrection_verily_thou_breakest_not_thy_promise">Verily in the creation of the heavens and the earth and the alteration of the night and the day, there are signs for men who possess wisdom. Those who remember Allah standing, and sitting and reclining on their sided and think (Seriously) in the creation of the heaven and the earth saying ‘O Our Lord! Thou hast not created (all) this in vain! Glory be to Thee! Save us then from the torment of the (Hell) fire.’ O Our Lord! Whomsoever Thou causeth to enter the (Hell) fire surely thou hast put him to disgrace; there is not, for the unjust, any of the helpers. O Our Lord! We Have indeed heard the voice of a Crier (Messenger) calling (us) unto faith, saying, “Believe ye in your Lord!” Therefore “Forgive us then our sins and remove away from us our evil deeds and cause us to die with the virtuous ones”. O Our Lord! And give us what Thou didst promise us through Thy prophet, and disgrace us not on the Day of Resurrection; Verily, Thou breakest not Thy Promise”</string>
+    <string name="dua_for_someone_who_does_good_to_you">Dua for someone who does good to you</string>
+    <string name="as29">جَزاكَ اللهُ خَـيْراً</string>
+    <string name="may_allah_reward_you_with_good">May Allah reward you with good</string>
+    <string name="dua_for_the_person_who_gives_in_charity">Dua for the person who gives in charity</string>
+    <string name="as28">اللَّهُمَّ صَلِّ عَلَى آلِ [فُلاَنٍ]</string>
+    <string name="dua_when_visiting_the_sick">Dua When Visiting The Sick</string>
+    <string name="as30">لَا بَأْسَ طَهُورٌ إِنْ شَآءَ اللّٰہُ</string>
+    <string name="this_is_not_a_thing_of_harm_in_sha_allah_azzawajal_this_illness_purifies_from_sins">This is not a thing of harm In Sha Allah Azzawajal this illness purifies from sins</string>
+    <string name="du_aa_for_fear_of_shirk">Du’aa for Fear of Shirk</string>
+    <string name="as31">اللّهُـمَّ إِنّـي أَعـوذُبِكَ أَنْ أُشْـرِكَ بِكَ وَأَنا أَعْـلَمْ، وَأَسْتَـغْفِرُكَ لِما لا أَعْـلَم</string>
+    <string name="dua_when_seeing_something_you_like_about_yourself_or_your_possessions">Dua when seeing something you like about yourself or your possessions</string>
+    <string name="as32">مَاشَاء اللَّهُ لَا قُوَّةَ إلاَّ بِاللَّهِ</string>
+    <string name="when_the_wind_blows">When the wind blows</string>
+    <string name="as33">اللَّهمَّ إِنِّي أَسْأَلُكَ خَيْرَهَا، وَخَيْرَ مَا فِيْهَا، وَخَيْرَ مَا أُُرْسِلَتْ بِهِ، وَأَعُوْذُ بِكَ مِنْ شَرِّهَا، وَشَرِّ مَا فِيْهَا، وَشَرِّ مَا أُُرْسِلَتْ بِهِ</string>
+    <string name="against_the_distractions_of_satan">Against the distractions of Satan</string>
+    <string name="as34">أَعُوذُ بِاللَّهِ مِنَ الشَّيْطانِ الرَّجِيْمِ</string>
+    <string name="i_seek_refuge_in_allah_from_satan_the_outcast_10_then_spit_to_your_left_10_do_this_three_times_reciting_in_arabic">I seek refuge in Allah from Satan, the outcast 10 (then spit to your left) 10 (Do this three times reciting in Arabic)</string>
+    <string name="to_seek_forgiveness_and_repentance">To Seek Forgiveness and Repentance</string>
+    <string name="as35">قَالَ رَسُولُ اللهِ ﷺ : «وَ اللهِ إِنِّي لأسْتَغْفِرُ اللهَ وَ أ تُوبُ إلَيْهِ فِي اليَوْمِ أكثَرَ مِنْ سَبْعِيْنَ مَرَّةٍ</string>
+    <string name="the_messenger_of_allah_sallallahou_apos_alayhi_wa_sallam_said_10_by_allah_i_seek_forgiveness_and_repent_to_allah_more_than_seventy_times_a_day">The Messenger of Allah (sallallahou \"alayhi wa sallam) said :10 « By Allah, I seek forgiveness and repent to Allah, more than seventy times a day. »</string>
+    <string name="when_performing_hajj_or_umrah">When performing Hajj or Umrah</string>
+    <string name="as40">لَبَّيْكَ اللَّهُمَّ لَبَّيْكَ، لَبَّيْكَ لاَ شَرِيْكَ لَكَ لَبَّيْكَ، إِنَّ الْحَمْدَ والنِّعْمَةَ، لَكَ وَالمُلْكَ، لَا شَرِيْكَ لَكَ</string>
+    <string name="dua_when_we_are_in_front_of_al_hajar_al_aswad">Dua when we are in front of Al Hajar Al Aswad</string>
+    <string name="as41">اللهُ أَكْبَرُ</string>
+    <string name="dua_between_the_yemeni_corner_and_the_black_stone">Dua between the Yemeni corner and the Black Stone</string>
+    <string name="as42">رَبَّنَا آتِنَا في الدُّنْيَا حَسَنَةً وفي الآخِرَةِ حَسَنَةً وقِنَا عَذَابَ النَّارِ</string>
+    <string name="dua_on_the_day_of_arafat">Dua on the day of Arafat</string>
+    <string name="as43">ا إلَهَ إلَّا اللهُ وَحْدَهُ لَا شَرِيْكَ لَهُ، لَهُ المُلْكُ، ولَهُ الحَمْدُ، وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيْرٌ</string>
+    <string name="dua_during_the_stone_throw_at_jamarat">Dua during the stone throw at Jamarat</string>
+    <string name="as44">اللهُ أَكْبَرُ</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <!-- TODO: Remove or change this placeholder text -->
+    <!-- TODO: Remove or change this placeholder text -->
+    <!-- Strings used for fragments for navigation -->
+
+
+    <string name="Rb0A01">Rabbana Duas 1</string>
+    <string name="Rb0A1">رَبَّنَا تَقَبَّلْ مِنَّا إِنَّكَ أَنْتَ السَّمِيعُ العَلِيمُ</string>
+    <string name="Rb0B1">Rabbana taqabbal minna innaka antas Sameeaul Aleem</string>
+    <string name="Rb0C1">Our Lord! Make of us Muslims, bowing to Thy (Will), and of our progeny a people Muslim, bowing to Thy (will); and show us our place for the celebration of (due) rites; and turn unto us (in Mercy); for Thou art the Oft-Returning, Most Merciful [2:128]</string>
+    <string name="Rb0A02">Rabbana Duas 2</string>
+    <string name="Rb0A2">رَبَّنَا وَاجْعَلْنَا مُسْلِمَيْنِ لَكَ وَمِن ذُرِّيَّتِنَا أُمَّةً مُّسْلِمَةً لَّكَ وَأَرِنَا مَنَاسِكَنَا وَتُبْ عَلَيْنَآ إِنَّكَ أَنتَ التَّوَّابُ الرَّحِيمُ</string>
+    <string name="Rb0B2">Rabbana wa-j "alna Muslimaini laka wa min Dhurriyatina "Ummatan Muslimatan laka wa "Arina Manasikana wa tub "alaina "innaka "antat-Tawwabu-Raheem</string>
+    <string name="Rb0C2">Our Lord! Make of us Muslims, bowing to Thy (Will), and of our progeny a people Muslim, bowing to Thy (will); and show us our place for the celebration of (due) rites; and turn unto us (in Mercy); for Thou art the Oft-Returning, Most Merciful [2:128]</string>
+    <string name="Rb0A03">Rabbana Duas 3</string>
+    <string name="Rb0A3">رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ</string>
+    <string name="Rb0B3">Rabbana atina fid-dunya hasanatan wa fil "akhirati hasanatan waqina "adhaban-nar</string>
+    <string name="Rb0C3">Our Lord! Grant us good in this world and good in the hereafter, and save us from the chastisement of the fire [2:201]</string>
+    <string name="Rb0A04">Rabbana Duas 4</string>
+    <string name="Rb0A4">رَبَّنَا أَفْرِغْ عَلَيْنَا صَبْراً وَثَبِّتْ أَقْدَامَنَا وَانصُرْنَا عَلَى القَوْمِ الكَافِرِينَ</string>
+    <string name="Rb0B4">Rabbana afrigh "alaina sabran wa thabbit aqdamana wansurna "alal-qawmil-kafirin</string>
+    <string name="Rb0C4">Our Lord! Bestow on us endurance, make our foothold sure, and give us help against the disbelieving folk [2:250]</string>
+    <string name="Rb0A05">Rabbana Duas 5</string>
+    <string name="Rb0A5">رَبَّنَا لاَ تُؤَاخِذْنَا إِن نَّسِينَا أَوْ أَخْطَأْنَا</string>
+    <string name="Rb0B5">Rabbana la tu"akhidhna in-nasina aw akhta"na</string>
+    <string name="Rb0C5">Our Lord! Condemn us not if we forget or fall into error [2:286]</string>
+    <string name="Rb0A06">Rabbana Duas 6</string>
+    <string name="Rb0A6">رَبَّنَا وَلاَ تَحْمِلْ عَلَيْنَا إِصْرًا كَمَا حَمَلْتَهُ عَلَى الَّذِينَ مِن قَبْلِنَا</string>
+    <string name="Rb0B6">Rabbana wala tahmil alaina isran kama hamaltahu "alal-ladheena min qablina</string>
+    <string name="Rb0C6">Our Lord! Lay not on us a burden Like that which Thou didst lay on those before us [2:286]</string>
+    <string name="Rb0A07">Rabbana Duas 7</string>
+    <string name="Rb0A7">رَبَّنَا وَلاَ تُحَمِّلْنَا مَا لاَ طَاقَةَ لَنَا بِهِ وَاعْفُ عَنَّا وَاغْفِرْ لَنَا وَارْحَمْنَا أَنتَ مَوْلاَنَا فَانصُرْنَا عَلَى الْقَوْمِ الْكَافِرِينَ</string>
+    <string name="Rb0B7">Rabbana wala tuhammilna ma la taqata lana bihi wa"fu anna waghfir lana wairhamna anta mawlana fansurna "alal-qawmil kafireen</string>
+    <string name="Rb0C7">Our Lord! Lay not on us a burden greater than we have strength to bear. Blot out our sins, and grant us forgiveness. Have mercy on us. Thou art our Protector; Help us against those who stand against faith [2:286]</string>
+    <string name="Rb0A08">Rabbana Duas 8</string>
+    <string name="Rb0A8">رَبَّنَا لاَ تُزِغْ قُلُوبَنَا بَعْدَ إِذْ هَدَيْتَنَا وَهَبْ لَنَا مِن لَّدُنكَ رَحْمَةً إِنَّكَ أَنتَ الْوَهَّابُ</string>
+    <string name="Rb0B8">Rabbana la tuzigh quloobana ba"da idh hadaitana wa hab lana milladunka rahmah innaka antal Wahhab</string>
+    <string name="Rb0C8">Our Lord! (they say), Let not our hearts deviate now after Thou hast guided us, but grant us mercy from Thine own Presence; for Thou art the Grantor of bounties without measure [3:8]</string>
+    <string name="Rb0A09">Rabbana Duas 9</string>
+    <string name="Rb0A9">رَبَّنَا إِنَّكَ جَامِعُ النَّاسِ لِيَوْمٍ لاَّ رَيْبَ فِيهِ إِنَّ اللّهَ لاَ يُخْلِفُ الْمِيعَادَ</string>
+    <string name="Rb0B9">Rabbana innaka jami"unnasi li-Yawmil la raiba fi innallaha la yukhliful mi"aad</string>
+    <string name="Rb0C9">Our Lord! Thou art He that will gather mankind Together against a day about which there is no doubt; for Allah never fails in His promise. [3:9]</string>
+    <string name="Rb0A010">Rabbana Duas 10</string>
+    <string name="Rb0A10">رَبَّنَا إِنَّنَا آمَنَّا فَاغْفِرْ لَنَا ذُنُوبَنَا وَقِنَا عَذَابَ النَّارِ</string>
+    <string name="Rb0B10">Rabbana innana amanna faghfir lana dhunuubana wa qinna "adhaban-Naar</string>
+    <string name="Rb0C10">Our Lord! We have indeed believed: forgive us, then, our sins, and save us from the agony of the Fire [3:16]</string>
+    <string name="Rb0A011">Rabbana Duas 11</string>
+    <string name="Rb0A11">رَبَّنَآ ءَامَنَّا بِمَآ أَنزَلْتَ وَٱتَّبَعْنَا ٱلرَّسُولَ فَٱكْتُبْنَا مَعَ ٱلشَّٰهِدِينَ</string>
+    <string name="Rb0B11">Rabbana amanna bima anzalta wattaba "nar-Rusula fak-tubna ma"ash-Shahideen</string>
+    <string name="Rb0C11">Our Lord! We believe in what Thou hast revealed, and we follow the Messenger. Then write us down among those who bear witness [3:53]</string>
+    <string name="Rb0A012">Rabbana Duas 12</string>
+    <string name="Rb0A12">ربَّنَا اغْفِرْ لَنَا ذُنُوبَنَا وَإِسْرَافَنَا فِي أَمْرِنَا وَثَبِّتْ أَقْدَامَنَا وانصُرْنَا عَلَى الْقَوْمِ الْكَافِرِينَِ</string>
+    <string name="Rb0B12">Rabbana-ghfir lana dhunuubana wa israfana fi amrina wa thabbit aqdamana wansurna "alal qawmil kafireen</string>
+    <string name="Rb0C12">Our Lord! Forgive us our sins and anything We may have done that transgressed our duty: Establish our feet firmly, and help us against those that resist Faith [3:147]</string>
+    <string name="Rb0A013">Rabbana Duas 13</string>
+    <string name="Rb0A13">رَبَّنَا مَا خَلَقْتَ هَذا بَاطِلاً سُبْحَانَكَ فَقِنَا عَذَابَ النَّارِ</string>
+    <string name="Rb0B13">Rabbana ma khalaqta hadha batila Subhanaka faqina "adhaban-Naar</string>
+    <string name="Rb0C13">Our Lord! Not for naught Hast Thou created (all) this! Glory to Thee! Give us salvation from the penalty of the Fire [3:191]</string>
+    <string name="Rb0A014">Rabbana Duas 14</string>
+    <string name="Rb0A14">رَبَّنَا إِنَّكَ مَن تُدْخِلِ النَّارَ فَقَدْ أَخْزَيْتَهُ وَمَا لِلظَّالِمِينَ مِنْ أَنصَارٍ</string>
+    <string name="Rb0B14">Rabbana innaka man tudkhilin nara faqad akhzaytah wa ma liDh-dhalimeena min ansar</string>
+    <string name="Rb0C14">Our Lord! Any whom Thou dost admit to the Fire, Truly Thou coverest with shame, and never will wrong-doers Find any helpers! [3:192]</string>
+    <string name="Rb0A015">Rabbana Duas 15</string>
+    <string name="Rb0A15">رَّبَّنَا إِنَّنَا سَمِعْنَا مُنَادِيًا يُنَادِي لِلإِيمَانِ أَنْ آمِنُواْ بِرَبِّكُمْ فَآمَنَّا</string>
+    <string name="Rb0B15">Rabbana innana sami"na munadiyany-yunadi lil-imani an aminu bi Rabbikum fa"aamanna</string>
+    <string name="Rb0C15">Our Lord! We have heard the call of one calling (Us) to Faith, "Believe ye in the Lord," and we have believed [3:193]</string>
+    <string name="Rb0A016">Rabbana Duas 16</string>
+    <string name="Rb0A16">رَبَّنَا فَاغْفِرْ لَنَا ذُنُوبَنَا وَكَفِّرْ عَنَّا سَيِّئَاتِنَا وَتَوَفَّنَا مَعَ الأبْرَارِ</string>
+    <string name="Rb0B16">Rabbana faghfir lana dhunoobana wa kaffir "ana saiyi"aatina wa tawaffana ma"al Abrar</string>
+    <string name="Rb0C16">Our Lord! Forgive us our sins, blot out from us our iniquities, and take to Thyself our souls in the company of the righteous [3:193]</string>
+    <string name="Rb0A017">Rabbana Duas 17</string>
+    <string name="Rb0A17">رَبَّنَا وَآتِنَا مَا وَعَدتَّنَا عَلَى رُسُلِكَ وَلاَ تُخْزِنَا يَوْمَ الْقِيَامَةِ إِنَّكَ لاَ تُخْلِفُ الْمِيعَاد</string>
+    <string name="Rb0B17">Rabbana wa "atina ma wa"adtana "ala rusulika wa la tukhzina yawmal-Qiyamah innaka la tukhliful mi"aad</string>
+    <string name="Rb0C17">Our Lord! Grant us what Thou didst promise unto us through Thine apostles, and save us from shame on the Day of Judgment: For Thou never breakest Thy promise [3:194]</string>
+    <string name="Rb0A018">Rabbana Duas 18</string>
+    <string name="Rb0A18">رَبَّنَا آمَنَّا فَاكْتُبْنَا مَعَ الشَّاهِدِينَ</string>
+    <string name="Rb0B18">Rabbana aamana faktubna ma" ash-shahideen</string>
+    <string name="Rb0C18">Our Lord! We believe; write us down among the witnesses [5:83]</string>
+    <string name="Rb0A019">Rabbana Duas 19</string>
+    <string name="Rb0A19">رَبَّنَا أَنزِلْ عَلَيْنَا مَآئِدَةً مِّنَ السَّمَاء تَكُونُ لَنَا عِيداً لِّأَوَّلِنَا وَآخِرِنَا وَآيَةً مِّنكَ وَارْزُقْنَا وَأَنتَ خَيْرُ الرَّازِقِينَ</string>
+    <string name="Rb0B19">Rabbana anzil "alaina ma"idatam minas-Samai tuknu lana "idal li-awwa-lina wa aakhirna wa ayatam-minka war-zuqna wa anta Khayrul-Raziqeen</string>
+    <string name="Rb0C19">O Allah our Lord! Send us from heaven a table set (with viands), that there may be for us - for the first and the last of us - a solemn festival and a sign from thee; and provide for our sustenance, for thou art the best Sustainer (of our needs) [5:114]</string>
+    <string name="Rb0A020">Rabbana Duas 20</string>
+    <string name="Rb0A20">رَبَّنَا ظَلَمْنَا أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ الْخَاسِرِينَ</string>
+    <string name="Rb0B20">Rabbana zalamna anfusina wa il lam taghfir lana wa tarhamna lana kunan minal-khasireen</string>
+    <string name="Rb0C20">Our Lord! We have wronged our own souls: If thou forgive us not and bestow not upon us Thy Mercy, we shall certainly be lost [7:23]</string>
+    <string name="Rb0A021">Rabbana Duas 21</string>
+    <string name="Rb0A21">رَبَّنَا لاَ تَجْعَلْنَا مَعَ الْقَوْمِ الظَّالِمِينَ</string>
+    <string name="Rb0B21">Rabbana la taj"alna ma"al qawwmi-dhalimeen</string>
+    <string name="Rb0C21">Our Lord! Send us not to the company of the wrong-doers [7:47</string>
+    <string name="Rb0A022">Rabbana Duas 22</string>
+    <string name="Rb0A22">رَبَّنَا افْتَحْ بَيْنَنَا وَبَيْنَ قَوْمِنَا بِالْحَقِّ وَأَنتَ خَيْرُ الْفَاتِحِينَ</string>
+    <string name="Rb0B22">Rabbanaf-tah bainana wa baina qawmina bil haqqi wa anta Khairul Fatiheen</string>
+    <string name="Rb0C22">Our Lord! Decide Thou between us and our people in truth, for Thou art the best to decide [7:89]</string>
+    <string name="Rb0A023">Rabbana Duas 23</string>
+    <string name="Rb0A23">رَبَّنَا أَفْرِغْ عَلَيْنَا صَبْرًا وَتَوَفَّنَا مُسْلِمِينَ</string>
+    <string name="Rb0B23">Rabbana afrigh "alaina sabraw wa tawaffana Muslimeen</string>
+    <string name="Rb0C23">Our Lord! Pour out on us patience and constancy, and take our souls unto thee as Muslims (who bow to thy will) [7:126]</string>
+    <string name="Rb0A024">Rabbana Duas 24</string>
+    <string name="Rb0A24">رَبَّنَا لاَ تَجْعَلْنَا فِتْنَةً لِّلْقَوْمِ الظَّالِمِينَ ; وَنَجِّنَا بِرَحْمَتِكَ مِنَ الْقَوْمِ الْكَافِرِينَ</string>
+    <string name="Rb0B24">Rabbana la taj"alna fitnatal lil-qawmidh-Dhalimeen wa najjina bi-Rahmatika minal qawmil kafireen</string>
+    <string name="Rb0C24">Our Lord! Make us not a trial for those who practise oppression; And deliver us by Thy Mercy from those who reject (Thee) [10:85-86]</string>
+    <string name="Rb0A025">Rabbana Duas 25</string>
+    <string name="Rb0A25">رَبَّنَا إِنَّكَ تَعْلَمُ مَا نُخْفِي وَمَا نُعْلِنُ وَمَا يَخْفَى عَلَى اللّهِ مِن شَيْءٍ فَي الأَرْضِ وَلاَ فِي السَّمَاء</string>
+    <string name="Rb0B25">Rabbana innaka ta"lamu ma nukhfi wa ma nu"lin wa ma yakhfa "alal-lahi min shai"in fil-ardi wa la fis-Sama"</string>
+    <string name="Rb0C25">O our Lord! Truly Thou dost know what we conceal and what we reveal: for nothing whatever is hidden from Allah, whether on earth or in heaven [14:38]</string>
+    <string name="Rb0A026">Rabbana Duas 26</string>
+    <string name="Rb0A26">رَبَّنَا وَتَقَبَّلْ دُعَاء</string>
+    <string name="Rb0B26">Rabbana wa taqabbal Du"a</string>
+    <string name="Rb0C26">O our Lord! And accept my Prayer [14:40]</string>
+    <string name="Rb0A027">Rabbana Duas 27</string>
+    <string name="Rb0A27">رَبَّنَا اغْفِرْ لِي وَلِوَالِدَيَّ وَلِلْمُؤْمِنِينَ يَوْمَ يَقُومُ الْحِسَابُ</string>
+    <string name="Rb0B27">Rabbana ghfir li wa li wallidayya wa lil Mu"mineena yawma yaqumul hisaab</string>
+    <string name="Rb0C27">O our Lord! Cover (us) with Thy Forgiveness - me, my parents, and (all) Believers, on the Day that the Reckoning will be established! [14:41]</string>
+    <string name="Rb0A028">Rabbana Duas 28</string>
+    <string name="Rb0A28">رَبَّنَا آتِنَا مِن لَّدُنكَ رَحْمَةً وَهَيِّئْ لَنَا مِنْ أَمْرِنَا رَشَدًا</string>
+    <string name="Rb0B28">Rabbana "atina mil-ladunka Rahmataw wa haiyi lana min amrina rashada</string>
+    <string name="Rb0C28">Our Lord! Bestow on us Mercy from Thyself, and dispose of our affair for us in the right way! [18:10]</string>
+    <string name="Rb0A029">Rabbana Duas 29</string>
+    <string name="Rb0A29">رَبَّنَا إِنَّنَا نَخَافُ أَن يَفْرُطَ عَلَيْنَا أَوْ أَن يَطْغَى</string>
+    <string name="Rb0B29">Rabbana innana nakhafu ai-yafruta "alaina aw any-yatgha</string>
+    <string name="Rb0C29">Our Lord! We fear lest he hasten with insolence against us, or lest he transgress all bounds [20: 45]</string>
+    <string name="Rb0A030">Rabbana Duas 30</string>
+    <string name="Rb0A30">رَبَّنَا آمَنَّا فَاغْفِرْ لَنَا وَارْحَمْنَا وَأَنتَ خَيْرُ الرَّاحِمِينَ</string>
+    <string name="Rb0B30">Rabbana amanna faghfir lana warhamna wa anta khairur Rahimiin</string>
+    <string name="Rb0C30">Our Lord! We believe; then do Thou forgive us, and have mercy upon us: For Thou art the Best of those who show mercy [23: 109]</string>
+    <string name="Rb0A031">Rabbana Duas 31</string>
+    <string name="Rb0A31">رَبَّنَا اصْرِفْ عَنَّا عَذَابَ جَهَنَّمَ إِنَّ عَذَابَهَا كَانَ غَرَامًا إِنَّهَا سَاءتْ مُسْتَقَرًّا وَمُقَامًا</string>
+    <string name="Rb0B31">Rabbanas-rif "anna "adhaba jahannama inna "adhabaha kana gharama innaha sa"at musta-qarranw wa muqama</string>
+    <string name="Rb0C31">Our Lord! Avert from us the Wrath of Hell, for its Wrath is indeed an affliction grievous,- Evil indeed is it as an abode, and as a place to rest in [25: 65-66]</string>
+    <string name="Rb0A032">Rabbana Duas 32</string>
+    <string name="Rb0A32">رَبَّنَا هَبْ لَنَا مِنْ أَزْوَاجِنَا وَذُرِّيَّاتِنَا قُرَّةَ أَعْيُنٍ وَاجْعَلْنَا لِلْمُتَّقِينَ إِمَامًا</string>
+    <string name="Rb0B32">Rabbana Hablana min azwaajina wadhurriy-yatina, qurrata "ayioni wa-jalna lil-muttaqeena Imaama</string>
+    <string name="Rb0C32">O my Lord! Grant unto us wives and offspring who will be the comfort of our eyes, and give us (the grace) to lead the righteous [25:74]</string>
+    <string name="Rb0A033">Rabbana Duas 33</string>
+    <string name="Rb0A33">رَبَّنَا لَغَفُورٌ شَكُورٌ</string>
+    <string name="Rb0B33">Rabbana la Ghafurun shakur</string>
+    <string name="Rb0C33">Our Lord is indeed Oft-Forgiving Ready to appreciate (service) [35: 34]</string>
+    <string name="Rb0A034">Rabbana Duas 34</string>
+    <string name="Rb0A34">آمَنُوا رَبَّنَا وَسِعْتَ كُلَّ شَيْءٍ رَّحْمَةً وَعِلْمًا فَاغْفِرْ لِلَّذِينَ تَابُوا وَاتَّبَعُوا سَبِيلَكَ وَقِهِمْ عَذَابَ الْجَحِيمِ</string>
+    <string name="Rb0B34">Rabbana wasi"ta kulla sha"ir Rahmatanw wa "ilman faghfir lilladhina tabu wattaba"u sabilaka waqihim "adhabal-Jahiim</string>
+    <string name="Rb0C34">Our Lord! Thy Reach is over all things, in Mercy and Knowledge. Forgive, then, those who turn in Repentance, and follow Thy Path; and preserve them from the Penalty of the Blazing Fire! [40:7]</string>
+    <string name="Rb0A035">Rabbana Duas 35</string>
+    <string name="Rb0A35">رَبَّنَا وَأَدْخِلْهُمْ جَنَّاتِ عَدْنٍ الَّتِي وَعَدتَّهُم وَمَن صَلَحَ مِنْ آبَائِهِمْ وَأَزْوَاجِهِمْ وَذُرِّيَّاتِهِمْ إِنَّكَ أَنتَ الْعَزِيزُ الْحَكِيمُ وَقِهِمُ السَّيِّئَاتِ وَمَن تَقِ السَّيِّئَاتِ يَوْمَئِذٍ فَقَدْ رَحِمْتَهُ وَذَلِكَ هُوَ الْفَوْزُ الْعَظِيمُ</string>
+    <string name="Rb0B35">Rabbana wa adhkhilhum Jannati "adninil-lati wa"attahum wa man salaha min aba"ihim wa azwajihim wa dhuriyyatihim innaka antal "Azizul-Hakim, waqihimus saiyi"at wa man taqis-saiyi"ati yawma"idhin faqad rahimatahu wa dhalika huwal fawzul-"Adheem</string>
+    <string name="Rb0C35">And grant, our Lord! that they enter the Gardens of Eternity, which Thou hast promised to them, and to the righteous among their fathers, their wives, and their posterity! For Thou art (He), the Exalted in Might, Full of Wisdom. And preserve them from (all) ills; and any whom Thou dost preserve from ills that Day,- on them wilt Thou have bestowed Mercy indeed: and that will be truly (for them) the highest Achievement [40:8-9]</string>
+    <string name="Rb0A036">Rabbana Duas 36</string>
+    <string name="Rb0A36">رَبَّنَا اغْفِرْ لَنَا وَلِإِخْوَانِنَا الَّذِينَ سَبَقُونَا بِالْإِيمَانِ وَلَا تَجْعَلْ فِي قُلُوبِنَا غِلًّا لِّلَّذِينَ آمَنُوا</string>
+    <string name="Rb0B36">Rabbana-ghfir lana wa li "ikhwani nalladhina sabaquna bil imani wa la taj"al fi qulubina ghillal-lilladhina amanu</string>
+    <string name="Rb0C36">Our Lord! Forgive us, and our brethren who came before us into the Faith, and leave not, in our hearts, rancour (or sense of injury) against those who have believed [59:10]</string>
+    <string name="Rb0A037">Rabbana Duas 37</string>
+    <string name="Rb0A37">رَبَّنَا إِنَّكَ رَؤُوفٌ رَّحِيمٌ</string>
+    <string name="Rb0B37">Rabbana innaka Ra"ufur Rahim</string>
+    <string name="Rb0C37">Our Lord! Thou art indeed Full of Kindness, Most Merciful [59:10]</string>
+    <string name="Rb0A038">Rabbana Duas 38</string>
+    <string name="Rb0A38">رَّبَّنَا عَلَيْكَ تَوَكَّلْنَا وَإِلَيْكَ أَنَبْنَا وَإِلَيْكَ الْمَصِيرُ</string>
+    <string name="Rb0B38">Rabbana "alaika tawakkalna wa-ilaika anabna wa-ilaikal masir</string>
+    <string name="Rb0C38">Our Lord! In Thee do we trust, and to Thee do we turn in repentance: to Thee is (our) Final Goal [60:4]</string>
+    <string name="Rb0A039">Rabbana Duas 39</string>
+    <string name="Rb0A39">رَبَّنَا لَا تَجْعَلْنَا فِتْنَةً لِّلَّذِينَ كَفَرُوا وَاغْفِرْ لَنَا رَبَّنَا إِنَّكَ أَنتَ الْعَزِيزُ الْحَكِيمُ</string>
+    <string name="Rb0B39">Rabbana la taj"alna fitnatal lilladhina kafaru waghfir lana Rabbana innaka antal "Azizul-Hakim</string>
+    <string name="Rb0C39">Our Lord! Make us not a (test and) trial for the Unbelievers, but forgive us, our Lord! for Thou art the Exalted in Might, the Wise [60:5]</string>
+    <string name="Rb0A040">Rabbana Duas 40</string>
+    <string name="Rb0A40">رَبَّنَا أَتْمِمْ لَنَا نُورَنَا وَاغْفِرْ لَنَا إِنَّكَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ</string>
+    <string name="Rb0B40">Rabbana atmim lana nurana waighfir lana innaka "ala kulli shai-in qadir</string>
+    <string name="Rb0C40">Our Lord! Perfect our Light for us, and grant us Forgiveness: for Thou hast power over all things [66:8]</string>
+
+
+    <string name="HM0A1">When waking up</string>
+    <string name="HM0B1">الحَمْـدُ لِلّهِ الّذي أَحْـيانا
+بَعْـدَ ما أَماتَـنا
+وَإليه النُّـشور
+</string>
+    <string name="HM0C1">Alḥamdu lillāhil-ladhī "aḥyānā
+ba`da mā "amātanā
+wa "ilayhin-nushūr.</string>
+    <string name="HM0D1">Praise is to Allah Who gives us life
+after He has caused us to die
+and to Him is the return.</string>
+
+    <string name="HM0A2">When wearing a garment</string>
+    <string name="HM0B2">الحمدُ للهِ الّذي كَساني هذا (الثّوب)
+وَرَزَقَنيه مِنْ غَـيـْرِ حَولٍ مِنّي وَلا قـوّة</string>
+    <string name="HM0C2">Alḥamdu lillāhil-ladhī kasānī hādhā (aththawba)
+wa razaqanīhi min ghayri hawlim-minnī wa lā quwwah.</string>
+    <string name="HM0D2">Praise is to Allah Who has clothed me with this (garment)
+and provided it for me, though I was powerless myself and incapable</string>
+
+    <string name="HM0A3"> When wearing a new garment</string>
+    <string name="HM0B3">للّهُـمَّ لَـكَ الحَـمْـدُ أنْـتَ كَسَـوْتَنيهِ،
+أََسْأََلُـكَ مِـنْ خَـيرِهِ وَخَـيْرِ مَا صُنِعَ لَـه،
+وَأَعوذُ بِكَ مِـنْ شَـرِّهِ وَشَـرِّ مـا صُنِعَ لَـهُ</string>
+    <string name="HM0C3">Allāhumma lakal-ḥamdu "anta kasawtanīhi,
+"as"aluka min khayrihi wa khayri mā ṣuni`a lahu,
+wa "a`oothu bika min sharrihi wa sharri mā ṣuni`a lahu.</string>
+    <string name="HM0D3">O Allah, praise is to You. You have clothed me.
+I ask You for its goodness and the goodness of what it has been made for,
+and I seek Your protection from the evil of it and the evil of what it has been made for.</string>
+
+    <string name="HM0A4">To someone wearing a new garment</string>
+    <string name="HM0B4">تُبْـلي وَيُـخْلِفُ اللهُ تَعَالى</string>
+    <string name="HM0C4">Tublī wa yukhliful-lāhu ta`ālā.</string>
+    <string name="HM0D4">May Allah replace it when it is worn out.</string>
+
+    <string name="HM0A5">Before undressing</string>
+    <string name="HM0B5">بِسْمِ الله
+</string>
+    <string name="HM0C5">Bismillāhi</string>
+    <string name="HM0D5">In the Name of Allah.</string>
+
+    <string name="HM0A6">Before entering the bathroom</string>
+    <string name="HM0B6">(بِسْمِ الله)
+اللّهُـمَّ إِنِّـي أَعـوذُ بِـكَ مِـنَ الْخُـبْثِ وَالْخَبائِث</string>
+    <string name="HM0C6">Allāhumma "innī "a`ūdhu bika minal-khubthi walkhabā"ith.</string>
+    <string name="HM0D6">[In the Name of Allah].
+O Allah, I seek protection in You from evil and the evil ones
+(or, from the evil male and female Jinn).</string>
+
+    <string name="HM0A7">After leaving the bathroom</string>
+    <string name="HM0B7">غُفْـرانَك</string>
+    <string name="HM0C7">Ghufrānaka</string>
+    <string name="HM0D7">I seek Your forgiveness</string>
+
+    <string name="HM0A8">Before ablution</string>
+    <string name="HM0B8">بِسْمِ الله
+</string>
+    <string name="HM0C8">Bismillāhi</string>
+    <string name="HM0D8">In the Name of Allah</string>
+
+    <string name="HM0A9">Upon completing the ablution</string>
+    <string name="HM0B9">هَدُ أَنْ لا إِلَـهَ إِلاّ اللهُ
+وَحْدَهُ لا شَريـكَ لَـهُ
+وَأَشْهَدُأَنَّ مُحَمّـداً عَبْـدُهُ وَرَسـولُـه</string>
+    <string name="HM0C9">Ash-hadu "an lā "ilāha "illallāhu
+waḥdahu lā sharīka lahu
+wa "ash-hadu "anna Muḥammadan `abduhu wa Rasūluhu.</string>
+    <string name="HM0D9">I bear witness that none has the right to be worshipped but Allah alone,
+Who has no partner;
+and I bear witness that Muhammad is His slave and His Messenger</string>
+
+    <string name="HM0A10">Remembrance when leaving the home</string>
+    <string name="HM0B10">بِسْمِ اللهِ ، تَوَكَّلْـتُ عَلى اللهِ
+وَلا حَوْلَ وَلا قُـوَّةَ إِلاّ بِالله</string>
+    <string name="HM0C10">Bismillāhi, tawakkaltu `alallāhi,
+wa lā ḥawla wa lā quwwata illā billāh.</string>
+    <string name="HM0D10">In the Name of Allah, I have placed my trust in Allah,
+there is no might and no power except by Allah.</string>
+
+    <string name="HM0A11">Remembrance upon entering the home</string>
+    <string name="HM0B11">بِسْـمِ اللهِ وَلَجْنـا،
+وَبِسْـمِ اللهِ خَـرَجْنـا،
+وَعَلـى رَبِّنـا تَوَكّلْـن
+(ثم ليسلم على أهله.)</string>
+    <string name="HM0C11">Bismillāhi walajnā,
+wa bismillāhi kharajnā,
+wa `ala Rabbinā tawakkalnā</string>
+    <string name="HM0D11">In the Name of Allah we enter ,
+in the Name of Allah we leave ,
+and upon our Lord we depend
+[then say As-Salāmu `Alaykum to those present].</string>
+
+    <string name="HM0A12">When going to the mosque</string>
+    <string name="HM0B12">للّهُـمَّ اجْعَـلْ فِي قَلْبـي نُوراً ،
+وَفي لِسَـانِي نُوراً،
+وَفِي سَمْعِي نُوراً,
+وَفِي بَصَرِيِ نُوراً,
+وَمِنْ فََوْقِي نُوراً ,
+وَ مِنْ تَحْتِي نُوراً,
+وَ عَنْ يَمِينيِ نُوراَ,
+وعَنْ شِمَالِي نُوراً,
+وَمْن أَماَمِي نُوراً,
+وَمِنْ خَلْفيِ نُوراَ,
+واجْعَلْ فِي نَفْسِي نُوراً,
+وأَعْظِمْ لِي نُوراً,
+وَعظِّمْ لِي نُوراً,
+وَاجْعَلْ لِي نُوراً,
+واجْعَلنِي نُوراً,
+أللَّهُمَّ أَعْطِنِي نُوراً,
+واجْعَلْ فِي عَصَبِي نُوراً,
+وَفِي لَحْمِي نُوراً,
+وَفِي دَمِي نُوراً
+وَفِي شَعْرِي نُوراً,
+وفِي بَشَرِي نُوراً
+(أَللَّهُمَّ اجِعَلْ لِي نُوراً فِي قّبْرِي
+وَ نُوراَ فِي عِظاَمِي)
+(وَزِدْنِي نُوراً,
+وَزِدْنِي نُوراَ ,
+وَزِدْنِي نُوراً)
+(وَهَبْ لِي نُوراً عَلَى نُوراً )</string>
+    <string name="HM0C12">Allāhummaj"al fī qalbī nūran,
+wa fī lisānī nūran,
+wa fī sam`ī nūran,
+wa fī baṣarī nūran,
+wa min fawqī nūran,
+wa min taḥtī nūran,
+wa `an yamīnī nūran,
+wa `an shimālī nūran,
+wa min "amāmī nūran,
+wa min khalfī nūran,
+waj`al fī nafsī nūran,
+wa "a`ẓim lī nūran,
+wa `ẓẓim lī nūran,
+waj`allī nūran,
+waj`alnī nūran,
+Allāhumma "a`tinī nūran,
+waj"al fī `aṣabī nūran,
+wa fī laḥmī nūran,
+wa fī damī nūran,
+wa fī sha`rī nūran,
+wa fī basharī nūran.
+[Allāhummaj`allī nūran fī qabrī
+wa nūran fī `iẓāmī.]
+[Wa zidnī nūran,
+wa zidnī nūran,
+wa zidnī nūran.]
+[Wa hab lī nūran `alā nūr.]</string>
+    <string name="HM0D12">O Allah, place light in my heart,
+and on my tongue light,
+and in my ears light
+and in my sight light,
+and above me light,
+and below me light,
+and to my right light,
+and to my left light,
+and before me light
+and behind me light.
+Place in my soul light.
+Magnify for me light,
+and amplify for me light.
+Make for me light
+and make me a light.
+O Allah, grant me light,
+and place light in my nerves,
+and in my body light
+and in my blood light
+and in my hair light
+and in my skin light.1
+[O Allah, make for me a light in my
+grave...
+and a light in my bones.]
+(At-Tirmidhi 5/483 (Hadith no. 3419).)
+[Increase me in light,
+increase me in light,
+increase me in light .]
+(Al-Bukhari in Al-"Adab Al-Mufrad (Hadith no. 695), p. 258. See also
+Al-Albani, Sahih Al-"Adab Al-Mufrad(no. 536).)
+[Grant me light upon light.]
+(Al-Bukhari, cf. Al-Asqalani, Fathul-Bari 11/118.)</string>
+
+    <string name="HM0A13">Upon entering the mosque</string>
+    <string name="HM0B13">أَعوذُ باللهِ العَظيـم وَبِوَجْهِـهِ الكَرِيـم وَسُلْطـانِه القَديـم مِنَ الشّيْـطانِ الرَّجـيم، [ بِسْـمِ الله، وَالصَّلاةُ وَالسَّلامُ عَلى رَسولِ الله]، اللّهُـمَّ افْتَـحْ لي أَبْوابَ رَحْمَتـِك</string>
+    <string name="HM0C13">"A`ūdhu billāhi l-`aẓīm,
+wa bi-wajhihil-karīm,
+wa sultānihil-qadīm,
+min ash-shaytānir-rajīm.
+[Bismillāhi, wassalātu wassalāmu `alā rasūlillāhi.]
+Allāhummaftaḥ lī "abwāba raḥmatik.</string>
+    <string name="HM0D13">I seek refuge in Almighty Allah,
+By His Noble Face,
+By His primordial power,
+From Satan the outcast.1
+[In the Name of Allah, and blessings 2 and peace be upon the Messenger of Allah.3
+O Allah, open before me the doors of Your mercy.4</string>
+
+    <string name="HM0A14">Upon leaving the mosque</string>
+    <string name="HM0B14">بِسمِ الله وَالصّلاةُ وَالسّلامُ عَلى رَسولِ الله،
+اللّهُـمَّ إِنّـي أَسْأَلُكَ مِـنْ فَضْـلِك،
+اللّهُـمَّ اعصِمْنـي مِنَ الشَّيْـطانِ الرَّجـيم</string>
+    <string name="HM0C14">Bismillāhi waṣṣalātu wassalāmu "alā Rasūlillāhi,
+Allāhumma "innī "as"aluka min faḍlika,
+Allāhumma`ṣimnī min ash-shaytānir-rajīm.</string>
+    <string name="HM0D14">In the Name of Allah, and peace and blessings be upon the Messenger of Allah.
+O Allah, I ask for Your favor,
+O Allah, protect me from Satan the outcast.</string>
+
+    <string name="HM0A15">Concerning the athan (the call to prayer)</string>
+    <string name="HM0B15">قول مثل ما يقول المؤذن إلا في (حي على الصلاة ، وحي على الفلاح) فيقول</string>
+    <string name="HM0C15">Hayya "alas-Salāh (hasten to the prayer) and Hayya "alal-Falāh (hasten to salvation). Here you should say:
+Lā ḥawla wa lā quwwata "illā billāh.</string>
+    <string name="HM0D15">There is no might and no power except by Allah.</string>
+
+    <string name="HM0A16"> At the start of the prayer (after takbeer)</string>
+    <string name="HM0B16">للّهُـمَّ باعِـدْ بَيـني وَبَيْنَ خَطـايايَ
+كَما باعَدْتَ بَيْنَ المَشْرِقِ وَالمَغْرِبْ ،
+اللّهُـمَّ نَقِّنـي مِنْ خَطايايَ
+كَمـا يُـنَقَّى الثَّـوْبُ الأَبْيَضُ مِنَ الدَّنَسْ ،
+اللّهُـمَّ اغْسِلْنـي مِنْ خَطايـايَ
+بِالثَّلـجِ وَالمـاءِ وَالْبَرَدْ.</string>
+    <string name="HM0C16">Allāhumma bā"id baynī wa bayna khatāyāya
+kamā bāa"adta bayn al-mashriqi wal-maghribi,
+Allāhumma naqqinī min khatāyāya
+kamā yunaqqa "th-thawbu "l-"abyaḍu min ad-danasi,
+Allāhumma "ghsilnī min khatāyāya,
+bi "th-thalji wal-mā"i wal-barad.</string>
+    <string name="HM0D16">O Allah, separate me from my sins
+as You have separated the East from the West.
+O Allah, cleanse me of my transgressions
+as the white garment is cleansed of stains.
+O Allah, wash away my sins
+with ice and water and frost.</string>
+
+    <string name="HM0A17">While bowing in prayer</string>
+    <string name="HM0B17">سُبْـحانَ رَبِّـيَ الْعَظـيم (ثلاث مرات)</string>
+    <string name="HM0C17">Subḥāna Rabbiyal-`Aẓīm.</string>
+    <string name="HM0D17">[three times] Glory to my Lord the Exalted (three times in Arabic)</string>
+
+    <string name="HM0A18">Upon rising from the bowing position</string>
+    <string name="HM0B18">سَمِـعَ اللهُ لِمَـنْ حَمِـدَه</string>
+    <string name="HM0C18">Sami`allāhu liman ḥamidah</string>
+    <string name="HM0D18">Allah hears whoever praises Him.</string>
+
+    <string name="HM0A19">While prostrating</string>
+    <string name="HM0B19">سُبْـحانَ رَبِّـيَ الأَعْلـى. (ثلاث مرات)</string>
+    <string name="HM0C19">Subḥāna Rabbiya ‘l-a`lā.</string>
+    <string name="HM0D19">Glory is to my Lord, the Most High. (This is said three times in Arabic.)</string>
+
+    <string name="HM0A20">Between the two prostrations</string>
+    <string name="HM0B20">رَبِّ اغْفِـرْ لي ، رَبِّ اغْفِـرْ لي</string>
+    <string name="HM0C20">Rabbi’ghfir lī, Rabbi’ghfir lī.</string>
+    <string name="HM0D20">Lord, forgive me. My Lord, forgive me.</string>
+    <string name="HM0A21">When prostrating due to recitation of the Quran</string>
+    <string name="HM0B21">سَجَـدَ وَجْهـي للَّـذي خَلَقَـهُ
+وَشَقَّ سَمْـعَـهُ وَبَصَـرَهُ بِحَـوْلِـهِ وَقُـوَّتِهِ
+﴿فتَبـارَكَ اللهُ أَحْسَـنُ الخـالِقيـن﴾.</string>
+    <string name="HM0C21">Sajada wajhiya lilladhī khalaqahu,
+wa shaqqa sam`ahu wa baṣarahu biḥawlihi wa quwwatihi.
+Fatabārakallāhu "aḥsanul-khāliqīn.</string>
+    <string name="HM0D21">I have prostrated my face to the One Who created it,
+and gave it hearing and sight by His might and His power.
+Glory is to Allah, the Best of creators.</string>
+
+    <string name="HM0A22">The Tashahhud</string>
+    <string name="HM0B22">التَّحِيّـاتُ للهِ وَالصَّلَـواتُ والطَّيِّـبات ،
+السَّلامُ عَلَيـكَ أَيُّهـا النَّبِـيُّ وَرَحْمَـةُ اللهِ وَبَرَكـاتُه ،
+السَّلامُ عَلَيْـناوَعَلـى عِبـادِ للهِ الصَّـالِحـين .
+أَشْـهَدُ أَنْ لا إِلـهَ إِلاّ الله ،
+وَأَشْـهَدُ أَنَّ مُحَمّـداً عَبْـدُهُ وَرَسـولُه</string>
+    <string name="HM0C22">Attaḥiyyātu lillāhi waṣṣalawātu, waṭṭayyibāt,
+assalāmu `alayka "ayyuhan-Nabiyyu
+wa raḥmatullāhi wa barakātuh,
+assalāmu `alaynā wa `alā ‘ibādillāhiṣ-ṣāliḥīn.
+"Ash-hadu "an lā "ilāha "illallāh
+wa "ash-hadu "anna Muḥammadan `abduhu wa rasūluh.</string>
+    <string name="HM0D22">All greetings of humility are for Allah, and all prayers and goodness.
+Peace be upon you, O Prophet, and the mercy of Allah and His blessings.
+Peace be upon us and upon the righteous slaves of Allah. I bear witness
+that there is none worthy of worship but Allah, and I bear witness that
+Muhammad is His slave and His Messenger.</string>
+
+    <string name="HM0A23">Prayers upon the Prophet ﷺ after the tashahhud</string>
+    <string name="HM0B23">للّهُـمَّ صَلِّ عَلـى مُحمَّـد، وَعَلـى آلِ مُحمَّد،
+كَمـا صَلَّيـتَ عَلـى إبْراهـيمَ وَعَلـى آلِ إبْراهـيم،
+إِنَّكَ حَمـيدٌ مَجـيد ،
+اللّهُـمَّ بارِكْ عَلـى مُحمَّـد، وَعَلـى آلِ مُحمَّـد،
+كَمـا بارِكْتَ عَلـى إبْراهـيمَ وَعَلـى آلِ إبْراهيم،
+إِنَّكَ حَمـيدٌ مَجـيد</string>
+    <string name="HM0C23">Allāhumma ṣalli `alā Muḥammadinwa `alā ’āli Muḥammadin,
+kamā ṣallayta `alā "Ibrāhīma wa `alā ’āli "Ibrāhīma, "innaka ḥamīdum-majīd.
+Allāhumma bārik `alā Muḥammadin wa `alā ’āli Muḥammadin,
+kamā bārakta `alā "Ibrāhīma wa `alā "āli "Ibrāhīma,
+"innaka ḥamīdum-majīd.</string>
+    <string name="HM0D23">O Allah, bestow Your favor on Muhammad and on the family of Muhammad as You have bestowed Your favor on Ibrahim and on the family of Ibrahim, You are Praiseworthy, Most Glorious.
+O Allah, bless Muhammad and the family of Muhammad as You have blessed Ibrahim and the family of Ibrahim, You are Praiseworthy, Most Glorious.</string>
+
+    <string name="HM0A24">After the last tashahhud and before salam</string>
+    <string name="HM0B24">للّهُـمَّ إِنِّـي أَعـوذُ بِكَ مِـنْ عَذابِ القَـبْر،
+وَمِـنْ عَذابِ جَهَـنَّم،
+وَمِـنْ فِتْـنَةِ المَحْـيا وَالمَمـات،
+وَمِـنْ شَـرِّ فِتْـنَةِ المَسيحِ الدَّجّال</string>
+    <string name="HM0C24">Allāhumma ‘innī ‘a`ūdhu bika min `adhābi ‘l-qabri,
+wa min `adhābi jahannam,
+wa min fitnati ‘l-maḥyā wa ‘l-mamāti,
+wa min sharri fitnati ‘l-masīḥid-dajjāl.</string>
+    <string name="HM0D24">O Allah, I seek refuge in You from the punishment of the grave, and from the punishment of Hell-fire, and from the trials of life and death, and
+from the evil of the trial of the False Messiah.</string>
+
+    <string name="HM0A25">After salam</string>
+    <string name="HM0B25">سْـتَغْفِرُ الله (ثَلاثاً)
+اللّهُـمَّ أَنْـتَ السَّلامُ
+وَمِـنْكَ السَّلام
+تَبارَكْتَ يا ذا الجَـلالِ وَالإِكْـرام</string>
+    <string name="HM0C25">Astaghfirullāh
+(three times)
+Allāhumma antas-salām,
+wa minkas-salām,
+tabārakta yā dhal-Jalāli wal-"Ikrām.</string>
+    <string name="HM0D25">I seek the forgiveness of Allah (three times).
+O Allah, You are Peace and from You comes peace.
+Blessed are You, O Owner of majesty and honor.</string>
+
+    <string name="HM0A26"> For seeking guidance in forming a decision or choosing the proper course</string>
+    <string name="HM0B26">قال جابر بن عبد الله رضي الله عنهما : كان رسول الله صلى الله عليه وسلم ، يُعلمنا الاستخارة في الأمور كلها كما يعلمُنا السورة من القرآن ، يقول : إذا هم أحدكم بالأمر فليركع ركعتين من غير الفريضة ، ثم ليقل:
+"اللهم إني أستخيرك بعلمك ،
+وأستقدرك بقدرتك ،
+وأسألك من فضلك العظيم
+فإنك تقدِرُ ولا أقدِرُ ،
+وتعلم ولا أعلم ،
+وأنت علام الغيوب ،
+اللهم إن كنت تعلم أن هذا الأمر
+- يسمي حاجته -
+خير لي في ديني ومعاشي وعاقبة أمري
+- أو قال : عاجله وآجله -
+فاقدره لي ويسره لي ،
+ثم بارك لي فيه ،
+وإن كنت تعلم أن هذا الأمر
+شر لي في ديني ومعاشي وعاقبة أمري
+- أو قال : عاجله وآجله -
+فاصرفه عني واصرفني عنه ،
+واقدر لي الخير حيث كان ،
+ثم ارضني به "
+
+وما ندم من استخار الخالق، وشاور المخلوقين المؤمنين وتثبَّت في أمره، فقد قال سبحانه ﴿وَشـاوِرْهُـم في الأمْـرِ فَـإِذا عَـزَمْـتَ فَتَوَكّـلْ عَلـى الله﴾</string>
+    <string name="HM0C26">The Prophet (ﷺ) used to teach us to seek Allah"s Counsel in all matters, as he used to teach us a Surah from the Qur"an. He would say: When anyone of you has an important matter to decide, let him pray two Rak"ahs other than the obligatory prayer, and then say:
+Allāhumma innī astakhīruka bi `ilmik,
+wa astaqdiruka biqudratik,
+wa as"aluka min faḍlika ‘l-`Aẓīm,
+fa"innaka taqdiru wa lā aqdir,
+wa ta`lamu wa lā a`lam,
+wa anta `allāmu ‘l-ghuyūb,
+Allāhumma in kunta ta`lamu anna hādha ‘l-amra - [then mention the thing to be decided]
+Khayrun lī fī dīnī wa ma`āshī wa `āqibati amrī - [or say] `ājilihi wa ājilih -
+faqdurhu lī wa yassirhu lī
+thumma bārik lī fīh,
+wa in kunta ta`lamu anna hādha ‘l-amra
+sharrun lī fī dīnī wa ma`āshī wa `āqibati "amrī - [or say] `ājilihi wa "ājilihi -
+faṣrifhu `annī waṣrifnī `anh,
+waqdur liya ‘l-khayra ḥaythu kān,
+thumma arḍinī bih.</string>
+    <string name="HM0D26">"O Allah, I seek the counsel of Your Knowledge,
+and I seek the help of Your Omnipotence,
+and I beseech You for Your Magnificent Grace.
+Surely, You are Capable and I am not.
+You know and I know not,
+and You are the Knower of the unseen.
+O Allah, if You know that this matter [then mention the thing to be decided]
+is good for me in my religion and in my life and for my welfare in the life to come, - [or say: in this life and the afterlife] -
+then ordain it for me and make it easy for me, then bless me in it.
+And if You know that this matter is bad for me in my religion and in my life and for my welfare in the life to come, - [or say: in this life and the afterlife] -
+then distance it from me, and distance me from it,
+and ordain for me what is good wherever it may be,
+and help me to be content with it." Whoever seeks the counsel of the Creator will not regret it and whoever seeks the advice of the believers will feel confident about his decisions, for Allah has said in the Qur"an: "And consult them in the affair. Then when you have taken a decision, put your trust in Allah."</string>
+
+    <string name="HM0A27">In the morning and evening</string>
+    <string name="HM0B27">الْحَمْدُ لِلَّهِ وَحْدَهُ،
+وَالصَّلاَةُ وَالسَّلاَمُ عَلَى مَنْ لاَ نَبِيَّ بَعْدَهُ</string>
+    <string name="HM0C27">Alḥamdulillahi waḥdah
+waṣ-ṣalatu was-salam `alā man lā nabiyya ba`dah.</string>
+    <string name="HM0D27">All praise is due to Allah alone,
+and peace and blessings be upon him after whom there is no other Prophet.</string>
+
+    <string name="HM0A28"> Before sleeping</string>
+    <string name="HM0B28">جْمَعُ كَفَّيْهِ ثُمَّ يَنْفُثُ فِيهِمَا فَيَقْرَأُ فِيهِمَا:
+بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
+{قُلْ هُوَ اللَّهُ أَحَدٌ *
+اللَّهُ الصَّمَدُ*
+لَمْ يَلِدْ وَلَمْ يُولَدْ*
+وَلَمْ يَكُن لَّهُ كُفُواً أَحَدٌ}.
+
+بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
+{قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ*
+مِن شَرِّ مَا خَلَقَ*
+وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ*
+وَمِن شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ*
+وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ}.
+
+بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
+{قُلْ أَعُوذُ بِرَبِّ النَّاسِ*
+مَلِكِ النَّاسِ*
+إِلَهِ النَّاسِ*
+مِن شَرِّ الْوَسْوَاسِ الْخَنَّاسِ*
+الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ*
+مِنَ الْجِنَّةِ وَالنَّاسِ}
+ثُمَّ يَمْسَحُ بِهِمَا مَا اسْتَطَاعَ مِنْ جَسَدِهِ يَبْدَأُ بِهِمَا عَلَى رَأْسِهِ وَوَجْهِهِ وَمَا أَقبَلَ مِنْ جَسَدِهِ
+
+(يفعلُ ذلك ثلاثَ مرَّاتٍ)</string>
+    <string name="HM0C28">Bismillāhir-Raḥmānir-Raḥīm.
+Qul huwallāhu aḥad.
+Allāhuṣ-ṣamad.
+Lam yalid wa lam yūlad.
+Wa lam yakun lahu kufuwan aḥad.
+Reference: Al-Ikhlas 112:1-4.
+
+Bismillāhir-Raḥmānir-Raḥīm.
+Qul a`ūdhu birabbil-falaq.
+Min sharri mā khalaq.
+Wa min sharri ghāsiqin idhā waqab.
+Wa min sharrin-naffāthāti fil-`uqad.
+Wa min sharri ḥāsidin idhā ḥasad.
+Reference: Al-Falaq 113:1-5.
+
+Bismillāhir-Raḥmānir-Raḥīm.
+Qul a`ūdhu birabbin-nās.
+Malikin-nās.
+"Ilāhin-nās.
+Min sharri ‘l-waswāsil-khannās.
+Alladhī yuwaswisu fī ṣudūrin-nās.
+Minal-jinnati wannās.
+Reference: An-Nas 114:1-6</string>
+    <string name="HM0D28">Hold the palms together, blow (with a little spittle) into them, and recite:
+
+"With the Name of Allah, the Most Gracious, the Most Merciful.
+Say: He is Allah (the) One.
+The Self-Sufficient Master, Whom all creatures need,
+He begets not nor was He begotten,
+and there is none equal to Him.
+
+With the Name of Allah, the Most Gracious, the Most Merciful.
+Say: I seek refuge with (Allah) the Lord of the daybreak,
+from the evil of what He has created,
+and from the evil of the darkening (night) as it comes with its darkness,
+and from the evil of those who practice witchcraft when they blow in the knots,
+and from the evil of the envier when he envies.
+
+With the Name of Allah, the Most Gracious, the Most Merciful.
+Say: I seek refuge with (Allah) the Lord of mankind,
+the King of mankind,
+the God of mankind,
+from the evil of the whisperer who withdraws,
+who whispers in the breasts of mankind,
+of jinns and men."
+
+(Then pass your hands over as much of your body as you can reach, beginning with the head and the face, then the entire front of your body. Do this three times.)
+</string>
+
+    <string name="HM0A29">When tossing and turning during the night</string>
+    <string name="HM0B29">لا إِلـهَ إِلاّ اللهُ
+الـواحِدُ القَهّـار
+رَبُّ السَّـمواتِ وَالأرْضِ وَما بَيْـنَهـما
+العَزيـزُ الغَـفّار</string>
+    <string name="HM0C29">Lā ilāha illallāh
+al-Wāḥidul-Qahhār,
+Rabbus-samāwāti wa ‘l-arḍi wa mā baynahuma
+al-`Azīzul-Ghaffār.</string>
+    <string name="HM0D29">There is none worthy of worship but Allah,
+the One, the Victorious,
+Lord of the heavens and the earth and all that is between them,
+the All-Mighty, the All-Forgiving.</string>
+
+    <string name="HM0A30">Upon experiencing unrest, fear, apprehensiveness during sleep</string>
+    <string name="HM0B30">أَعـوذُ بِكَلِمـاتِ اللّهِ التّـامّـاتِ
+مِن غَضَـبِهِ وَعِـقابِهِ وَشَـرِّ عِبـادِهِ
+وَمِنْ هَمَـزاتِ الشَّـياطينِ وَأَنْ يَحْضـرون</string>
+    <string name="HM0C30">A`ūdhu bikalimāti ‘llāhit-tāmmāti
+min ghaḍabihi wa `iqābihi wa sharri `ibādih,
+wa min hamazātish-shayāṭīni wa an yaḥḍurūn.</string>
+    <string name="HM0D30">I seek refuge in the Perfect Words of Allah
+from His anger and His punishment,
+from the evil of His slaves,
+and from the taunts of devils and from their presence.</string>
+    <string name="HM0A31">Upon seeing a good dream or a bad dream</string>
+    <string name="HM0B31">يَنْفُثُ عَنْ يَسَارِهِ (ثلاثاً).
+يَسْتَعِيذُ بِاللَّهِ مِنَ الشَّيطَانِ وَمِنْ شَرِّ مَا رَأَى (ثَلاَثَ مَرَّاتٍ).
+لاَ يُحَدِّثْ بِهَا أَحَداً.
+يَــتَحَوَّلُ عَنْ جَنْبِهِ الَّذِي كَانَ عَلَيْهِ</string>
+    <string name="HM0C31">Spit to your left (three times).1
+
+Seek refuge in Allah from the Devil and from the evil of what you have seen</string>
+    <string name="HM0D31">Do not speak about it to anyone.3
+
+Turn over on your other side.4</string>
+
+    <string name="HM0A32">Qunoot Al-Witr</string>
+    <string name="HM0B32">اللّهُـمَّ اهْـدِنـي فـيمَنْ هَـدَيْـت، وَعـافِنـي فـيمَنْ عافَـيْت، وَتَوَلَّـني فـيمَنْ تَوَلَّـيْت، وَبارِكْ لـي فـيما أَعْطَـيْت، وَقِـني شَرَّ ما قَضَـيْت، فَإِنَّـكَ تَقْـضي وَلا يُقْـضى عَلَـيْك ، إِنَّـهُ لا يَـذِلُّ مَنْ والَـيْت، [ وَلا يَعِـزُّ مَن عـادَيْت ]، تَبـارَكْـتَ رَبَّـنا وَتَعـالَـيْت</string>
+    <string name="HM0C32">Allāhumma’hdinī fī man hadayt,
+wa `āfinī fī man `āfayt,
+wa tawallanī fī man tawallayt,
+wa bārik lī fī mā a`atayt,
+wa qinī sharra mā qaḍayt,
+fa innaka taqḍī wa lā yuqḍā `alayk,
+innahu lā yadhillu man wālayt,
+[wa lā ya`izzu man `ādayt] ,
+tabārakta Rabbanā wa ta`ālayt.</string>
+    <string name="HM0D32">O Allah, guide me with those whom You have guided,
+and strengthen me with those whom You have given strength.
+Take me to Your care with those whom You have taken to Your care.
+Bless me in what You have given me.
+Protect me from the evil You have ordained.
+Surely, You command and are not commanded,
+and none whom You have committed to Your care shall be humiliated
+[and none whom You have taken as an enemy shall taste glory].
+You are Blessed, Our Lord, and Exalted.</string>
+
+    <string name="HM0A33">Immediately after salam of the witr prayer</string>
+    <string name="HM0B33">"سبحان الملك القدوس"
+ثلاث مرات والثالثة يجهر بها ويمد بها صوته
+"ربِّ الملائكةِ والرّوح"</string>
+    <string name="HM0C33">Subḥāna ‘l-Maliki ‘l-Quddūs.
+[Recite three times, and raise and extend the voice on the third time and say...]
+Rabbi ‘l-Malā"ikati war-rūh.</string>
+    <string name="HM0D33">Glory is to the King, the Holy.
+[Recite three times in Arabic, and raise and extend the voice on the third time and say...]
+Lord of the angels and the Spirit.</string>
+
+    <string name="HM0A34">For anxiety and sorrow</string>
+    <string name="HM0B34">للّهُـمَّ إِنِّي عَبْـدُكَ
+ابْنُ عَبْـدِكَ
+ابْنُ أَمَتِـكَ
+نَاصِيَتِي بِيَـدِكَ
+مَاضٍ فِيَّ حُكْمُكَ
+عَدْلٌ فِيَّ قَضَاؤكَ
+أَسْأَلُـكَ بِكُلِّ اسْمٍ هُوَ لَكَ
+سَمَّـيْتَ بِهِ نَفْسَكَ
+أِوْ أَنْزَلْتَـهُ فِي كِتَابِكَ
+أَوْ عَلَّمْـتَهُ أَحَداً مِنْ خَلْقِـكَ
+أَوِ اسْتَـأْثَرْتَ بِهِ فِي عِلْمِ الغَيْـبِ عِنْـدَكَ
+أَنْ تَجْـعَلَ القُرْآنَ رَبِيـعَ قَلْبِـي
+وَنورَ صَـدْرِي
+وجَلَاءَ حُـزْنِي
+وذَهَابَ هَمِّـي</string>
+    <string name="HM0C34">Allāhumma innī `abduk,
+ibnu `abdik,
+ibnu amatik,
+nāsiyatī biyadik,
+māḍin fiyya ḥukmuk,
+`adlun fiyya qaḍā"uk,
+as"aluka bikullis’min huwa lak,
+sammayta bihi nafsak,
+aw anzaltahu fī kitābik,
+aw `allamtahu aḥadan min khalqik,
+aw‘ista"tharta bihi fī `ilmil-ghaybi `indak,
+an taj`ala ‘l-Qur"āna rabī`a qalbī,
+wa nūra ṣadrī,
+wa jalā"a ḥuznī,
+wa dhahāba hammī.</string>
+    <string name="HM0D34">O Allah, I am Your slave,
+and the son of Your male slave,
+and the son of your female slave.
+My forehead is in Your Hand (i.e. you have control over me).
+Your Judgment upon me is assured,
+and Your Decree concerning me is just.
+I ask You by every Name that You have named Yourself with,
+revealed in Your Book,
+taught any one of Your creation,
+or kept unto Yourself in the knowledge of the unseen that is with You,
+to make the Qur"an the spring of my heart,
+and the light of my chest,
+the banisher of my sadness,
+and the reliever of my distress.</string>
+
+    <string name="HM0A35"> For one in distress</string>
+    <string name="HM0B35">ا إلَهَ إِلَّا اللَّهُ
+الْعَظـيمُ الْحَلِـيمْ،
+لَا إِلَهَ إِلَّا اللَّهُ
+رَبُّ العَـرْشِ العَظِيـمِ،
+لَا إِلَـهَ إِلَّا اللَّهْ
+رَبُّ السَّمَـوّاتِ ورّبُّ الأَرْضِ
+ورَبُّ العَرْشِ الكَـريم</string>
+    <string name="HM0C35">Lā ilāha illallāh
+al-`Aẓīmul-Ḥalīm,
+lā ilāha illallāh
+Rabbu ‘l-`Arshi ‘l-"Aẓīm,
+lā ilāha illallāh
+Rabbus-samāwāti wa Rabbu ‘l-arḍ
+wa Rabbu ‘l-`Arshi ‘l-Karīm</string>
+    <string name="HM0D35">There is none worthy of worship but Allah,
+the Mighty, the Forbearing.
+There is none worthy of worship but Allah,
+Lord of the Magnificent Throne.
+There is none worthy of worship but Allah,
+Lord of the heavens and Lord of the earth,
+and Lord of the Noble Throne.</string>
+
+    <string name="HM0A36">Upon encountering an enemy or those of authority</string>
+    <string name="HM0B36">اللّهُـمَّ إِنا نَجْـعَلُكَ في نُحـورِهِـم،
+وَنَعـوذُ بِكَ مِنْ شُرورِهـمْ</string>
+    <string name="HM0C36">Allāhumma innā naj`aluka fī nuḥūrihim
+wa na`ūdhu bika min shurūrihim.</string>
+    <string name="HM0D36">O Allah, we ask You to restrain them by their necks,
+and we seek refuge in You from their evil.</string>
+
+    <string name="HM0A37">For one afraid of the ruler"s injustice</string>
+    <string name="HM0B37">للَّهُمَّ ربَّ السَّمَوَاتِ السَّبْعِ،
+وَرَبَّ الْعَرْشِ الْعَظِيمِ،
+كُنْ لِي جَاراً مِنْ فُلاَنِ بْنِ فُلاَنٍ،
+وَأَحْزَابِهِ مِنْ خَلاَئِقِكَ،
+أَنْ يَفْرُطَ عَلَيَّ أَحَدٌ مِنْهُمْ أَوْ يَطْغَى،
+عَزَّ جَارُكَ،
+وَجَلَّ ثَنَاؤُكَ،
+وَلاَ إِلَهَ إِلاَّ أَنْتَ</string>
+    <string name="HM0C37">Allāhumma Rabbas-samāwātis-sab`,
+wa Rabba ‘l-`Arshi ‘l-`Aẓīm,
+kun lī jāran min [here you mention the person"s name],
+wa aḥzābihi min khalā"iqik,
+an yafruṭa `alayya aḥadun minhum aw yaṭghā,
+`azza jāruk,
+wa jalla thanā"uk,
+wa lā ilāha illā ant.</string>
+    <string name="HM0D37">O Allah, Lord of the seven heavens,
+Lord of the Magnificent Throne,
+be for me a support against [such and such a person] and his helpers from among your creatures,
+lest any of them abuse me or do me wrong.
+Mighty is Your patronage,
+and glorious are Your praises.
+There is none worthy of worship but You.</string>
+
+    <string name="HM0A38">Against enemies</string>
+    <string name="HM0B38">اللَّهُمَّ مُنْزِلَ الْكِتَاب
+سَرِيعَ الْحِسَاب
+اهْزِم الأَحْزَاب
+اللَّهُمَّ اهْزِمْهُمْ وَ زَلْزِلْهُم
+</string>
+    <string name="HM0C38">Allāhumma munzila ‘l-kitāb,
+sarī`a ‘l-ḥisāb,
+ihzimi ‘l-aḥzāb,
+Allāhumma-hzimhum wa zalzilhum.</string>
+    <string name="HM0D38">O Allah, Revealer of the Book,
+Swift to account,
+defeat the groups (of disbelievers).
+O Allah, defeat them and shake them.</string>
+
+    <string name="HM0A39">When being afraid of a group of people</string>
+    <string name="HM0B39">اللَّهُمَّ اكْفِنِيهِم بمَا شِئْت</string>
+    <string name="HM0C39">Allāhummak-finīhim bimā shi"t.</string>
+    <string name="HM0D39">O Allah, suffice (i.e. protect) me against them however You wish.</string>
+
+    <string name="HM0A40">For one afflicted with doubt in his faith</string>
+    <string name="HM0B40">يَسْتَعِيذُ بِاللَّهِ.
+
+يَنْتَهِي عَمَّا شك فِيهِ.</string>
+    <string name="HM0C40">A`ūdhu billāh</string>
+    <string name="HM0D40"> I seek refuge in Allah. (Then you should desist from doing what you are in doubt about.</string>
+
+    <string name="HM0A41">Settling a debt</string>
+    <string name="HM0B41">اللّهُـمَّ اكْفِـني بِحَلالِـكَ عَنْ حَـرامِـك،
+وَأَغْنِـني بِفَضْـلِكَ عَمَّـنْ سِـواك</string>
+    <string name="HM0C41">Allāhummak-finī biḥalālika `an ḥarāmik,
+waaghninī bi faḍlika `amman siwāk.</string>
+    <string name="HM0D41">O Allah, suffice me with what You have allowed instead of what You have forbidden,
+and make me independent of all others besides You</string>
+
+    <string name="HM0A42">For one afflicted by whisperings in prayer or recitation</string>
+    <string name="HM0B42">عُوذُ بِاللَّهِ مِنَ الشَّيطَانِ الرَّجِيمِ،
+وَاتْفُلْ عَلَى يَسَارِكَ (ثلاثاً)</string>
+    <string name="HM0C42">A`ūdhu billāhi minash-shayṭānir-rajīm.</string>
+    <string name="HM0D42"> seek refuge in Allah from Satan the outcast (then blow with a little spittle to your left). (Do this three times reciting in Arabic.</string>
+
+    <string name="HM0A43">For one whose affairs have become difficult</string>
+    <string name="HM0B43">اللَّهُمَّ لاَ سَهْلَ إِلاَّ مَا جَعَلْتَهُ سَهْلاً،
+وَأَنْتَ تَجْعَلُ الْحَزْنَ إِذَا شِئْتَ سَهْلاً</string>
+    <string name="HM0C43">Allāhumma lā saḥla illā ma ja`altahu saḥla
+wa anta taj`alu ‘l-ḥazna idhā shi ta saḥla.</string>
+    <string name="HM0D43">O Allah, there is no ease other than what You make easy.
+If You please You ease sorrow.</string>
+
+    <string name="HM0A44"> Upon committing a sin</string>
+    <string name="HM0B44">مَا مِنْ عَبْدٍ يُذنِبُ ذَنْباً فَيُحْسِنُ الطُّهُورَ، ثُمَّ يَقُومُ فَيُصَلِّي رَكْعَتَيْنِ، ثُمَّ يَسْتَغْفِرُ اللَّهَ إِلاَّ غَفَرَ اللَّهُ لَهُ</string>
+    <string name="HM0C44"></string>
+    <string name="HM0D44">There is not any slave of Allah who commits a sin, then he perfects his purification and stands to pray two Rakahs of prayer, then seeks Allah s forgiveness, except that Allah will forgive him.</string>
+
+    <string name="HM0A45">For expelling the devil and his whisperings</string>
+    <string name="HM0B45">الاستعاذة بالله منه</string>
+    <string name="HM0C45">A`ūdhu billāhi minash-shayṭānir-rajīm.</string>
+    <string name="HM0D45">Seeking refuge with Allah against him (i.e. by saying I seek refuge in Allah from Satan the outcast).</string>
+
+    <string name="HM0A46">When stricken with a mishap or overtaken by an affair</string>
+    <string name="HM0B46">قَدَّرَ اللهُ وَما شـاءَ فَعَـل</string>
+    <string name="HM0C46">Qaddarallāhu wa mā shā-a fa`al.</string>
+    <string name="HM0D46">It is the Decree of Allah and He does whatever He wills.</string>
+
+    <string name="HM0A47"> Congratulation on the occasion of a birth and its reply</string>
+    <string name="HM0B47">(بَارَكَ اللَّهُ لَكَ فِي الْمَوْهُوبِ لَكَ،
+وَشَكَرْتَ الْوَاهِبَ،
+وَبَلَغَ أَشُدَّهُ،
+وَرُزِقْتَ بِرَّهُ).
+
+
+وَيَرُدُّ عَلَيْهِ الْمُهَــــــنَّأُ فَيَقُولُ:
+(بَارَكَ اللَّهُ لَكَ وَبَارَكَ عَلَيْكَ،
+وَجَزَاكَ اللَّهُ خَيْراً،
+وَرَزَقَكَ اللَّهُ مِثْلَهُ،
+وَأَجْزَلَ ثَوَابَكَ).</string>
+    <string name="HM0C47">Bārakallāhu laka fi ‘l-mawhūbi lak,
+wa shakarta ‘l-wāhib,
+wa balagha ashuddah,
+wa ruziqta birrah.
+
+The reply of the person being congratulated is to say:</string>
+    <string name="HM0D47">wa razaqakallāhu mithlah, wa ajzala thawābak. May Allah bless you with His gift to you,
+and may you (the new parent) give thanks,
+may the child reach the maturity of years,
+and may you be granted its righteousness.
+
+The reply of the person being congratulated is to say:
+
+May Allah bless you, and shower His blessings upon you,
+and may Allah reward you well
+and bestow upon you its like
+and reward you abundantly</string>
+
+    <string name="HM0A48"> Placing childen under Allah’s protection</string>
+    <string name="HM0B48">ان رسول الله صلى الله عليه وسلم يعوذ الحسن والحسين
+" أعيذكما بكلمات الله التامة ،
+من كل شيطان وهامة ،
+ومن كل عينِ لامة </string>
+    <string name="HM0C48">The Prophet (ﷺ) used to seek Allah-s protection for Al-Hasan and Al-Husain by saying:</string>
+    <string name="HM0D48">U`īthukumā bikalimāti ‘llāhit-tāmmati min kulli shayṭānin wa hāmmah, wa min kulli `aynin lāmmah I seek protection for you in the Perfect Words of Allah
+from every devil and every beast,
+and from every envious blameworthy eye.</string>
+
+    <string name="HM0A49">When visiting the sick</string>
+    <string name="HM0B49">لا بأْسَ طَهـورٌ إِنْ شـاءَ الله</string>
+    <string name="HM0C49">Lā ba-sa ṭahūrun in shā Allāh.</string>
+    <string name="HM0D49">Do not worry, it will be a purification (for you), Allah willing.</string>
+
+    <string name="HM0A50">Excellence of visiting the sick</string>
+    <string name="HM0B50">قَالَ صلى الله عليه وسلم: (إِذَا عَادَ الرَّجُلُ أَخَاهُ الْمُسْلِمَ مَشَى فِي خِرَافَةِ الْجَنَّةِ حَتَّى يَجْلِسَ، فَإِذَا جَلَسَ غَمَرَتْهُ الرَّحْمَةُ، فَإِنْ كَانَ غُدْوَةً صَلَّى عَلَيْهِ سَبْعُونَ أَلْفَ مَلَكٍ حَتَّى يُمْسِيَ، وَإِنْ كَانَ مَسَاءً صَلَّى عَلَيْهِ سَبْعُونَ أَلْفَ مَلَكٍ حَتَّى يُصْبِحَ)</string>
+    <string name="HM0C50"></string>
+    <string name="HM0D50">When a man goes to visit his sick Muslim brother, he walks along a path of Paradise until he sits, and when he sits he is cloaked in mercy. If he comes in the morning, seventy thousand angels pray for him until evening, and if he comes in the evening, seventy thousand angels pray for him until morning.</string>
+
+    <string name="HM0A51">When the sick have renounced all hope of life</string>
+    <string name="HM0B51">أللّهُـمَّ اغْفِـرْ لي وَارْحَمْـني
+وَأَلْحِقْـني بِالرَّفـيقِ الأّعْلـى</string>
+    <string name="HM0C51">Allāhumma’ghfir lī warḥamnī
+wa alḥiqnī bir-rafīqi ‘l--A`alā.</string>
+    <string name="HM0D51">O Allah, forgive me and have mercy upon me,
+and join me with the highest companions (in Paradise).</string>
+
+    <string name="HM0A52">Instruction for the one nearing death</string>
+    <string name="HM0B52">من كان آخر كلامه "لا إله إلا الله" دخل الجنة</string>
+    <string name="HM0C52">Lā ilāha illallāh
+Whoever dies with the last words </string>
+    <string name="HM0D52">There is none worthy of worship but Allah" will enter Paradise.</string>
+
+    <string name="HM0A53">For one afflicted by a calamity</string>
+    <string name="HM0B53">إِنّا للهِ وَإِنَا إِلَـيْهِ راجِعـون ،
+اللهُـمِّ اْجُـرْني في مُصـيبَتي،
+وَاخْلُـفْ لي خَيْـراً مِنْـها</string>
+    <string name="HM0C53">Innā lillāhi wa innā ilayhi rāji`ūn,
+Allāhumma-jurni fī muṣībatī
+wa -khluf lī khayran minhā.</string>
+    <string name="HM0D53">We are from Allah and unto Him we return.
+O Allah take me out of my plight
+and bring to me after it something better.</string>
+
+    <string name="HM0A54">When closing the eyes of the deceased</string>
+    <string name="HM0B54">للهُـمِّ اغْفِـرْ لِـفلان (باسـمه)
+وَارْفَعْ دَرَجَتَـهُ في المَهْـدِييـن ،
+وَاخْـلُفْـهُ في عَقِـبِهِ في الغابِـرين،
+وَاغْفِـرْ لَنـا وَلَـهُ يا رَبَّ العـالَمـين،
+وَافْسَـحْ لَهُ في قَبْـرِهِ وَنَـوِّرْ لَهُ فيه</string>
+    <string name="HM0C54">Allāhumma’ghfir li (name of the person)
+warfa` darajatahu fi ‘l-mahdiyyīn,
+wakhlufhu fī `aqibihi fi ‘l-ghābirīn,
+wagh’fir-lanā wa lahu yā Rabba ‘l-`ālamīn,
+wafsaḥ lahu fī qabrihi wa nawwir lahu fīh.</string>
+    <string name="HM0D54">O Allah, forgive [name of the person]
+and elevate his station among those who are guided.
+Send him along the path of those who came before,
+and forgive us and him, O Lord of the worlds.
+Enlarge for him his grave, and shed light upon him in it.</string>
+
+    <string name="HM0A55">For the deceased at the funeral prayer</string>
+    <string name="HM0B55">للهُـمِّ اغْفِـرْ لَهُ وَارْحَمْـه ، وَعافِهِ وَاعْفُ عَنْـه ، وَأَكْـرِمْ نُزُلَـه ، وَوَسِّـعْ مُدْخَـلَه ، وَاغْسِلْـهُ بِالْمـاءِ وَالثَّـلْجِ وَالْبَـرَدْ ، وَنَقِّـهِ مِنَ الْخطـايا كَما نَـقّيْتَ الـثَّوْبَ الأَبْيَـضَ مِنَ الدَّنَـسْ ، وَأَبْـدِلْهُ داراً خَـيْراً مِنْ دارِه ، وَأَهْلاً خَـيْراً مِنْ أَهْلِـه ، وَزَوْجَـاً خَـيْراً مِنْ زَوْجِه ، وَأَدْخِـلْهُ الْجَـنَّة ، وَأَعِـذْهُ مِنْ عَذابِ القَـبْر [وَعَذابِ النّـار]</string>
+    <string name="HM0C55">Allāhumma’ghfir lahu warḥamh,
+wa `āfihi, wa`fu `anh,
+wa akrim nuzulah,
+wa wassi` mudkhalah,
+wagh’silhu bi ‘lmā-i wath-thalji walbarad,
+wa naqqihi mina ‘l-khaṭāyā
+kamā naqqaytath-thawba ‘l-abyaḍa minad-danas,
+wa abdilhu dāran khayran min dārih,
+wa ahlan khayran min ahlih,
+wa zawjan khayran min zawjih,
+wa adkhilhu ‘l-jannah,
+wa a`idhhu min `adhābi ‘l-qabri [wa `adhābin-nār].</string>
+    <string name="HM0D55">O Allah, forgive him and have mercy on him,
+and give him strength and pardon him.
+Be generous to him,
+and cause his entrance to be wide,
+and wash him with water and snow and hail.
+Cleanse him of his transgressions
+as white cloth is cleansed of stains.
+Give him an abode better than his home,
+and a family better than his family,
+and a wife better than his wife.
+Take him into Paradise,
+and protect him from the punishment of the grave [and from the punishment of Hell-fire].</string>
+
+    <string name="HM0A56">When the deceased is a child, during the funeral prayer</string>
+    <string name="HM0B56">اللهُـمِّ اجْعَلْـهُ لَنا فَرَطـاً، وَسَلَـفاً وَأَجْـراً</string>
+    <string name="HM0C56">Allāhumma’j`alhu lanā faraṭan, wa salafan, wa ajra.</string>
+    <string name="HM0D56">O Allah, make him for us a precursor, a forerunner and a cause of reward.</string>
+
+    <string name="HM0A57">Condolence</string>
+    <string name="HM0B57">إن لله ما أخذ
+وله ما أعطى .
+وكل شيء عنده بأجل مُسمى ...
+فلتصبر ولتحتسب "
+
+
+
+وإن قال :
+"أعظم الله أجرك ،
+وأحسن عزاءك
+وغفر لميتك"
+فحسن</string>
+    <string name="HM0C57">Inna lillāhi mā akhadh,
+wa lahu mā a`tā,
+wa kullu shay-in `indahu bi ajalin musammā . . .
+faltaṣbir wa ‘l-taḥtasib </string>
+    <string name="HM0D57">A`ẓamallāhu ajrak, wa -aḥsana `azā-ak, wa ghafara limayyitik. Surely, Allah takes what is His,
+and what He gives is His,
+and to all things He has appointed a time...
+so have patience and be rewarded.1
+
+May Allah magnify your reward,
+and make perfect your bereavement,
+and forgive your departed.2</string>
+
+    <string name="HM0A58">Placing the deceased in the grave</string>
+    <string name="HM0B58">سْـمِ اللهِ
+وَعَلـى سُـنَّةِ رَسـولِ الله</string>
+    <string name="HM0C58">Bismillāh
+wa `alā sunnati Rasūlillāh</string>
+    <string name="HM0D58">With the Name of Allah,
+and according to the Sunnah of the Messenger of Allah.</string>
+
+    <string name="HM0A59">After burying the deceased</string>
+    <string name="HM0B59">اللَّهُمَّ اغْفِرْ لَهُ
+اللَّهُمَّ ثَبِّتْهُ</string>
+    <string name="HM0C59">Allāhumma’ghfir lah
+Allāhumma thabbit’h.</string>
+    <string name="HM0D59">O Allah, forgive him.
+O Allah, strengthen him.</string>
+
+    <string name="HM0A60">Visiting the graves</string>
+    <string name="HM0B60">السَّلامُ عَلَـيْكُمْ أَهْلَ الدِّيارِ مِنَ المؤْمِنيـنَ وَالْمُسْلِمين،
+وَإِنّا إِنْ شاءَ اللهُ بِكُـمْ لاحِقـون،
+نَسْـاَلُ اللهَ لنـا وَلَكُـمْ العـافِيَة</string>
+    <string name="HM0C60">Assalāmu `alaykum ahlad-diyāri minal-mu-minīna wa ‘l-muslimīn,
+wa innā in shā- Allāhu bikum lāḥiqūn
+nas-alullāha lanā wa lakumul-`āfiyah.</string>
+    <string name="HM0D60">Peace be upon you, people of this abode, from among the believers and those who are Muslims,
+and we, by the Will of Allah, shall be joining you.
+[May Allah have mercy on the first of us and the last of us]
+I ask Allah to grant us and you well-being.</string>
+
+    <string name="HM0A61">During a wind storm</string>
+    <string name="HM0B61">اللّهُـمَّ إِنَّـي أَسْـأَلُـكَ خَيْـرَها،
+وَأَعـوذُ بِكَ مِنْ شَـرِّها</string>
+    <string name="HM0C61">Allāhumma innī as-aluka khayrahā,
+wa a`ūdhu bika min sharrihā.</string>
+    <string name="HM0D61">O Allah, I ask You for the good of it,
+and seek refuge in You against its evil.</string>
+
+    <string name="HM0A62">Upon hearing thunder</string>
+    <string name="HM0B62">سُبْـحانَ الّذي يُسَبِّـحُ الـرَّعْدُ بِحَمْـدِهِ،
+وَالملائِكـةُ مِنْ خيـفَته</string>
+    <string name="HM0C62">Subḥāna ‘l-ladhī yusabbiḥur-ra`du bi ḥamdihi
+wa ‘l-malā-ikatu min khīfatih.</string>
+    <string name="HM0D62">Glory is to Him Whom thunder and angels glorify due to fear of Him.</string>
+
+    <string name="HM0A63">For rain</string>
+    <string name="HM0B63">اللّهُمَّ اسْقِـنا غَيْـثاً مُغيـثاً مَريئاً مُريـعاً،
+نافِعـاً غَيْـرَ ضار،
+عاجِـلاً غَـيْرَ آجِل</string>
+    <string name="HM0C63">Allāhumma ‘asqinā ghaythan mughīthan marī-an murī`a,
+nāfi`an ghayra ḍārr,
+`ājilan ghayra ājil.</string>
+    <string name="HM0D63">O Allah, shower upon us abundant rain, beneficial not harmful, swiftly and not delayed.</string>
+
+    <string name="HM0A64">When it rains</string>
+    <string name="HM0B64">اللّهُمَّ صَيِّـباً نافِـعاً</string>
+    <string name="HM0C64">Allāhumma ṣayyiban nāfi`a.</string>
+    <string name="HM0D64">O Allah, (bring) beneficial rain clouds.</string>
+
+    <string name="HM0A65">After rainfall</string>
+    <string name="HM0B65">مُطِـرْنا بِفَضْـلِ اللهِ وَرَحْمَـتِه</string>
+    <string name="HM0C65">Muṭirnā bifaḍlillāhi wa raḥmatih</string>
+    <string name="HM0D65">We have been given rain by the grace and mercy of Allah.</string>
+
+    <string name="HM0A66">Asking for clear skies</string>
+    <string name="HM0B66">اللّهُمَّ حَوالَيْنا وَلا عَلَيْـنا،
+اللّهُمَّ عَلى الآكـامِ وَالظِّـراب،
+وَبُطـونِ الأوْدِية، وَمَنـابِتِ الشَّجـر</string>
+    <string name="HM0C66">Allāhumma ḥawālaynā wa lā `alaynā.
+Allāhumma `ala ‘l-ākāmi waẓ-ẓirāb,
+wa buṭūni ‘l-awdiyati, wa manābitish-shajar.</string>
+    <string name="HM0D66">O Allah, let the rain fall around us and not upon us,
+O Allah, (let it fall) on the pastures, hills, valleys, and the roots of trees.</string>
+
+    <string name="HM0A67">Upon sighting the crescent moon</string>
+    <string name="HM0B67">اللهُ أَكْـبَر،
+اللّهُمَّ أَهِلَّـهُ عَلَيْـنا بِالأمْـنِ وَالإيمـان،
+والسَّلامَـةِ والإسْلام،
+وَالتَّـوْفيـقِ لِما تُحِـبُّ رَبَّنـا وَتَـرْضـى،
+رَبُّنـا وَرَبُّكَ الله</string>
+    <string name="HM0C67">Allāhu Akbar,
+Allāhumma ahillahu `alayna bi ‘l-amni wa ‘l-īmān,
+was-salāmati wa ‘l--Islām,
+wat-tawfīqi limā tuḥibbu Rabbanā wa tarḍā,
+Rabbunā wa Rabbukallāh.</string>
+    <string name="HM0D67">Allah is the Most Great.
+O Allah, bring us the new moon with security and Faith,
+with peace and in Islam,
+and in harmony with what our Lord loves and what pleases Him.
+Our Lord and your Lord is Allah.</string>
+
+    <string name="HM0A68">Upon breaking fast</string>
+    <string name="HM0B68">ذَهَـبَ الظَّمَـأُ،
+وَابْتَلَّـتِ العُـروق،
+وَثَبَـتَ الأجْـرُ إِنْ شـاءَ الله</string>
+    <string name="HM0C68">Dhahabaẓ-ẓama-,
+wabtallati ‘l-`urūq,
+wa thabata ‘l--ajru in shā Allāh.</string>
+    <string name="HM0D68">The thirst is gone,
+the veins are moistened,
+and the reward is confirmed, if Allah wills.</string>
+
+    <string name="HM0A69">Before eating</string>
+    <string name="HM0B69">إِذَا أَكَلَ أَحَدُكُمْ طَعَاماً فَلْيَقُلْ
+بِسْمِ اللَّهِ،
+فَإِنْ نَسِيَ فِي أَوَّلِهِ فَلْيَقُلْ
+بسمِ اللَّهِ فِي أَوَّلِهِ وَآخِرِهِ</string>
+    <string name="HM0C69">When anyone of you begins eating,</string>
+    <string name="HM0D69">Bismillāh. And if you forget then when you remember, say: Bismillāhi fī awwalihi wa ākhirih. When anyone of you begins eating, say:
+
+With the Name of Allah.
+
+And if you forget then, when you remember, say:
+
+With the Name of Allah, in the beginning, and in the end.</string>
+
+    <string name="HM0A70">Upon completing the meal</string>
+    <string name="HM0B70">الْحَمْـدُ للهِ الَّذي أَطْعَمَنـي هـذا
+وَرَزَقَنـيهِ مِنْ غَـيْرِ حَوْلٍ مِنِّي وَلا قُوَّة</string>
+    <string name="HM0C70">Alhamdu lillāhi ‘l-ladhī aṭ`amanī hādhā,
+wa razaqanīhi min ghayri ḥawlin minnī wa lā quwwah.</string>
+    <string name="HM0D70">Praise is to Allah Who has given me this food,
+and sustained me with it though I was unable to do it and powerless.</string>
+
+    <string name="HM0A71">Of the guest for the host</string>
+    <string name="HM0B71">اللّهُـمَّ بارِكْ لَهُمْ فيما رَزَقْـتَهُم،
+وَاغْفِـرْ لَهُـمْ وَارْحَمْهُمْ</string>
+    <string name="HM0C71">Allāhumma bārik lahum fī mā razaqtahum,
+wagh’fir lahum warḥamhum.</string>
+    <string name="HM0D71">O Allah, bless them in what You have provided for them,
+and forgive them and have mercy on them.</string>
+
+    <string name="HM0A72">To one who intends to give food or drink</string>
+    <string name="HM0B72">للّهُـمَّ أَطْعِمْ مَن أَطْعَمَني،
+وَاسْقِ مَن سقاني</string>
+    <string name="HM0C72">Allāhumma aṭ`im man aṭ`amanī
+wasqi man saqānī.</string>
+    <string name="HM0D72">O Allah, feed the one who has fed me,
+and give drink to the one who has given me drink.</string>
+
+    <string name="HM0A73">When breaking fast in someone’s home</string>
+    <string name="HM0B73">أَفْطَـرَ عِنْدَكُم الصّـائِمونَ
+وَأَكَلَ طَعامَـكُمُ الأبْـرار،
+وَصَلَّـتْ عَلَـيْكُمُ الملائِكَـة</string>
+    <string name="HM0C73">Afṭara `indakumuṣ-ṣā-imūn,
+wa akala ṭa`āmakumu ‘l--abrār,
+wa ṣallat `alaykumu ‘l-malā-ikah.</string>
+    <string name="HM0D73">With you, those who are fasting have broken their fast,
+you have fed those who are righteous,
+and the angels recite their prayers upon you.</string>
+
+    <string name="HM0A74">By one fasting when presented with food and does not break his fast</string>
+    <string name="HM0B74">(إِذَا دُعِيَ أَحَدُكُمْ فَلْيُجِبْ، فَإِنْ كَانَ صَائِماً فَلْيُصَلِّ، وَإِنْ كَانَ مُفْطِراً فَلْيَطْعَمْ) ، وَمَعْنَى فَلْيُصَلِّ أَيْ فَلْيَدْعُ.</string>
+    <string name="HM0C74"></string>
+    <string name="HM0D74">When you are invited (to eat) then reply to the invitation.
+If you are fasting then invoke Allah-s blessings (on your host),
+and if you are not fasting then eat.</string>
+
+    <string name="HM0A75">When insulted while fasting</string>
+    <string name="HM0B75">إِنِّي صَائِمٌ،
+إِنِّي صَائِمٌ</string>
+    <string name="HM0C75">Innī ṣā-im,
+innī ṣā-im.</string>
+    <string name="HM0D75">I am fasting.
+I am fasting.</string>
+
+    <string name="HM0A76">Upon seeing the early or premature fruit</string>
+    <string name="HM0B76">اللّهُـمَّ بارِكْ لَنا في ثَمَـرِنا،
+وَبارِكْ لَنا في مَدينَتِنـا،
+وَبارِكْ لَنا في صاعِنـا،
+وَبارِكْ لَنا في مُدِّنا</string>
+    <string name="HM0C76">Allahumma bārik lanā fī thamarinā,
+wa bārik lanā fī madīnatinā
+wa bārik lanā fī ṣā`inā,
+wa bārik lanā fī muddinā.</string>
+    <string name="HM0D76">O Allah, bless us in our dates and bless us in our town,
+bless us in our Sa- and in our Mudd.</string>
+
+    <string name="HM0A77"> Upon sneezing</string>
+    <string name="HM0B77">إِذَا عَطَسَ أَحَدُكُم فَلْيَقُلِ (الْحَمْدُ لِلَّهِ)،
+وَلْيَقُلْ لَهُ أَخُوهُ أَوْ صَاحِبُهُ: (يَرْحَمُكَ اللَّهُ)،
+
+فَإِذَا قَالَ لَهُ: (يَرحَمُكَ اللَّهُ)، فَلْيَقُلْ: (يَهْدِيكُمُ اللَّهُ وَيُصْلِحُ بَالَكُمْ)</string>
+    <string name="HM0C77"></string>
+    <string name="HM0D77">Alḥamdulillāh Your companion should say : Yarḥamukallāh When someone says Yarḥamukallāh to you then you should say: Yahdīkumu ‘llāhu wa yuṣliḥu bālakum. When you sneeze, then say:
+All praises and thanks are to Allah.
+
+Your companion should say:
+May Allah have mercy upon you.
+
+When someone says Yarḥamukallāh to you then you should say:
+May Allah guide you and set your affairs in order.</string>
+
+    <string name="HM0A78">When a disbeliever praises Allah after sneezing</string>
+    <string name="HM0B78">يَهْـديكُـمُ اللهُ وَيُصْـلِحُ بالَـكُم</string>
+    <string name="HM0C78">Yahdīkumullāhu wa yuṣliḥu bālakum.</string>
+    <string name="HM0D78">May Allah guide you and set your affairs in order</string>
+
+    <string name="HM0A79">To the newlywed</string>
+    <string name="HM0B79">بارَكَ اللّهُ لَك،
+وَبارَكَ عَلَـيْك،
+وَجَمَعَ بَيْـنَكُما في خَـيْر</string>
+    <string name="HM0C79">Bārakallāhu lak,
+wa bāraka `alayk,
+wa jama`a baynakumā fī khayr.</string>
+    <string name="HM0D79">May Allah bless you,
+and shower His blessings upon you,
+and join you together in goodness.</string>
+
+    <string name="HM0A80">On the wedding night or when buying an animal</string>
+    <string name="HM0B80">إِذَا تَزَوَّجَ أَحَدُكُمُ امْرَأَةً، أَوْ إِذَا اشْتَرَى خَادِماً فَلْيَقُلْ:
+(اللَّهُمَّ إِنِّي أَسْأَلُكَ خَيْرَهَا،
+وَخَيْرَ مَا جَبَلْتَهَا عَلَيْهِ،
+وَأَعُوذُ بِكَ مِنْ شَرِّهَا،
+وَشَرِّ مَا جَبَلْتَهَا عَلَيْهِ)،
+وَإِذَا اشْتَرَى بَعِيراً فَلْيَأْخُذْ بِذِرْوَةِ سَنَامِهِ وَلْيَقُلْ مِثْلَ ذَلِكَ.</string>
+    <string name="HM0C80">When any of you marries a woman or purchases a maid-servant then let him say:</string>
+    <string name="HM0D80">Allāhumma innī as-aluka khayrahā wa khayra mā jabaltahā `alayh, wa a`ūdhu bika min sharrihā wa sharri mā jabaltahā `alayh. When any of you marries a woman or purchases a maid-servant then let him say :
+
+O Allah, I ask You for the goodness of her,
+and the goodness upon which You have created her,
+and I seek refuge in You from the evil of her,
+and from the evil upon which You have created her.
+
+If you purchase a camel then take hold of the top of its hump and say the same.</string>
+
+    <string name="HM0A81">Before sexual intercourse with the wife</string>
+    <string name="HM0B81">بِسْمِ الله
+اللّهُـمَّ جَنِّبْنا الشَّيْـطانَ،
+وَجَنِّبِ الشَّـيْطانَ ما رَزَقْـتَنا</string>
+    <string name="HM0C81">Bismillāh.
+Allāhumma jannibnash-Shayṭān,
+wa jannibish-Shayṭāna mā razaqtanā.</string>
+    <string name="HM0D81">With the Name of Allah.
+O Allah, keep the Devil away from us,
+and keep the Devil away from that which You provide for us.</string>
+
+    <string name="HM0A82">When angry</string>
+    <string name="HM0B82">أَعـوذُ بِاللهِ مِنَ الشَّيْـطانِ الرَّجيـم</string>
+    <string name="HM0C82">A`ūdhu billāhi minash-Shayṭānir-rajīm.</string>
+    <string name="HM0D82">I seek refuge in Allah from Satan the outcast.</string>
+
+    <string name="HM0A83">Upon seeing someone in trial or tribulation</string>
+    <string name="HM0B83">الْحَمْـدُ للهِ الّذي عافاني مِمّا ابْتَـلاكَ بِهِ،
+وَفَضَّلَـني عَلى كَثيـرٍ مِمَّنْ خَلَـقَ تَفْضـيلا</string>
+    <string name="HM0C83">Alhamdu lillāhi ‘l-ladhī `āfānī mimmab-talāka bihi
+wa faḍḍalanī `alā kathīrin mimman khalaqa tafḍīlā.</string>
+    <string name="HM0D83">Praise is to Allah Who has spared me what He has afflicted you with,
+and preferred me greatly above much of what He has created.</string>
+
+    <string name="HM0A84">At a sitting or gathering</string>
+    <string name="HM0B84">عن ابن عمر قال : كان يعد لرسول الله صلى الله عليه وسلم في المجلس الواحد مائة مرة من قبل أن يقوم
+"رب اغفر لي
+وتب علي
+إنك أنت التواب الغفور"</string>
+    <string name="HM0C84">Allahs Messenger (ﷺ) used to repeat in a single sitting: Rabbigh’fir lī wa tub `alayy innaka antat-Tawwābu ‘l-Ghafūr. Ibn Umar (ra) said: Allahs Messenger (ﷺ) used to repeat in a single sitting:</string>
+    <string name="HM0D84">My Lord, forgive me,
+and accept my repentance,
+You are the Ever-Relenting, the All-Forgiving.</string>
+
+    <string name="HM0A85">For the expiation of sins, said at the conclusion of a sitting or gathering</string>
+    <string name="HM0B85">سُبْحـانَكَ اللّهُـمَّ وَبِحَمدِك،
+أَشْهَـدُ أَنْ لا إِلهَ إِلاّ أَنْتَ
+أَسْتَغْفِرُكَ وَأَتوبُ إِلَـيْك</string>
+    <string name="HM0C85">Subhānaka Allāhumma wa biḥamdik,
+ash-hadu an lā ilāha illā ant,
+astaghfiruka wa atību ilayk.</string>
+    <string name="HM0D85">Glory is to You, O Allah, and praise is to You.
+I bear witness that there is none worthy of worship but You.
+I seek Your forgiveness and repent to You.</string>
+
+    <string name="HM0A86"> Returning a supplication of forgiveness</string>
+    <string name="HM0B86">وَلَكَ</string>
+    <string name="HM0C86">Walaka</string>
+    <string name="HM0D86">And you.</string>
+
+    <string name="HM0A87">To one who does you a favour</string>
+    <string name="HM0B87">جَزاكَ اللهُ خَـيْراً</string>
+    <string name="HM0C87">Jazākallāhu khayra.</string>
+    <string name="HM0D87">May Allah reward you with good.</string>
+
+    <string name="HM0A88">Protection from the Dajjal</string>
+    <string name="HM0B88">(مَنْ حَفِظَ عَشْرَ آيَاتٍ مِنْ أَوَّلِ سُورَةِ الْكَهْفِ عُصِمَ مِنَ الدَّجَّالِ) ، وَالْاسْتِعَاذَةُ بِاللَّهِ مِنْ فِتْنَتِهِ عَقِبَ التَّشَهُّدِ الْأَخِيرِ مِنْ كُلِّ صَلاَةٍ.</string>
+    <string name="HM0C88"></string>
+    <string name="HM0D88">Whoever memorizes ten Ayat (Verses) from the beginning of Surat Al-Kahf, will be protected from the False Messiah 1
+if he recites in every prayer after the final Tashahhud before ending the prayer, seeking the protection of Allah from the trials of the False Messiah.</string>
+
+    <string name="HM0A89">To one who pronounces his love for you, for Allah’s sake</string>
+    <string name="HM0B89">أَحَبَّـكَ الّذي أَحْبَبْـتَني لَه</string>
+    <string name="HM0C89">Aḥabbaka ‘lladhī aḥbabtanī lah.</string>
+    <string name="HM0D89">May He for Whose sake you love me, love you.</string>
+
+    <string name="HM0A90">To one who has offered you some of his wealth</string>
+    <string name="HM0B90">بارَكَ اللهُ لَكَ في أَهْلِكَ وَمالِك</string>
+    <string name="HM0C90">Bārakallāhu laka fī ahlika wa mālik</string>
+    <string name="HM0D90">May Allah bless you in your family and your property.</string>
+
+    <string name="HM0A91">To the debtor when his debt is settled</string>
+    <string name="HM0B91">ارَكَ اللهُ لَكَ في أَهْلِكَ وَمالِك،
+إِنَّما جَـزاءُ السَّلَفِ الْحَمْدُ والأَداء</string>
+    <string name="HM0C91">Bārakallāhu laka fī ahlika wa mālik,
+innamā jazāus-salafi ‘l-ḥamdu wa‘l-adā.</string>
+    <string name="HM0D91">May Allah bless you in your family and your wealth,
+surely the reward for a loan is praise and returning (what was borrowed).</string>
+
+    <string name="HM0A92">For fear of shirk</string>
+    <string name="HM0B92">اللّهُـمَّ إِنّـي أَعـوذُبِكَ أَنْ أُشْـرِكَ بِكَ وَأَنا أَعْـلَمْ،
+وَأَسْتَـغْفِرُكَ لِما لا أَعْـلَم</string>
+    <string name="HM0C92">Allāhumma innī a`ūdhu bika an ushrika bika wa anā a`lam,
+wa astaghfiruka limā lā a`lam.</string>
+    <string name="HM0D92">O Allah, I seek refuge in You lest I associate anything with You knowingly,
+and I seek Your forgiveness for what I know not.</string>
+
+    <string name="HM0A93">To someone who says "May Allah bless you"</string>
+    <string name="HM0B93">وَفيكَ بارَكَ الله
+</string>
+    <string name="HM0C93">Wafīka bārakallāh.</string>
+    <string name="HM0D93">And may Allah bless you.</string>
+
+    <string name="HM0A94">The scorn of ascribing things to evil omens</string>
+    <string name="HM0B94">اللّهُـمَّ لا طَيْـرَ إِلاّ طَيْـرُك،
+وَلا خَـيْرَ إِلاّ خَـيْرُك،
+وَلا إِلهَ غَيْـرُك</string>
+    <string name="HM0C94">Allāhumma lā ṭayra illā ṭayruk,
+wa lā khayra illā khayruk,
+wa lā ilāha ghayruk.</string>
+    <string name="HM0D94">O Allah there is no portent other than Your portent,
+no goodness other than Your goodness,
+and none worthy of worship other than You.</string>
+
+    <string name="HM0A95">When mounting an animal or any means of transport</string>
+    <string name="HM0B95">بِسْـمِ اللهِ
+وَالْحَمْـدُ لله،
+﴿سُبْحَانَ الَّذِي سَخَّرَ لَنَا هَذَا وَمَا كُنَّا لَهُ مُقْرِنِينَ *
+وَإِنَّا إِلَى رَبِّنَا لَمُنقَلِبُونَ﴾
+الحَمْـدُ لله، الحَمْـدُ لله، الحَمْـدُ لله،
+اللهُ أكْـبَر، اللهُ أكْـبَر، اللهُ أكْـبَر،
+سُـبْحانَكَ اللّهُـمَّ إِنّي ظَلَـمْتُ نَفْسي
+فَاغْـفِرْ لي،
+فَإِنَّهُ لا يَغْفِـرُ الذُّنوبَ إِلاّ أَنْـت</string>
+    <string name="HM0C95">Bismillāh,
+walḥamdulillāh.
+Subḥāna ‘lladhī sakhkhara lanā hādhā
+wa mā kunnā lahu muqrinīn.
+Wa innā ilā Rabbinā lamunqalibūn.
+Alḥamdulillāh, alḥamdulillāh, alḥamdulillāh,
+Allāhu Akbar, Allāhu Akbar, Allāhu Akbar,
+Subḥānaka ‘llāhumma innī ẓalamtu nafsī,
+faghfir lī,
+fa innahu lā yaghfirudh-dhunūba illā ant.</string>
+    <string name="HM0D95">With the Name of Allah.
+Praise is to Allah.
+Glory is to Him Who has provided this for us
+though we could never have had it by our efforts.
+Surely, unto our Lord, we are returning.
+Praise is to Allah. Praise is to Allah. Praise is to Allah.
+Allah is the Most Great. Allah is the Most
+Great. Allah is the Most Great.
+Glory is to You. O Allah, I have wronged my own soul.
+Forgive me,
+for surely none forgives sins but You.</string>
+
+    <string name="HM0A96">For travel</string>
+    <string name="HM0B96">"اللَّهُ أَكْبَرُ، اللَّهُ أَكْبَرُ، اللَّهُ أَكْبَرُ،
+﴿سُبْحَانَ الَّذِي سَخَّرَ لَنَا هَذَا وَمَا كُنَّا لَهُ مُقْرِنِينَ *
+وَإِنَّا إِلَى رَبِّنَا لَمُنقَلِبُونَ﴾
+اللَّهُمَّ إِنّا نَسْأَلُكَ فِي سَفَرِنَا هَذَا البِرَّ وَالتَّقْوَى،
+وَمِنَ الْعَمَلِ مَا تَرْضَى،
+اللَّهُمَّ هَوِّنْ عَلَيْنَا سَفَرَنَا هَذَا
+وَاطْوِ عَنَّا بُعْدَهُ،
+اللَّهُمَّ أَنْتَ الصَّاحِبُ فِي السَّفَرِ،
+وَالْخَليفَةُ فِي الْأَهْلِ،
+اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ وَعْثَاءِ السَّفَرِ،
+وَكَآبَةِ الْمَنْظَرِ،
+وَسُوءِ الْمُنْقَلَبِ فِي الْمَالِ وَالْأَهْلِ"،
+وإذا رَجَعَ قَالَهُنَّ وَزَادَ فِيهِنَّ:
+"آيِبُونَ، تائِبُونَ، عَابِدُونَ،
+لِرَبِّنَا حَامِدُونَ".</string>
+    <string name="HM0C96">Allāhu Akbar, Allāhu Akbar, Allāhu Akbar,
+Subḥāna ‘l-ladhi sakhkhara lanā hādhā
+wa mā kunnā lahu muqrinīn.
+Wa innā ilā Rabbinā lamunqalibūn.
+Allāhumma innā nasaluka fī safarinā hādha ‘l-birra wat-taqwā,
+Wa mina ‘l-`amali mā tarḍā,
+Allāhumma hawwin `alaynā safaranā hādhā
+waṭwi `annā bu`dah,
+Allāhumma antas-sāḥibu fis-safar,
+wa ‘l-khalīfatu fil-ahl,
+Allāhumma innī a`ūdhu bika min wa`thāis-safar,
+wa kaābati ‘l-manẓar,
+wa sūil-munqalabi fil-māli wa ‘l-ahl.</string>
+    <string name="HM0D96">Ā’ibūna, tāibūna, `ābidūn, Li Rabbinā ḥāmidūn. Allah is the Most Great. Allah is the Most Great. Allah is the Most Great.
+Glory is to Him Who has provided this for us
+though we could never have had it by our efforts.
+Surely, unto our Lord we are returning.
+O Allah, we ask You on this our journey for goodness and piety,
+and for works that are pleasing to You.
+O Allah, lighten this journey for us
+and make its distance easy for us.
+O Allah, You are our Companion on the road
+and the One in Whose care we leave our family.
+O Allah, I seek refuge in You from this journeys hardships,
+and from the wicked sights in store
+and from finding our family and property in misfortune upon returning.</string>
+
+    <string name="HM0A97">Upon entering a town or village</string>
+    <string name="HM0B97">أللّـهُمَّ رَبَّ السَّـمواتِ السّـبْعِ وَما أَظْلَلَـن،
+وَرَبَّ الأَراضيـنَ السّـبْعِ وَما أقْلَلْـن،
+وَرَبَّ الشَّيـاطينِ وَما أَضْلَلْـن،
+وَرَبَّ الرِّياحِ وَما ذَرَيْـن،
+أَسْـأَلُـكَ خَيْـرَ هذهِ الْقَـرْيَةِ
+وَخَيْـرَ أَهْلِـها،
+وَخَيْـرَ ما فيها،
+وَأَعـوذُ بِكَ مِنْ شَـرِّها
+وَشَـرِّ أَهْلِـها،
+وَشَـرِّ ما فيها</string>
+    <string name="HM0C97">Allāhumma Rabbas-samāwātis-sab`i wa mā aẓlaln,
+Wa Rabba ‘l-arāḍīnas-sab`i wa mā aqlaln,
+wa Rabbash-shayāṭīni wa mā aḍlaln,
+wa Rabbar-riyāḥi wa mā dharayn.
+Asaluka khayra hādhihi ‘l-qaryah,
+wa khayra ahlihā,
+wa khayra māfīhā,
+wa a`ūdhu bika min sharrihā,
+wa sharri ahlihā,
+wa sharri mā fīhā.</string>
+    <string name="HM0D97">O Allah, Lord of the seven heavens and all they overshadow,
+Lord of the seven worlds and all they uphold,
+Lord of the devils and all they lead astray,
+Lord of the winds and all they scatter.
+I ask You for the goodness of this town,
+and for the goodness of its people,
+and for the goodness it contains.
+I seek refuge in You from its evil,
+from the evil of its people,
+and from the evil it contains.</string>
+
+    <string name="HM0A98">When entering the market</string>
+    <string name="HM0B98">لا إلهَ إلاّ اللّه
+وحدَهُ لا شريكَ لهُ،
+لهُ المُلْـكُ ولهُ الحَمْـد،
+يُحْيـي وَيُميـتُ
+وَهُوَ حَيٌّ لا يَمـوت،
+بِيَـدِهِ الْخَـيْرُ
+وَهوَ على كلّ شيءٍ قدير</string>
+    <string name="HM0C98">Lā ilāha illallāh
+waḥdahu lā sharīka lah,
+Lahu ‘l-mulku wa lahu ‘l-ḥamd,
+Yuḥyī wa yumīt,
+wa huwa ḥayyun lā yamūt,
+Biyadihi ‘l-khayr,
+wa huwa `alā kulli shayin Qadīr.</string>
+    <string name="HM0D98">None has the right to be worshipped but Allah alone,
+Who has no partner.
+His is the dominion and His is the praise. He brings life and He causes death,
+and He is living and does not die.
+In His Hand is all good,
+and He is Able to do all things.</string>
+
+    <string name="HM0A99">When the mounted animal (or mean of transport) stumbles</string>
+    <string name="HM0B99">بِسْـمِ اللهِ</string>
+    <string name="HM0C99">Bismillāh</string>
+    <string name="HM0D99">With the Name of Allah.</string>
+
+    <string name="HM0A100">Supplication of the traveller for the resident</string>
+    <string name="HM0B100">أَسْتَـوْدِعُكُـمُ اللَّهَ الَّذي لا تَضـيعُ وَدائِعُـه</string>
+    <string name="HM0C100">Astawdi`ukumu ‘llāha ‘l-ladhi lā taḍī`u wadāi`uh.</string>
+    <string name="HM0D100">I place you in the trust of Allah, whose trust is never misplaced.</string>
+
+    <string name="HM0A101">Supplication of the resident for the traveller</string>
+    <string name="HM0B101">أَسْتَـوْدِعُ اللَّهَ ديـنَكَ
+وَأَمانَتَـكَ،
+وَخَـواتيـمَ عَمَـلِك</string>
+    <string name="HM0C101">Astawdi`ullāha dīnak,
+wa amānatak,
+wa khawātīma `amalik.</string>
+    <string name="HM0D101">I leave your religion in the care of Allah,
+as well as your safety,
+and the last of your deeds.</string>
+
+    <string name="HM0A102">Takbir and Tasbih during travel</string>
+    <string name="HM0B102">قَالَ جَابِرٌ رضي الله عنه:
+(كُنَّا إِذَا صَعَدْنَا كَبَّرْنَا،
+وَإِذَا نَزَلْنَا سَبَّحْنَا)</string>
+    <string name="HM0C102"></string>
+    <string name="HM0D102">Whenever we went up a hill we would say Allāhu Akbar (Allah is the Most Great) and when we descended we would say Subḥānallāh (Glory is to Allah).</string>
+
+    <string name="HM0A103">Prayer of the traveller as dawn approaches</string>
+    <string name="HM0B103">سَمِـعَ سـامِعٌ بِحَمْـدِ اللهِ وَحُسْـنِ بَلائِـهِ عَلَيْـنا.
+رَبَّنـا صـاحِبْـنا وَأَفْـضِل عَلَيْـنا
+عائِذاً باللهِ مِنَ النّـار</string>
+    <string name="HM0C103">Sami`a sāmi`un biḥamdillāhi wa ḥusni balāihi `alaynā.
+Rabbanā ṣāḥibnā, wa afḍil `alaynā,
+`āidhan billāhi minan-nār.</string>
+    <string name="HM0D103">He Who listens has heard that we praise Allah for the good things He gives us.
+Our Lord, be with us and bestow Your favor upon us.
+I seek the protection of Allah from the Fire.</string>
+
+    <string name="HM0A104">Stopping or lodging somewhere in travel and otherwise</string>
+    <string name="HM0B104">أَعـوذُ بِكَلِـماتِ اللّهِ التّـامّاتِ مِنْ شَـرِّ ما خَلَـق</string>
+    <string name="HM0C104">A`ūdhu bikalimāti ‘llāhit-tāmmāti min sharri mā khalaq.</string>
+    <string name="HM0D104">I seek refuge in the Perfect Words of Allah from the evil of what He has created.</string>
+
+    <string name="HM0A105">While returning from travel</string>
+    <string name="HM0B105">يُكَبِّرُ عَلَى كُلِّ شَرَفٍ ثَلاَثَ تَكْبِيرَاتٍ ثُمَّ يَقُولُ:
+لاَ إِلَهَ إِلاَّ اللَّهُ
+وَحْدَهُ لاَ شَرِيكَ لَهُ،
+لَهُ الْمُلْكُ، وَلَهُ الْحَمْدُ،
+وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ،
+آيِبُونَ، تَائِبُونَ، عَابِدُونَ،
+لِرَبِّنا حَامِدُونَ،
+صَدَقَ اللَّهُ وَعْدَهُ،
+وَنَصَرَ عَبْدَهُ،
+وَهَزَمَ الْأَحْزابَ وَحْدَهُ</string>
+    <string name="HM0C105">From every elevated point say
+Allāhu Akbar (three times),
+and then recite:</string>
+    <string name="HM0D105">Lā ilāha illallāh waḥdahu lā sharīka lah, lahu ‘l-mulku, walahu ‘l-ḥamd, wa Huwa `alā kulli shayin Qadīr, āibūna, tāibūna,`ābidūn, li Rabbinā ḥāmidūn, sadaqallāhu wa`dah, wa nasara `abdah, wa hazama ‘l-aḥzāba waḥdah. From every elevated point say Allāhu Akbar (Allah is the Most Great) three times and then recite:
+
+None has the right to be worshipped but Allah alone,
+Who has no partner.
+His is the dominion and His is the praise, and He is Able to do all things.
+We return repentant to our Lord, worshipping our Lord,
+and praising our Lord.
+He fulfilled His Promise,
+He aided His slave,
+and He alone defeated the Confederates.</string>
+
+    <string name="HM0A106">What to say upon receiving pleasing or displeasing news</string>
+    <string name="HM0B106">انَ النَّبِيُّ صلى الله عليه وسلم إِذَا أَتَاهُ الْأَمْرُ يَسُرُّهُ قَالَ: (الْحَمْدُ لِلَّهِ الَّذِي بِنِعْمَتِهِ تَتِمُّ الصَّالِحَاتُ) وَإِذَا أَتَاهُ الْأَمْرُ يَكْرَهُهُ قَالَ: (الْحَمْدُ لِلَّهِ عَلَى كُلِّ حَالٍ)</string>
+    <string name="HM0C106">When something happened that pleased him, the Prophet (ﷺ) used to say:</string>
+    <string name="HM0D106">Alḥamdu lillāhi ‘lladhi bi ni`matihi tatimmuṣ-ṣāliḥāt. And if something happened that displeased him, he used to say: Alḥamdu lillāhi `alā kulli ḥāl. When something happened that pleased him, the Prophet (ﷺ) used to say:
+Praise is to Allah Who by His blessings all good things are perfected.</string>
+
+    <string name="HM0A107"> Excellence of sending prayers upon the Prophet (saws)</string>
+    <string name="HM0B107">قَالَ النَّبِيُّ صلى الله عليه وسلم: (مَنْ صَلَّى عَلَيَّ صَلاَةً صَلَّى اللَّهُ عَلَيْهِ بِهَا عَشْراً)</string>
+    <string name="HM0C107"></string>
+    <string name="HM0D107">"Whoever prays for Allahs blessings upon me once, will be blessed for it by Allah ten times.</string>
+
+    <string name="HM0A108">Excellence of spreading the Islamic greeting</string>
+    <string name="HM0B108">ثَلاَثٌ مَنْ جَمَعَهُنَّ فَقَدْ جَمَعَ الْإِيمَانَ: الْإِنْصَافُ مِنْ نَفْسِكَ، وَبَذْلُ السَّلاَمِ لِلْعَالَمِ، وَالْإِنْفَاقُ مِنَ الإِقْتَارِ</string>
+    <string name="HM0C108">Three characteristics, whoever combines them, has completed his faith:</string>
+    <string name="HM0D108">to be just, to spread greetings to all people and to spend (charitably) out of the little you have.</string>
+
+    <string name="HM0A109">Returning a greeting to a disbeliever</string>
+    <string name="HM0B109">ذَا سَلَّمَ عَلَيْكُمْ أَهْلُ الْكِتَابِ فَقُولُوا: وَعَلَيْكُمْ</string>
+    <string name="HM0C109">If one of the People of the Scripture (i.e. Christians and Jews) greets you, saying As-Salāmu `alaykum, then say (to him):</string>
+    <string name="HM0D109">Wa `alaykum. If one of the People of the Scripture (i.e. Christians and Jews) greets you saying As-Salaamu `alaykum, then say (to him):</string>
+
+    <string name="HM0A110">Upon hearing a rooster crow or the braying of a donkey</string>
+    <string name="HM0B110">إِذَا سَمِعْتُمْ صِيَاحَ الدِّيَكَةِ فَاسْأَلُوا اللَّهَ مِنْ فَضْلِهِ؛ فَإِنَّهَا رَأَتْ مَلَكاً وَإِذَا سَمِعْتُمْ نَهِيقَ الْحِمَارِ فَتَعَوَّذُوا بِاللَّهِ مِنَ الشَّيطَانِ؛ فَإِنَّهُ رَأَى شَيْطَاناً</string>
+    <string name="HM0C110"></string>
+    <string name="HM0D110">When you hear the cocks crow, ask Allah for His favor upon you for surely it has seen an angel. When you hear the bray of a donkey, seek refuge in Allah from Satan, for surely it has seen a devil.</string>
+
+    <string name="HM0A111">Upon hearing the barking of dogs at night</string>
+    <string name="HM0B111">إِذَا سَمِعْتُمْ نُبَاحَ الْكِلاَبِ وَنَهِيقَ الْحَمِيرِ بِاللَّيْلِ فَتَعَوَّذُوا بِاللَّهِ مِنْهُنَّ؛ فَإِنَّهُنَّ يَرَيْنَ مَا لاَ تَرَوْنَ</string>
+    <string name="HM0C111"></string>
+    <string name="HM0D111">When you hear a dog barking or a donkey braying in the night, then seek refuge in Allah from them, for surely they have seen what you see not.</string>
+
+    <string name="HM0A112">For one you have insulted</string>
+    <string name="HM0B112">قال صلى الله عليه وسلم: "اللَّهُم فأيما مؤمن سببته فاجعل ذلك له قربة إليك يوم القيامة"</string>
+    <string name="HM0C112">Allāhumma faayyumā muminin sababtuhu
+faj`al dhālika lahu qurbatan ilayka yawma ‘l-qiyāmah.</string>
+    <string name="HM0D112">O Allah, whomever of the believers I have abused, give him the reward of a sacrificial slaughter for it on the Day of Resurrection.</string>
+
+    <string name="HM0A113">The etiquette of praising a fellow Muslim</string>
+    <string name="HM0B113">قال صلى الله عليه وسلم: "إِذَا كَانَ أَحَدُكُم مَادِحاً صَاحِبَهُ لاَ مَحَالَةَ فَلْيَقُلْ: أَحْسِبُ فُلاَناً وَاللَّهُ حَسِيبُهُ، وَلاَ أُزَكِّي عَلَى اللَّهِ أَحَداً، أَحْسِبُهُ – إِنْ كَانَ يَعْلَمُ ذَاكَ – كَذَا وَكَذَا"</string>
+    <string name="HM0C113"></string>
+    <string name="HM0D113">Aḥsibu fulānan wallāhu ḥasībuh wa lā uzakkī `alallāhi aḥada. If any of you praises his companion then let him say:
+I consider (such and such a person), and Allah is his Assessor, (meaning: and I cannot claim anyone to be pious before Allah) if you know of this (good character trait in the person) to be such and such (saying what he thinks is praiseworthy in that person).</string>
+
+    <string name="HM0A114">For the one that have been praised</string>
+    <string name="HM0B114">اللَّهُمَّ لاَ تُؤَاخِذْنِي بِمَا يَقُولُونَ وَاغْفِرْ لِي مَا لاَ يَعْلَمُونَ [وَاجْعَلْنِي خَيْرًا مِمَّا يَظُّنُّونَ]</string>
+    <string name="HM0C114">Allāhumma lā tuākhidhnī bimā yaqūlūn,
+waghfir lī mā lā ya`lamūn
+[waj`alnī khayran mimmā yaẓunnūn].</string>
+    <string name="HM0D114">O Allah, do not call me to account for what they say
+and forgive me for what they have no knowledge of
+[and make me better than they imagine].</string>
+
+    <string name="HM0A115"> The Talbiya for the one doing Hajj or Umrah</string>
+    <string name="HM0B115">لَبَّيْكَ اللَّهُمَّ لَبَّيْكَ،
+لَبَّيْكَ لاَ شَرِيكَ لَكَ لَبَّيْكَ،
+إِنَّ الْحَمْدَ والنِّعْمَة لَكَ والمُلْكُ،
+لَا شَرِيكَ لَكَ</string>
+    <string name="HM0C115">Labbayk-Allāhumma labbayk,
+labbayka lā sharīka laka labbayk,
+inna ‘l-ḥamda, wanni`mata, laka wa ‘l-mulk,
+lā sharīka lak.</string>
+    <string name="HM0D115">I am here at Your service, O Allah, I am here at Your service.
+I am here at Your service, You have no partner, I am here at Your service.
+Surely the praise, and blessings are Yours, and the dominion.
+You have no partner.</string>
+
+    <string name="HM0A116">The Takbîr passing the black stone</string>
+    <string name="HM0B116">طَافَ النَّبيُّ صلى الله عليه وسلم بِالْبَيْتِ عَلَى بَعِيرٍ كُلَّمَا أَتَى الرُّكْنَ أَشَارَ إِلَيْهِ بِشَيْءٍ عِنْدَهُ وَكَبَّرَ</string>
+    <string name="HM0C116">The Prophet (ﷺ) performed Tawaf riding a camel. Every time he passed the corner (containing the Black Stone), he would point to it with something that he was holding and say:</string>
+    <string name="HM0D116">Allāhu Akbar (Allah is the Most Great)!</string>
+
+    <string name="HM0A117">Between the Yemeni corner and the black stone</string>
+    <string name="HM0B117">﴿رَبَّنَا آتِنَا في الدُّنْيَا حسَنَةً
+وفي الآخِرَةِ حسَنةً
+وقِنَا عذَابَ النَّارِ﴾</string>
+    <string name="HM0C117">Rabbanā ātinā fid-dunyā ḥasanah
+wa fi ‘l-ākhirati ḥasanah
+wa qinā `adhāban-nār.</string>
+    <string name="HM0D117">Our Lord, grant us the good things in this world,
+and the good things in the next life,
+and save us from the punishment of the Fire.</string>
+
+    <string name="HM0A118"> When at Mount Safa and Mount Marwah</string>
+    <string name="HM0B118">(لَمَّا دَنَا النَّبِيُّ صلى الله عليه وسلم مِنَ الصَّفَا قَرَأَ: ﴿إِنَّ الصَّفَا وَالْمَرْوَةَ مِنْ شَعَآئِرِ اللَّهِ﴾ "أَبْدَأُ بِمَا بَدَأَ اللَّهُ بِهِ" فَبَدَأَ بِالصَّفَا فَرَقِيَ عَلَيْهِ حَتَّى رَأَى الْبَيْتَ، فَاسْتَقْبَلَ الْقِبْلَةَ، فَوَحَّدَ اللَّهَ وَكبَّرَهُ وَقَالَ: لاَ إِلَهَ إِلاَّ اللَّهُ وَحْدَهُ لاَ شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ، لاَ إِلَهَ إِلاَّ اللَّهُ وَحْدَهُ، أَنْجَزَ وَعْدَهُ، وَنَصَرَ عَبْدَهُ، وَهَزَمَ الْأَحْزَابَ وَحْدَهُ، ثُمَّ دَعَا بَيْنَ ذلكَ. قَالَ مِثْلَ هَذَا ثَلاَثَ مَرَّاتٍ) الْحَدِيثُ.
+
+وَفِيهِ: (فَفَعَلَ عَلَى الْمَرْوَةِ كَمَا فَعَلَ عَلَى الصَّفَا)</string>
+    <string name="HM0C118"></string>
+    <string name="HM0D118">Innaṣ-Ṣafā wa ‘l-Marwata min sha`āirillāh. Abdau bimā badaallāhu bih. He began (his Sa`y) at Mount Safa climbing it, until he could see the House. He then faced the Qiblah repeating the words: Lā ilāha illallāh, Allāhu Akbar Then he said: Lā ilāha illallāh waḥdahu lā sharīka lah, Lahu ‘l-mulku wa lahu ‘l-ḥamd wa Huwa `alā kulli shayin Qadīr, lā ilāha illallāhu waḥdahu, anjaza wa`dahu, wa naṣara `abdahu, wa hazama ‘l aḥzāba waḥdah. Then he would ask Allah for what he liked, repeating the same three times. He did at Mount Marwah as he did at Mount Safa. Whenever the Prophet (ﷺ) approached Mount Safa, he would recite:
+
+Surely Safa and Marwah are among the signs of Allah. I begin by that which Allah began.
+
+He began (his Say) at Mount Safa climbing it until he could see the House. He then faced the Qiblah repeating the words:
+
+There is none worthy of worship but Allah, and Allah is the Most Great.
+
+Then he said:
+
+None has the right to be worshipped but Allah alone, Who has no partner, His is the dominion and His is the praise, and He is Able to do all things. None has the right to be worshipped but Allah alone, He fulfilled His Promise, He aided His slave, and He alone defeated Confederates.
+
+Then he would ask Allah for what he liked, repeating the same thing like this three times. He did at Mount Marwah as he did at Mount Safa.</string>
+
+    <string name="HM0A119"> The Day of Arafah</string>
+    <string name="HM0B119">ير الدعاء دعاء يوم عرفة ، وخيرُ ما قلت أنا والنبيُّون من قبلي :
+
+لا إله إلا الله وحدهُ
+لا شريك لهُ ،
+لهُ الملكُ ولهُ الحمدُ
+وهو على كل شيء قدير.</string>
+    <string name="HM0C119">Lā ilāha illallāhu
+waḥdahu lā sharīka lahu,
+lahul-mulku wa lahul-ḥamdu
+wa huwa `alā kulli shayin qadīr.</string>
+    <string name="HM0D119">None has the right to be worshipped but Allah
+Alone, Who has no partner.
+His is the dominion and His is the praise,
+and He is Able to do all things.</string>
+
+    <string name="HM0A120">Remembrance at Muzdalifa</string>
+    <string name="HM0B120">رَكِبَ صلى الله عليه وسلم الْقَصْوَاءَ حَتَّى أَتَى الْمَشْعَرَ الْحَرَامَ فَاسْتَقْبَلَ الْقِبْلَةَ (فَدَعَاهُ، وَكَبَّرَهُ، وَهَللَّهُ، وَوَحَّدَهُ) فَلَمْ يَزَلْ وَاقِفاً حَتَّى أَسْفَرَ جِدَّاً فَدَفَعَ قَبْلَ أَنْ تَطْلُعَ الشَّمسُ.</string>
+    <string name="HM0C120"></string>
+    <string name="HM0D120">He (ﷺ) rode Al-Qaswa until he reached Al-MashAAar Al-Haram, he then faced the qiblah, supplicated to Allah, and extoled His greatness and oneness. He stood until the sun shone but left before it rose.</string>
+
+    <string name="HM0A121">Takbir when throwing each pebble at the Jamarat</string>
+    <string name="HM0B121">يُكَبِّرُ كُلَّمَا رَمَى بِحَصَاةٍ عِنْدَ الْجِمَارِ الثَّلاَثِ، ثُمَّ يَتَقَدَّمُ، ويَقِفُ يَدْعُو مُسْتَقْبِلَ الْقِبلَةِ، رَافِعاً يَدَيْهِ بَعْدَ الْجَمْرَةِ الْأُولَى وَالثَّانِيَةِ. أَمَّا جَمْرَةُ الْعَقَبَةِ فَيَرْمِيهَا وَيُكَبِّرُ عِنْدَ كُلِّ حَصَاةٍ وَيَنْصَرِفُ وَلاَ يَقِفُ عِنْدَهَا</string>
+    <string name="HM0C121"></string>
+    <string name="HM0D121">The Prophet (ﷺ) said Allāhu Akbar (Allah is the Most Great) with each pebble he threw at the three pillars. Then he went forward, stood facing the Qiblah, and raised his hands and called upon Allah. That was after (stoning) the first and second pillars. As for the third, he stoned it and called out Allāhu Akbar with every pebble he threw, but when he was finished he left without standing at it (for supplications).</string>
+
+    <string name="HM0A122"> At times of amazement and that which delights</string>
+    <string name="HM0B122">سُـبْحانَ الله</string>
+    <string name="HM0C122">Subḥānallāh!</string>
+    <string name="HM0D122">(Glory is to Allah).</string>
+
+    <string name="HM0A123">Upon receiving pleasant news</string>
+    <string name="HM0B123">كَانَ النَّبيُّ صلى الله عليه وسلم إِذَا أَتَاهُ أَمْرٌ يَسُرُّهُ أَوْ يُسَرُّ بِهِ خَرَّ سَاجِداً شُكْراً لِلَّهِ تَبَارَكَ وَتَعَالَى</string>
+    <string name="HM0C123"></string>
+    <string name="HM0D123">The Prophet (ﷺ), upon receiving news which pleased him or which caused pleasure, would prostrate in gratitude to Allah blessed and exalted.</string>
+
+    <string name="HM0A124">When feeling some pain in the body</string>
+    <string name="HM0B124">ضَعْ يَدَكَ عَلَى الَّذِي تَألَّمَ مِنْ جَسَدِكَ وَقُلْ:
+"بِسْمِ اللَّهِ" ثَلاَثاً،
+وَقُلْ سَبْعَ مَرَّاتٍ:
+"أَعُوذُ بِاللَّهِ وَقُدْرَتِهِ مِنْ شَرِّ مَا أَجِدُ وَأُحَاذِرُ"</string>
+    <string name="HM0C124">Put your hand on the place where you feel pain</string>
+    <string name="HM0D124">Bismillāh (three times). Then say seven times: A`ūdhu billāhi wa qudratihi min sharri mā ajidu wa uḥādhir. Put your hand on the place where you feel pain and say:
+With the Name of Allah (three times).</string>
+
+    <string name="HM0A125">When in fear of afflicting something with an (evil) eye from oneself</string>
+    <string name="HM0B125">إِذَا رَأَى أَحَدُكُم مِنْ أَخِيهِ، أَوْ مِنْ نَفْسِهِ، أَوْ مِنْ مَالِهِ مَا يُعْجِبُهُ [فَلْيَدْعُ لَهُ بِالْبَرَكَةِ] فَإِنَّ الْعَيْنَ حَقٌّ</string>
+    <string name="HM0C125"> When in fear of afflicting something with an (evil) eye from oneself</string>
+    <string name="HM0D125">If you see something from your brother, yourself or wealth which you find impressing, then invoke blessings for it, for the evil eye is indeed true.</string>
+
+    <string name="HM0A126">When startled</string>
+    <string name="HM0B126">لا إلهَ إلاّ اللّهُ</string>
+    <string name="HM0C126">Lā ilāha illallāh!</string>
+    <string name="HM0D126">There is none worthy of worship but Allah!</string>
+
+    <string name="HM0A127">When slaughtering or offering a sacrifice</string>
+    <string name="HM0B127">بِسْمِ اللَّهِ وَاللَّهُ أَكْبَرُ [اللَّهُمَّ مِنْكَ وَلَكَ] اللَّهُمَّ تَقَبَّلْ مِنِّي</string>
+    <string name="HM0C127">Bismillāh wallāhu Akbar
+[Allāhumma minka wa lak]
+Allāhumma taqabbal minnī.</string>
+    <string name="HM0D127">With the Name of Allah,
+Allah is the Most Great!
+[O Allah, from You and to You.]
+O Allah, accept it from me.</string>
+
+    <string name="HM0A128">To ward off the plot of the rebellious devils</string>
+    <string name="HM0B128">أَعُوذُ بكَلِمَاتِ اللهِ التَّامَّاتِ الَّتِي لَا يُجَاوِزُهُنَّ بَرٌّ ولَا فَاجرٌ
+مِنْ شّرِّ مَا خَلقَ،
+وبَرَأَ وذَرَأَ،
+ومِنْ شَرِّ مَا يَنْزِلُ مِنَ السَّمَاءِ
+وِمنْ شَرِّ مَا يَعْرُجُ فيهَا،
+ومِن شَرِّ مَا ذَرَأَ في الأَرْضِ
+ومِنْ شَرِّ مَا يَخْرُجُ مِنْهَا،
+وِمنْ شَرِّ فِتَنِ اللَّيْلِ والنَّهارِ،
+ومِنْ شَرِّ كُلِّ طارِقٍ
+إِلَّا طَارِقاً يَطْرُقُ بخَيْرٍ
+يَا رَحْمَنُ</string>
+    <string name="HM0C128">A`ūdhu bikalimāti ‘llāhit-tāmmāti ‘llatī lā yujāwizuhunna barrun wa lā fājirun
+min sharri mā khalaq,
+wa baraa wa dhara,
+wa min sharri mā yanzilu minas-samā,
+wa min sharri mā ya`ruju fīhā,
+wa min sharri mā dharaa fi ‘l-arḍ,
+wa min sharri ma yakhruju minhā,
+wa min sharri fitani ‘llayli wannahār,
+wa min sharri kulli ṭāriqin
+illā ṭāriqan yaṭruqu bikhayr
+yā Rahmān.</string>
+    <string name="HM0D128">I seek refuge in the Perfect Words of Allah -which neither the upright nor the corrupt may overcome -
+from the evil of what He created,
+of what He made, and of what He scattered,
+from the evil of what descends from the
+heavens,
+and of what rises up to them,
+from the evil of what He scattered in the earth,
+and of what emerges from it,
+from the evil trials of night and day,
+and from the evil of every night visitor,
+except the night visitor who comes with good.
+O Merciful One.</string>
+
+    <string name="HM0A129"> Seeking forgiveness and repentance</string>
+    <string name="HM0B129">قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم: "وَاللَّهِ إِنِّي لأَسْتَغفِرُ اللَّهَ وَأَتُوبُ إِلَيْهِ فِي الْيَوْمِ أَكْثَرَ مِنْ سَبْعِينَ مَرَّةٍ"</string>
+    <string name="HM0C129"></string>
+    <string name="HM0D129">"By Allah, I seek the forgiveness of Allah, and repent to Him more than seventy times in a day.</string>
+
+    <string name="HM0A130">Excellence of Tasbih, Tahmid, Tahlil, and Takbir</string>
+    <string name="HM0B130">نَّ أَفْضَلَ الدُّعَاءِ (الْحَمْدُ لِلَّهِ)، وَأَفْضَلَ الذِّكْرِ (لاَ إِلَهَ إِلاَّ اللَّهُ)</string>
+    <string name="HM0C130">The most excellent invocation is:</string>
+    <string name="HM0D130">Alḥamdulillāh and the most excellent words of remembrance are: Lā ilāha illallāh. The most excellent invocation is:</string>
+
+
+    <string name="HM0A131">How the Prophet ﷺ made tasbeeh</string>
+    <string name="HM0B131">عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو رضي الله عنهما قَالَ: رَأَيْتُ النَّبيَّ صلى الله عليه وسلم يَعْقِدُ التَّسْبِيحَ بِيَمِينِهِ.</string>
+    <string name="HM0C131"></string>
+    <string name="HM0D131">"I saw the Prophet (ﷺ) counting the glorification of his Lord on his right hand."</string>
+
+    <string name="HM0A132">Comprehensive types of good and manners</string>
+    <string name="HM0B132">ذَا كَانَ جُنْحُ اللَّيْلِ – أَوْ أَمْسَيْتُم – فَـكُفُّوا صِبْيانَـكُم، فَإِنَّ الشَّيَاطِينَ تَنْتَشِرُ حِينَئِذٍ، فَإِذَا ذَهَبَ سَاعَةٌ مِنَ اللَّيلِ فَخَلُّوهُمْ، وَأَغْلِقُوا الأَبْوَابَ وَاذْكُرُوا اسْمَ اللَّهِ؛ فَإِنَّ الشَّيطَانَ لاَ يَفْتَحُ بَاباً مُغلَقاً، وَأَوْكُوا قِرَبَكُمْ، وَاذْكُرُوا اسْمَ اللَّهِ، وَخَمِّرُوا آنِيَتَكُم، وَاذْكُرُوا اسْمَ اللَّهِ، وَلَوْ أَنْ تَعْرُضُوا عَلَيْهَا شَيْئاً، وَأَطْفِئُوا مَصَابِيحَكُمْ.
+</string>
+    <string name="HM0C132"></string>
+    <string name="HM0D132">When night falls, restrain your children (from going out) because at such time the devils spread about. After a period of time has passed, let them be. Shut your doors and mention Allah’s name, for verily the devil does not open a shut door, tie up your water-skins and mention Allah’s name, cover your vessels with anything and mention Allah’s name and put out your lamps.</string>
+
+
+    <string name="RD0A1">Dua for fasting</string>
+    <string name="RD0B1">وَبِصَوْمِ غَدٍ نَوَيْتَ مِنْ شَهْرِ رَمَضَانَ</string>
+    <string name="RD0C1">I intend to keep the fast for the month of Ramadan.</string>
+    <string name="RD0D1"></string>
+
+
+    <string name="RD0A2">Dua when Breaking fast</string>
+    <string name="RD0B2">اللَّهُمَّ إِنِّي لَكَ صُمْتُ وَبِكَ امَنْتُ وَعَلَيْكَ تَوَكَّلْتُ وَعَلَى رِزْقِكَ أَفْطَرْتُ</string>
+    <string name="RD0C2">O Allah! I fasted for You and I believe in You (and i put my trust in you) and I break my fast with Your sustenance.</string>
+    <string name="RD0D2"></string>
+
+    <string name="RD0A3">Dua For First Ashra</string>
+    <string name="RD0B3">اللَّهُمَّ اغْفِرْ وَارْحَمْ وَأَنْتَ خَيْرُ الرَّحِمِينَ</string>
+    <string name="RD0C3">O Allah! forgive and have mercy and you are the best of merciful.</string>
+    <string name="RD0D3"></string>
+
+
+    <string name="RD0A4">Dua For Second Ashra</string>
+    <string name="RD0B4">اسْتَغْفِرُ اللَّهَ رَبِّي مِنْ كُلِ ذَنْبٍ وَاتُوبُ إِلَيْهِ</string>
+    <string name="RD0C4">I seek Allah-s forgiveness for all my sins, Who is Lord, and I ask for repentance.</string>
+    <string name="RD0D4"></string>
+
+    <string name="RD0A5">Dua For Third Ashra</string>
+    <string name="RD0B5">اللَّهُمَّ أَجِرْنِي مِنَ النَّارِ</string>
+    <string name="RD0C5">Allah save us from the hell-s fire.</string>
+    <string name="RD0D5"></string>
+
+    <string name="RD0A6">Tasbeeh e-TaraWeeh</string>
+    <string name="RD0B6">سُبْحَانَ ذِي الْمُلْكِ وَالْمَلَكُوتِ طَ سُبْحَانَ ذِي
+
+الْعِزَّةِ وَالْعَظَمَةِ وَالْهَيْبَةِ وَالْقُدْرَةِ وَالْكِبْرِيَاء
+
+وَالْجَبَرُوتِ ط سُبْحَانَ الْمَلِكِ الْحَى الَّذِي لَا
+
+يَنَامُ وَلَا يَمُوتُ طَ سُبُّوحٌ قُدُّوسٌ رَبُّنَا
+
+وَرَبُّ الْمَلَائِكَةِ وَالرُّوحِ طَ اللَّهُمَّ أَجِرْنَا مِنَ
+
+النَّارِ يَا مُجِيرُ يَا مُجِيرُ يَا مُجِير</string>
+    <string name="RD0C6">"Glory be to the Owner of the Kingdom of the earth and the heavens. Glory be to He who commands Respect and Honour and Magificence &amp; Awe and Power and Greatness and Omnipotence. Glory be to the Sovereign, the Ever-living. Who does not sleep nor die. He is the Most Praised, the Most Holy, Our Lord and the Lord of all the Angels and the Spirit (Jibraeel A.S) O Allah! Save us from the Fire of Hell. O Protertor! O Protertor! O Protertor!"</string>
+    <string name="RD0D6"></string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+
+    <string name="intro_title1">Prayer Times &amp; Notifications</string>
+    <string name="intro_title2">Find Qibla Direction</string>
+    <string name="intro_title3">Gregorian and Hijri Calendar</string>
+    <string name="intro_title4">Never miss Fajr prayer!</string>
+
+
+    <string name="intro_sub1">Accurate prayer timings worldwide, choose and set notification by enabling prayer notifications and customize reminder notifications settings for each prayer time</string>
+    <string name="intro_sub2">Determine the direction of Qibla from any place around the world</string>
+    <string name="intro_sub3">Flexible design to view current Islamic / Hijri &amp; Gregorian calendar</string>
+    <string name="intro_sub4">Wake up for Fajr by completing fun challenges</string>
+
+
+</resources>
